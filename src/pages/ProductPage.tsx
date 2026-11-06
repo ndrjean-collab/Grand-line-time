@@ -9,7 +9,7 @@ import { StockBadge } from '../components/StockBadge'
 import { useCart } from '../context/CartContext'
 import { categoryCopy } from '../i18n/categories'
 import { useI18n } from '../i18n/I18nProvider'
-import { findEngine, findMake, findModel, getProductBySlug, relatedProducts } from '../lib/catalog'
+import { findMake, findModel, getProductBySlug, relatedProducts } from '../lib/catalog'
 import { useMeta } from '../lib/meta'
 
 const views: ArtVariant[] = ['main', 'detail', 'schema']
@@ -105,7 +105,7 @@ export function ProductPage() {
             </div>
             <div>
               <dt>{t('pdpOem')}</dt>
-              <dd>{product.oem}</dd>
+              <dd>{product.oeNumbers.length ? product.oeNumbers.join(', ') : t('pdpOemMissing')}</dd>
             </div>
           </dl>
           <StockBadge product={product} detail />
@@ -139,38 +139,37 @@ export function ProductPage() {
 
       <section className="sheet">
         <h2>{t('pdpCompat')}</h2>
-        <p className="callout">{t('pdpCompatDisclaimer')}</p>
-        <div className="table-scroll">
-          <table>
-            <thead>
-              <tr>
-                <th>{t('compatMake')}</th>
-                <th>{t('compatModel')}</th>
-                <th>{t('compatYears')}</th>
-                <th>{t('compatEngine')}</th>
-              </tr>
-            </thead>
-            <tbody>
-              {product.compatibility.map((fit) => {
-                const make = findMake(fit.make)
-                const model = findModel(fit.make, fit.model)
-                const engines = fit.engines
-                  .map((id) => findEngine(fit.make, fit.model, id)?.name[locale] ?? id)
-                  .join(', ')
-                return (
-                  <tr key={`${fit.make}-${fit.model}-${fit.yearFrom}`}>
-                    <td>{make?.name[locale] ?? fit.make}</td>
-                    <td>{model?.name[locale] ?? fit.model}</td>
-                    <td>
-                      {fit.yearFrom}–{fit.yearTo}
-                    </td>
-                    <td>{engines}</td>
+        {product.compatibility.length === 0 ? (
+          <p className="callout">{t('pdpCompatCheck')}</p>
+        ) : (
+          <>
+            <p className="callout">{t('pdpCompatDisclaimer')}</p>
+            <div className="table-scroll">
+              <table>
+                <thead>
+                  <tr>
+                    <th>{t('compatMake')}</th>
+                    <th>{t('compatModel')}</th>
+                    <th>{t('compatSource')}</th>
                   </tr>
-                )
-              })}
-            </tbody>
-          </table>
-        </div>
+                </thead>
+                <tbody>
+                  {product.compatibility.map((fit) => {
+                    const make = findMake(fit.make)
+                    const model = findModel(fit.make, fit.model)
+                    return (
+                      <tr key={`${fit.make}-${fit.model}-${fit.detail ?? ''}`}>
+                        <td>{make?.name[locale] ?? fit.make}</td>
+                        <td>{model?.name[locale] ?? fit.model}</td>
+                        <td>{fit.detail || '—'}</td>
+                      </tr>
+                    )
+                  })}
+                </tbody>
+              </table>
+            </div>
+          </>
+        )}
       </section>
 
       {related.length > 0 ? (

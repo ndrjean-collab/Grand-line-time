@@ -75,7 +75,10 @@ function matchText(product: Product, q: string) {
   if (!needle) return true
   const haystack = [
     product.sku,
+    product.mpn,
+    product.brand,
     product.oem,
+    ...(product.oeNumbers ?? []),
     product.slug,
     product.id,
     product.category,
@@ -99,8 +102,11 @@ function matchVehicle(product: Product, query: CatalogQuery) {
   return product.compatibility.some((fit) => {
     if (fit.make !== query.make) return false
     if (query.model && fit.model !== query.model) return false
-    if (year !== undefined && (!Number.isFinite(year) || year < fit.yearFrom || year > fit.yearTo)) return false
-    if (query.engine && !fit.engines.includes(query.engine)) return false
+    if (year !== undefined) {
+      if (fit.yearFrom == null || fit.yearTo == null) return false
+      if (!Number.isFinite(year) || year < fit.yearFrom || year > fit.yearTo) return false
+    }
+    if (query.engine && !(fit.engines ?? []).includes(query.engine)) return false
     return true
   })
 }

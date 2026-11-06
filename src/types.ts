@@ -10,9 +10,10 @@ export interface Spec {
 export interface Compatibility {
   make: string
   model: string
-  yearFrom: number
-  yearTo: number
-  engines: string[]
+  detail?: string
+  yearFrom?: number
+  yearTo?: number
+  engines?: string[]
 }
 
 export type Fulfillment = 'stock' | 'partner'
@@ -21,6 +22,9 @@ export interface Product {
   id: string
   slug: string
   sku: string
+  mpn: string
+  brand: string
+  oeNumbers: string[]
   oem: string
   fictional: boolean
   category: string

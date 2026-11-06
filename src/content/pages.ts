@@ -66,11 +66,11 @@ export const aboutDoc: InfoDoc = {
     {
       kind: 'callout',
       text: L(
-        'Les trente pièces, leurs prix, leurs stocks et leurs compatibilités sont fictifs. Aucun montage réel n’est garanti. Le paiement n’est pas branché. Le site est publié sur grandlinetime.com.',
-        'The thirty parts, their prices, stock and fitment are fictional. No real installation is guaranteed. Payment is not connected. The site is published at grandlinetime.com.',
-        'Die dreißig Teile, ihre Preise, Bestände und Passungen sind erfunden. Kein echter Einbau wird zugesichert. Die Zahlung ist nicht angebunden. Die Website ist unter grandlinetime.com veröffentlicht.',
-        'Las treinta piezas, sus precios, stocks y compatibilidades son ficticios. No se garantiza ningún montaje real. El pago no está conectado. El sitio está publicado en grandlinetime.com.',
-        'I trenta ricambi, i prezzi, le disponibilità e le compatibilità sono fittizi. Nessun montaggio reale è garantito. Il pagamento non è collegato. Il sito è pubblicato su grandlinetime.com.',
+        'Les références sont des pièces neuves du marché. Le prix affiché est le plus bas prix public TTC relevé, arrondi en ,x9. La compatibilité n’est listée que si la page source la cite pour cette référence. Le paiement n’est pas encore branché. Le site est publié sur grandlinetime.com.',
+        'The references are new aftermarket parts. The price shown is the lowest public price including VAT that was found, rounded to end in 9 cents. Compatibility is listed only when the source page states it for that part number. Payment is not connected yet. The site is published at grandlinetime.com.',
+        'Die Referenzen sind neue Ersatzteile. Der Preis ist der niedrigste gefundene öffentliche Preis inkl. MwSt., gerundet auf eine Endung mit 9 Cent. Eine Passform steht nur dann, wenn die Quellseite sie für diese Referenz nennt. Die Zahlung ist noch nicht angebunden. Die Website ist unter grandlinetime.com veröffentlicht.',
+        'Las referencias son recambios nuevos. El precio es el menor precio público con IVA encontrado, redondeado para terminar en 9 céntimos. La compatibilidad solo se lista si la página de origen la cita para esa referencia. El pago aún no está conectado. El sitio está publicado en grandlinetime.com.',
+        'I riferimenti sono ricambi nuovi. Il prezzo è il più basso prezzo pubblico IVA inclusa trovato, arrotondato in modo da finire con 9 centesimi. La compatibilità è elencata solo se la pagina di origine la indica per quel riferimento. Il pagamento non è ancora collegato. Il sito è pubblicato su grandlinetime.com.',
       ),
     },
     {
@@ -276,11 +276,11 @@ export const termsDoc: InfoDoc = {
     {
       kind: 'p',
       text: L(
-        'Elles décriront la vente de pièces automobiles neuves par [RAISON SOCIALE], [FORME JURIDIQUE], dont le siège est [ADRESSE], aux consommateurs et, le cas échéant, aux professionnels. Le catalogue affiché aujourd’hui est un jeu d’exemples fictifs.',
-        'They will describe the sale of new automotive parts by [COMPANY NAME], [LEGAL FORM], registered office [ADDRESS], to consumers and, where relevant, to professionals. The catalogue shown today is a set of fictional examples.',
-        'Sie werden den Verkauf neuer Fahrzeugteile durch [FIRMENNAME], [RECHTSFORM], Sitz [ADRESSE], an Verbraucher und gegebenenfalls Gewerbekunden beschreiben. Der heutige Katalog ist eine Sammlung fiktiver Beispiele.',
-        'Describirán la venta de recambios nuevos por [RAZÓN SOCIAL], [FORMA JURÍDICA], domicilio [DIRECCIÓN], a consumidores y, en su caso, a profesionales. El catálogo de hoy es un conjunto de ejemplos ficticios.',
-        'Descriveranno la vendita di ricambi nuovi da parte di [RAGIONE SOCIALE], [FORMA GIURIDICA], sede [INDIRIZZO], a consumatori e, se del caso, a professionisti. Il catalogo di oggi è un insieme di esempi fittizi.',
+        'Elles décriront la vente de pièces automobiles neuves par [RAISON SOCIALE], [FORME JURIDIQUE], dont le siège est [ADRESSE], aux consommateurs et, le cas échéant, aux professionnels. Les prix affichés reprennent le plus bas prix public TTC relevé.',
+        'They will describe the sale of new automotive parts by [COMPANY NAME], [LEGAL FORM], registered office [ADDRESS], to consumers and, where relevant, to professionals. Displayed prices follow the lowest public price including VAT that was found.',
+        'Sie werden den Verkauf neuer Fahrzeugteile durch [FIRMENNAME], [RECHTSFORM], Sitz [ADRESSE], an Verbraucher und gegebenenfalls Gewerbekunden beschreiben. Die Preise folgen dem niedrigsten gefundenen öffentlichen Preis inkl. MwSt.',
+        'Describirán la venta de recambios nuevos por [RAZÓN SOCIAL], [FORMA JURÍDICA], domicilio [DIRECCIÓN], a consumidores y, en su caso, a profesionales. Los precios siguen el menor precio público con IVA encontrado.',
+        'Descriveranno la vendita di ricambi nuovi da parte di [RAGIONE SOCIALE], [FORMA GIURIDICA], sede [INDIRIZZO], a consumatori e, se del caso, a professionisti. I prezzi seguono il più basso prezzo pubblico IVA inclusa trovato.',
       ),
     },
     {

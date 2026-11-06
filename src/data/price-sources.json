@@ -1,0 +1,3519 @@
+{
+  "checkedOn": "2026-11-06",
+  "currency": "EUR",
+  "vatIncluded": true,
+  "sellingPriceRule": "Lowest observed public TTC price, rounded to the nearest amount ending in 9 cents.",
+  "sites": {
+    "carmino": "Product pages returned a public EUR TTC price, specifications and, when present, stated fitment.",
+    "oscaro": "Blocked: HTTP 403 Cloudflare challenge.",
+    "mister-auto": "Blocked: HTTP 403 Cloudflare challenge.",
+    "autodoc": "Blocked or unreachable from this network (connection failure or HTTP 403).",
+    "amazon-fr": "Blocked: HTTP 503.",
+    "idealo": "Blocked: HTTP 403.",
+    "norauto": "Blocked: HTTP 403."
+  },
+  "parts": [
+    {
+      "id": "glt-0001",
+      "mpn": "BG3620",
+      "brand": "DELPHI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-2-disques-de-frein-avant-BG3620-delphi-910011",
+          "priceTtc": 40.25,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 40.25,
+      "sellingPriceTtc": 40.29
+    },
+    {
+      "id": "glt-0002",
+      "mpn": "203970",
+      "brand": "NK",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-2-disques-de-frein-avant-203970-nk-3388515",
+          "priceTtc": 46.27,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 46.27,
+      "sellingPriceTtc": 46.29
+    },
+    {
+      "id": "glt-0003",
+      "mpn": "SJ1237",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/kit-de-reparation-etrier-de-frein-SJ1237-trw-472478",
+          "priceTtc": 4.92,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.92,
+      "sellingPriceTtc": 4.89
+    },
+    {
+      "id": "glt-0004",
+      "mpn": "GBS2159",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/capteur-vitesse-de-roue-GBS2159-trw-444726",
+          "priceTtc": 6.67,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.67,
+      "sellingPriceTtc": 6.69
+    },
+    {
+      "id": "glt-0005",
+      "mpn": "SJ1233",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/kit-de-reparation-etrier-de-frein-SJ1233-trw-472476",
+          "priceTtc": 4.67,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.67,
+      "sellingPriceTtc": 4.69
+    },
+    {
+      "id": "glt-0006",
+      "mpn": "ST1526",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-douilles-de-guidage-etrier-de-frein-ST1526-trw-473328",
+          "priceTtc": 5.14,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.14,
+      "sellingPriceTtc": 5.09
+    },
+    {
+      "id": "glt-0007",
+      "mpn": "0 265 009 230",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/capteur-vitesse-de-roue-0265009230-bosch-1891518",
+          "priceTtc": 10.88,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 10.88,
+      "sellingPriceTtc": 10.89
+    },
+    {
+      "id": "glt-0008",
+      "mpn": "LP1727",
+      "brand": "DELPHI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-LP1727-delphi-928453",
+          "priceTtc": 18.67,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 18.67,
+      "sellingPriceTtc": 18.69
+    },
+    {
+      "id": "glt-0009",
+      "mpn": "FDB1617",
+      "brand": "FERODO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-FDB1617-ferodo-1646434",
+          "priceTtc": 17.22,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.22,
+      "sellingPriceTtc": 17.19
+    },
+    {
+      "id": "glt-0010",
+      "mpn": "GDB1493",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-GDB1493-trw-448511",
+          "priceTtc": 30.46,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 30.46,
+      "sellingPriceTtc": 30.49
+    },
+    {
+      "id": "glt-0011",
+      "mpn": "GDB3489",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-GDB3489-trw-449691",
+          "priceTtc": 64.33,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 64.33,
+      "sellingPriceTtc": 64.29
+    },
+    {
+      "id": "glt-0012",
+      "mpn": "0 986 494 486",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-0986494486-bosch-98945",
+          "priceTtc": 27.76,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 27.76,
+      "sellingPriceTtc": 27.79
+    },
+    {
+      "id": "glt-0013",
+      "mpn": "GDB1850",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-GDB1850-trw-448959",
+          "priceTtc": 47.47,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 47.47,
+      "sellingPriceTtc": 47.49
+    },
+    {
+      "id": "glt-0014",
+      "mpn": "GDB961",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-GDB961-trw-450319",
+          "priceTtc": 35.93,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 35.93,
+      "sellingPriceTtc": 35.89
+    },
+    {
+      "id": "glt-0015",
+      "mpn": "GDB870",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-GDB870-trw-450255",
+          "priceTtc": 28.67,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 28.67,
+      "sellingPriceTtc": 28.69
+    },
+    {
+      "id": "glt-0016",
+      "mpn": "0 986 424 760",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-0986424760-bosch-90782",
+          "priceTtc": 30.66,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 30.66,
+      "sellingPriceTtc": 30.69
+    },
+    {
+      "id": "glt-0017",
+      "mpn": "GDB1848",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-GDB1848-trw-448955",
+          "priceTtc": 73.78,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 73.78,
+      "sellingPriceTtc": 73.79
+    },
+    {
+      "id": "glt-0018",
+      "mpn": "0 986 424 366",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-4-plaquettes-de-frein-avant-0986424366-bosch-90522",
+          "priceTtc": 29.35,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 29.35,
+      "sellingPriceTtc": 29.39
+    },
+    {
+      "id": "glt-0019",
+      "mpn": "LS923",
+      "brand": "PURFLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-LS923-purflux-1200772",
+          "priceTtc": 4.34,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.34,
+      "sellingPriceTtc": 4.29
+    },
+    {
+      "id": "glt-0020",
+      "mpn": "L343D",
+      "brand": "PURFLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-L343D-purflux-3232968",
+          "priceTtc": 4.97,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.97,
+      "sellingPriceTtc": 4.99
+    },
+    {
+      "id": "glt-0021",
+      "mpn": "LS933",
+      "brand": "PURFLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-LS933-purflux-1200777",
+          "priceTtc": 4.25,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.25,
+      "sellingPriceTtc": 4.29
+    },
+    {
+      "id": "glt-0022",
+      "mpn": "152071758829",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-152071758829-magneti-marelli-6336551",
+          "priceTtc": 3.74,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.74,
+      "sellingPriceTtc": 3.69
+    },
+    {
+      "id": "glt-0023",
+      "mpn": "LS932",
+      "brand": "PURFLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-LS932-purflux-1200776",
+          "priceTtc": 4.27,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.27,
+      "sellingPriceTtc": 4.29
+    },
+    {
+      "id": "glt-0024",
+      "mpn": "LS946",
+      "brand": "PURFLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-LS946-purflux-1200786",
+          "priceTtc": 6.22,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.22,
+      "sellingPriceTtc": 6.19
+    },
+    {
+      "id": "glt-0025",
+      "mpn": "0 457 104 001",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-air-0457104001-bosch-81149",
+          "priceTtc": 5.47,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.47,
+      "sellingPriceTtc": 5.49
+    },
+    {
+      "id": "glt-0026",
+      "mpn": "1 987 432 237",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-air-de-l-habitacle-1987432237-bosch-123607",
+          "priceTtc": 9.46,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 9.46,
+      "sellingPriceTtc": 9.49
+    },
+    {
+      "id": "glt-0027",
+      "mpn": "L441",
+      "brand": "PURFLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-L441-purflux-1200551",
+          "priceTtc": 6.9,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.9,
+      "sellingPriceTtc": 6.89
+    },
+    {
+      "id": "glt-0028",
+      "mpn": "LS867B",
+      "brand": "PURFLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-LS867B-purflux-1200748",
+          "priceTtc": 4.33,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.33,
+      "sellingPriceTtc": 4.29
+    },
+    {
+      "id": "glt-0029",
+      "mpn": "PUR-PC2015-2",
+      "brand": "PURRO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-air-de-l-habitacle-PURPC20152-purro-2766940",
+          "priceTtc": 3.98,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.98,
+      "sellingPriceTtc": 3.99
+    },
+    {
+      "id": "glt-0030",
+      "mpn": "ELG5297",
+      "brand": "MECAFILTER",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-carburant-ELG5297-mecafilter-2874084",
+          "priceTtc": 14.53,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 14.53,
+      "sellingPriceTtc": 14.49
+    },
+    {
+      "id": "glt-0031",
+      "mpn": "ELH4326",
+      "brand": "MECAFILTER",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-ELH4326-mecafilter-2874569",
+          "priceTtc": 4.43,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.43,
+      "sellingPriceTtc": 4.39
+    },
+    {
+      "id": "glt-0032",
+      "mpn": "FT37133",
+      "brand": "FAST",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-air-FT37133-fast-2441560",
+          "priceTtc": 4.51,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.51,
+      "sellingPriceTtc": 4.49
+    },
+    {
+      "id": "glt-0033",
+      "mpn": "B40504OEM",
+      "brand": "KOREA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-air-de-l-habitacle-B40504OEM-korea-2704943",
+          "priceTtc": 8.6,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 8.6,
+      "sellingPriceTtc": 8.59
+    },
+    {
+      "id": "glt-0034",
+      "mpn": "300 008",
+      "brand": "TOPRAN",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-air-de-l-habitacle-300008-topran-1148689",
+          "priceTtc": 2.87,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 2.87,
+      "sellingPriceTtc": 2.89
+    },
+    {
+      "id": "glt-0035",
+      "mpn": "407 918",
+      "brand": "TOPRAN",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-air-407918-topran-1151417",
+          "priceTtc": 2.51,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 2.51,
+      "sellingPriceTtc": 2.49
+    },
+    {
+      "id": "glt-0036",
+      "mpn": "500 919",
+      "brand": "TOPRAN",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/filtre-a-huile-500919-topran-1152683",
+          "priceTtc": 4.72,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.72,
+      "sellingPriceTtc": 4.69
+    },
+    {
+      "id": "glt-0037",
+      "mpn": "0 242 232 502",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bougie-d-allumage-0242232502-bosch-49459",
+          "priceTtc": 4.37,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.37,
+      "sellingPriceTtc": 4.39
+    },
+    {
+      "id": "glt-0038",
+      "mpn": "48410",
+      "brand": "NGK",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bobine-d-allumage-48410-ngk-1813165",
+          "priceTtc": 36.41,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 36.41,
+      "sellingPriceTtc": 36.39
+    },
+    {
+      "id": "glt-0039",
+      "mpn": "0 241 145 528",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bougie-d-allumage-0241145528-bosch-6466079",
+          "priceTtc": 12.38,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 12.38,
+      "sellingPriceTtc": 12.39
+    },
+    {
+      "id": "glt-0040",
+      "mpn": "91121",
+      "brand": "NGK",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bougie-d-allumage-91121-ngk-1815068",
+          "priceTtc": 15.04,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 15.04,
+      "sellingPriceTtc": 14.99
+    },
+    {
+      "id": "glt-0041",
+      "mpn": "F 01M 100 648",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-a-haute-pression-F01M100648-bosch-5032934",
+          "priceTtc": 4.61,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.61,
+      "sellingPriceTtc": 4.59
+    },
+    {
+      "id": "glt-0042",
+      "mpn": "VKMC 03259",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-a-eau-kit-de-courroie-de-distribution-VKMC03259-skf-878489",
+          "priceTtc": 76,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 76,
+      "sellingPriceTtc": 75.99
+    },
+    {
+      "id": "glt-0043",
+      "mpn": "6PK1198",
+      "brand": "GATES",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/courroie-trapezoidale-a-nervures-6PK1198-gates-2527974",
+          "priceTtc": 6.73,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.73,
+      "sellingPriceTtc": 6.69
+    },
+    {
+      "id": "glt-0044",
+      "mpn": "VKMC 03319",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-a-eau-kit-de-courroie-de-distribution-VKMC03319-skf-5167811",
+          "priceTtc": 90.84,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 90.84,
+      "sellingPriceTtc": 90.79
+    },
+    {
+      "id": "glt-0045",
+      "mpn": "VKMC 03316",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-a-eau-kit-de-courroie-de-distribution-VKMC03316-skf-878496",
+          "priceTtc": 86.64,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 86.64,
+      "sellingPriceTtc": 86.59
+    },
+    {
+      "id": "glt-0046",
+      "mpn": "VKMC 06134-2",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-a-eau-kit-de-courroie-de-distribution-VKMC061342-skf-878565",
+          "priceTtc": 63.77,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 63.77,
+      "sellingPriceTtc": 63.79
+    },
+    {
+      "id": "glt-0047",
+      "mpn": "KPV333",
+      "brand": "DAYCO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-courroies-trapezoidales-a-nervures-KPV333-dayco-1917481",
+          "priceTtc": 38.94,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 38.94,
+      "sellingPriceTtc": 38.89
+    },
+    {
+      "id": "glt-0048",
+      "mpn": "6PK975",
+      "brand": "GATES",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/courroie-trapezoidale-a-nervures-6PK975-gates-787487",
+          "priceTtc": 6.71,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.71,
+      "sellingPriceTtc": 6.69
+    },
+    {
+      "id": "glt-0049",
+      "mpn": "VKMC 03306",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-a-eau-kit-de-courroie-crantee-VKMC03306-skf-6465721",
+          "priceTtc": 131.76,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 131.76,
+      "sellingPriceTtc": 131.79
+    },
+    {
+      "id": "glt-0050",
+      "mpn": "VKMC 06134-3",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-a-eau-kit-de-courroie-de-distribution-VKMC061343-skf-878566",
+          "priceTtc": 79.98,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 79.98,
+      "sellingPriceTtc": 79.99
+    },
+    {
+      "id": "glt-0051",
+      "mpn": "VKM 61053",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-renvoi-transmission-courroie-trapezoidale-a-nervures-VKM61053-skf-876919",
+          "priceTtc": 15.25,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 15.25,
+      "sellingPriceTtc": 15.29
+    },
+    {
+      "id": "glt-0052",
+      "mpn": "VKM 64060",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-renvoi-transmission-courroie-trapezoidale-a-nervures-VKM64060-skf-877011",
+          "priceTtc": 28.68,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 28.68,
+      "sellingPriceTtc": 28.69
+    },
+    {
+      "id": "glt-0053",
+      "mpn": "VKM 79002",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-tendeur-courroie-crantee-VKM79002-skf-877250",
+          "priceTtc": 16.36,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 16.36,
+      "sellingPriceTtc": 16.39
+    },
+    {
+      "id": "glt-0054",
+      "mpn": "48409",
+      "brand": "NGK",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bobine-d-allumage-48409-ngk-1813164",
+          "priceTtc": 34.34,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 34.34,
+      "sellingPriceTtc": 34.29
+    },
+    {
+      "id": "glt-0055",
+      "mpn": "301181313290",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/entretoise-tige-stabilisateur-301181313290-magneti-marelli-4647159",
+          "priceTtc": 13.02,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 13.02,
+      "sellingPriceTtc": 12.99
+    },
+    {
+      "id": "glt-0056",
+      "mpn": "301191618210",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/rotule-de-suspension-301191618210-magneti-marelli-4662756",
+          "priceTtc": 16.04,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 16.04,
+      "sellingPriceTtc": 15.99
+    },
+    {
+      "id": "glt-0057",
+      "mpn": "8200808455",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/support-d-amortisseur-8200808455-oe-4814611",
+          "priceTtc": 9.82,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 9.82,
+      "sellingPriceTtc": 9.79
+    },
+    {
+      "id": "glt-0058",
+      "mpn": "173333",
+      "brand": "CEVAM",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/moteur-electrique-transmission-de-direction-173333-cevam-5307890",
+          "priceTtc": 405.46,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 405.46,
+      "sellingPriceTtc": 405.49
+    },
+    {
+      "id": "glt-0059",
+      "mpn": "260242",
+      "brand": "A.B.S.",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/entretoise-tige-stabilisateur-260242-abs-263872",
+          "priceTtc": 5.89,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.89,
+      "sellingPriceTtc": 5.89
+    },
+    {
+      "id": "glt-0060",
+      "mpn": "KLT-NS-071",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/roulement-de-roue-arriere-KLTNS071-teknor-1896895",
+          "priceTtc": 7.61,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 7.61,
+      "sellingPriceTtc": 7.59
+    },
+    {
+      "id": "glt-0061",
+      "mpn": "SM1933",
+      "brand": "KYB",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/kit-de-reparation-coupelle-de-suspension-SM1933-kyb-905183",
+          "priceTtc": 17.51,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.51,
+      "sellingPriceTtc": 17.49
+    },
+    {
+      "id": "glt-0062",
+      "mpn": "ZLP-PL-003",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/entretoise-tige-stabilisateur-avant-ZLPPL003-teknor-2457476",
+          "priceTtc": 4.91,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.91,
+      "sellingPriceTtc": 4.89
+    },
+    {
+      "id": "glt-0063",
+      "mpn": "AS-506495",
+      "brand": "Aslyx",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/support-d-amortisseur-AS506495-aslyx-4991657",
+          "priceTtc": 8.2,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 8.2,
+      "sellingPriceTtc": 8.19
+    },
+    {
+      "id": "glt-0064",
+      "mpn": "A7R038MT",
+      "brand": "MAGNUM TECHNOLOGY",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/kit-de-reparation-coupelle-de-suspension-A7R038MT-magnum-technology-2305275",
+          "priceTtc": 17.83,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.83,
+      "sellingPriceTtc": 17.79
+    },
+    {
+      "id": "glt-0065",
+      "mpn": "FT12024",
+      "brand": "FAST",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/coupelle-de-suspension-avant-gauche-FT12024-fast-2439638",
+          "priceTtc": 12.7,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 12.7,
+      "sellingPriceTtc": 12.69
+    },
+    {
+      "id": "glt-0066",
+      "mpn": "M-S0391",
+      "brand": "MERTZ",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/entretoise-tige-stabilisateur-avant-droit-a-l-unite-mertz-MS0391-mertz-4417273",
+          "priceTtc": 7,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 7,
+      "sellingPriceTtc": 6.99
+    },
+    {
+      "id": "glt-0067",
+      "mpn": "R 62368",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bague-de-pompe-hydraulique-direction-R62368-teknor-5064807",
+          "priceTtc": 3.47,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.47,
+      "sellingPriceTtc": 3.49
+    },
+    {
+      "id": "glt-0068",
+      "mpn": "AD-MS-001",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/roulement-coupelle-de-suspension-avant-ADMS001-teknor-3715140",
+          "priceTtc": 2.75,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 2.75,
+      "sellingPriceTtc": 2.79
+    },
+    {
+      "id": "glt-0069",
+      "mpn": "ZTP-HD-027C",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/silent-bloc-de-suspension-train-arriere-ZTPHD027C-teknor-3895504",
+          "priceTtc": 5.46,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.46,
+      "sellingPriceTtc": 5.49
+    },
+    {
+      "id": "glt-0070",
+      "mpn": "ZTP-TY-074A",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/suspension-bras-de-liaison-avant-ZTPTY074A-teknor-3895553",
+          "priceTtc": 3.3,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.3,
+      "sellingPriceTtc": 3.29
+    },
+    {
+      "id": "glt-0071",
+      "mpn": "7700419475",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/patin-de-ressort-7700419475-oe-3900630",
+          "priceTtc": 9.48,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 9.48,
+      "sellingPriceTtc": 9.49
+    },
+    {
+      "id": "glt-0072",
+      "mpn": "EMS8647",
+      "brand": "QUINTON HAZELL",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/suspension-bras-de-liaison-a-l-unite-EMS8647-quinton-hazell-1262219",
+          "priceTtc": 8,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 8,
+      "sellingPriceTtc": 7.99
+    },
+    {
+      "id": "glt-0073",
+      "mpn": "43857",
+      "brand": "VALEO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/feu-arriere-043857-valeo-739634",
+          "priceTtc": 73.97,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 73.97,
+      "sellingPriceTtc": 73.99
+    },
+    {
+      "id": "glt-0074",
+      "mpn": "43856",
+      "brand": "VALEO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/feu-arriere-043856-valeo-739633",
+          "priceTtc": 73.73,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 73.73,
+      "sellingPriceTtc": 73.69
+    },
+    {
+      "id": "glt-0075",
+      "mpn": "1 987 302 075",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-1987302075-bosch-122741",
+          "priceTtc": 6.89,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.89,
+      "sellingPriceTtc": 6.89
+    },
+    {
+      "id": "glt-0076",
+      "mpn": "1 987 302 153",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-1987302153-bosch-122760",
+          "priceTtc": 4.91,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.91,
+      "sellingPriceTtc": 4.89
+    },
+    {
+      "id": "glt-0077",
+      "mpn": "32523",
+      "brand": "VALEO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-032523-valeo-739263",
+          "priceTtc": 6.24,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.24,
+      "sellingPriceTtc": 6.19
+    },
+    {
+      "id": "glt-0078",
+      "mpn": "1 987 301 012",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-1987301012-bosch-1981246",
+          "priceTtc": 3.76,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.76,
+      "sellingPriceTtc": 3.79
+    },
+    {
+      "id": "glt-0079",
+      "mpn": "1 987 301 096",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-1987301096-bosch-1267558",
+          "priceTtc": 4.15,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.15,
+      "sellingPriceTtc": 4.19
+    },
+    {
+      "id": "glt-0080",
+      "mpn": "1 987 302 078",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-1987302078-bosch-122744",
+          "priceTtc": 4.12,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.12,
+      "sellingPriceTtc": 4.09
+    },
+    {
+      "id": "glt-0081",
+      "mpn": "1 987 302 082",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-1987302082-bosch-122747",
+          "priceTtc": 8.93,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 8.93,
+      "sellingPriceTtc": 8.89
+    },
+    {
+      "id": "glt-0082",
+      "mpn": "1 987 302 152",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-1987302152-bosch-122759",
+          "priceTtc": 4.63,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.63,
+      "sellingPriceTtc": 4.59
+    },
+    {
+      "id": "glt-0083",
+      "mpn": "1 987 302 202",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-feu-clignotant-1987302202-bosch-122767",
+          "priceTtc": 0.47,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 0.47,
+      "sellingPriceTtc": 0.49
+    },
+    {
+      "id": "glt-0084",
+      "mpn": "1 987 302 222",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-1987302222-bosch-122787",
+          "priceTtc": 2.27,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 2.27,
+      "sellingPriceTtc": 2.29
+    },
+    {
+      "id": "glt-0085",
+      "mpn": "1 987 302 085",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-1987302085-bosch-1981380",
+          "priceTtc": 6.96,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.96,
+      "sellingPriceTtc": 6.99
+    },
+    {
+      "id": "glt-0086",
+      "mpn": "1 987 301 416",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-1987301416-bosch-3008001",
+          "priceTtc": 8.87,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 8.87,
+      "sellingPriceTtc": 8.89
+    },
+    {
+      "id": "glt-0087",
+      "mpn": "83832023",
+      "brand": "HERTH+BUSS ELPARTS",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/disperseur-feu-arriere-83832023-herthbuss-elparts-1639663",
+          "priceTtc": 7.56,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 7.56,
+      "sellingPriceTtc": 7.59
+    },
+    {
+      "id": "glt-0088",
+      "mpn": "FT87801",
+      "brand": "FAST",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/feu-eclaireur-de-plaque-FT87801-fast-2444264",
+          "priceTtc": 5.58,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.58,
+      "sellingPriceTtc": 5.59
+    },
+    {
+      "id": "glt-0089",
+      "mpn": "92700C7010",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/feu-stop-additionnel-92700C7010-oe-4924557",
+          "priceTtc": 52.45,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 52.45,
+      "sellingPriceTtc": 52.49
+    },
+    {
+      "id": "glt-0090",
+      "mpn": "042-22-905",
+      "brand": "ABAKUS",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/feu-eclaireur-de-plaque-04222905-abakus-2668811",
+          "priceTtc": 6.23,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.23,
+      "sellingPriceTtc": 6.19
+    },
+    {
+      "id": "glt-0091",
+      "mpn": "98138694TW",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/enjoliveur-de-roue-98138694TW-oe-5437040",
+          "priceTtc": 24.17,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 24.17,
+      "sellingPriceTtc": 24.19
+    },
+    {
+      "id": "glt-0092",
+      "mpn": "403154960R",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/enjoliveur-16-pouces-403154960R-oe-5432618",
+          "priceTtc": 27.54,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 27.54,
+      "sellingPriceTtc": 27.49
+    },
+    {
+      "id": "glt-0093",
+      "mpn": "403158900R",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/enjoliveur-de-roue-403158900R-oe-5431933",
+          "priceTtc": 18.96,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 18.96,
+      "sellingPriceTtc": 18.99
+    },
+    {
+      "id": "glt-0094",
+      "mpn": "ZRZ-RE-024",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/traverse-ZRZRE024-teknor-3757104",
+          "priceTtc": 45.36,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 45.36,
+      "sellingPriceTtc": 45.39
+    },
+    {
+      "id": "glt-0095",
+      "mpn": "403154000R",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/enjoliveur-de-roue-403154000R-oe-5432617",
+          "priceTtc": 23.11,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 23.11,
+      "sellingPriceTtc": 23.09
+    },
+    {
+      "id": "glt-0096",
+      "mpn": "QAW1030",
+      "brand": "QUINTON HAZELL",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-QAW1030-quinton-hazell-2621520",
+          "priceTtc": 6.4,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.4,
+      "sellingPriceTtc": 6.39
+    },
+    {
+      "id": "glt-0097",
+      "mpn": "FT00316",
+      "brand": "FAST",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/leve-vitre-avant-gauche-a-l-unite-fast-FT00316-fast-6107571",
+          "priceTtc": 23.17,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 23.17,
+      "sellingPriceTtc": 23.19
+    },
+    {
+      "id": "glt-0098",
+      "mpn": "EPE-PE-003",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/commutateur-de-colonne-de-direction-EPEPE003-teknor-3712726",
+          "priceTtc": 10.87,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 10.87,
+      "sellingPriceTtc": 10.89
+    },
+    {
+      "id": "glt-0099",
+      "mpn": "EPS-WW-072",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/leve-vitre-avant-gauche-EPSWW072-teknor-3893859",
+          "priceTtc": 15.46,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 15.46,
+      "sellingPriceTtc": 15.49
+    },
+    {
+      "id": "glt-0100",
+      "mpn": "ESP-TY-003",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-d-eau-de-nettoyage-nettoyage-des-phares-ESPTY003-teknor-4416708",
+          "priceTtc": 6.04,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.04,
+      "sellingPriceTtc": 5.99
+    },
+    {
+      "id": "glt-0101",
+      "mpn": "EMW-SK-001",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/tringlerie-d-essuie-glace-EMWSK001-teknor-2457781",
+          "priceTtc": 14.56,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 14.56,
+      "sellingPriceTtc": 14.59
+    },
+    {
+      "id": "glt-0102",
+      "mpn": "K01W092AKN",
+      "brand": "AKUSAN",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/interrupteur-leve-vitre-K01W092AKN-akusan-2520163",
+          "priceTtc": 5.65,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.65,
+      "sellingPriceTtc": 5.69
+    },
+    {
+      "id": "glt-0103",
+      "mpn": "EWS-HD-001",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/interrupteur-leve-vitre-avant-gauche-EWSHD001-teknor-3711928",
+          "priceTtc": 13.85,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 13.85,
+      "sellingPriceTtc": 13.89
+    },
+    {
+      "id": "glt-0104",
+      "mpn": "AE-PL-061",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/verin-capot-moteur-AEPL061-teknor-3714451",
+          "priceTtc": 5.77,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.77,
+      "sellingPriceTtc": 5.79
+    },
+    {
+      "id": "glt-0105",
+      "mpn": "AE-NS-019",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/verin-de-hayon-de-coffre-AENS019-teknor-3714540",
+          "priceTtc": 6.29,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.29,
+      "sellingPriceTtc": 6.29
+    },
+    {
+      "id": "glt-0106",
+      "mpn": "ESP-VV-000",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-d-eau-de-nettoyage-nettoyage-des-vitres-ESPVV000-teknor-4416707",
+          "priceTtc": 2.59,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 2.59,
+      "sellingPriceTtc": 2.59
+    },
+    {
+      "id": "glt-0107",
+      "mpn": "ECX-TY-000",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/element-de-reglage-reglage-de-la-portee-des-phares-avant-ECXTY000-teknor-2457932",
+          "priceTtc": 10.49,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 10.49,
+      "sellingPriceTtc": 10.49
+    },
+    {
+      "id": "glt-0108",
+      "mpn": "VKM 03308",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-roue-libre-alternateur-VKM03308-skf-875869",
+          "priceTtc": 23.54,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 23.54,
+      "sellingPriceTtc": 23.49
+    },
+    {
+      "id": "glt-0109",
+      "mpn": "940016012400",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/regulateur-d-alternateur-940016012400-magneti-marelli-4646548",
+          "priceTtc": 19.75,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 19.75,
+      "sellingPriceTtc": 19.79
+    },
+    {
+      "id": "glt-0110",
+      "mpn": "VKM 03827",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-roue-libre-alternateur-VKM03827-skf-875934",
+          "priceTtc": 28.68,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 28.68,
+      "sellingPriceTtc": 28.69
+    },
+    {
+      "id": "glt-0111",
+      "mpn": "VKM 03835",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-roue-libre-alternateur-VKM03835-skf-875942",
+          "priceTtc": 31.75,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 31.75,
+      "sellingPriceTtc": 31.79
+    },
+    {
+      "id": "glt-0112",
+      "mpn": "VKM 03511",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-roue-libre-alternateur-VKM03511-skf-875892",
+          "priceTtc": 23.23,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 23.23,
+      "sellingPriceTtc": 23.19
+    },
+    {
+      "id": "glt-0113",
+      "mpn": "VKM 03815",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-roue-libre-alternateur-VKM03815-skf-875925",
+          "priceTtc": 26.82,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 26.82,
+      "sellingPriceTtc": 26.79
+    },
+    {
+      "id": "glt-0114",
+      "mpn": "6 033 RD2 003",
+      "brand": "BOSCH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/regulateur-d-alternateur-6033RD2003-bosch-145076",
+          "priceTtc": 34.14,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 34.14,
+      "sellingPriceTtc": 34.09
+    },
+    {
+      "id": "glt-0115",
+      "mpn": "VKM 03828",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/poulie-roue-libre-alternateur-VKM03828-skf-875935",
+          "priceTtc": 23.23,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 23.23,
+      "sellingPriceTtc": 23.19
+    },
+    {
+      "id": "glt-0116",
+      "mpn": "3FH 012 010-161",
+      "brand": "HELLA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/avertisseur-sonore-3FH012010161-hella-6214713",
+          "priceTtc": 24.68,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 24.68,
+      "sellingPriceTtc": 24.69
+    },
+    {
+      "id": "glt-0117",
+      "mpn": "225.528.150.010",
+      "brand": "BV PSH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/alternateur-225528150010-bv-psh-2408911",
+          "priceTtc": 129.05,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 129.05,
+      "sellingPriceTtc": 129.09
+    },
+    {
+      "id": "glt-0118",
+      "mpn": "YBX7053",
+      "brand": "YUASA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/batterie-de-demarrage-YBX7053-yuasa-3460072",
+          "priceTtc": 135.65,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 135.65,
+      "sellingPriceTtc": 135.69
+    },
+    {
+      "id": "glt-0119",
+      "mpn": "N472B",
+      "brand": "NEOLUX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ampoule-projecteur-longue-portee-N472B-neolux-1400804",
+          "priceTtc": 4.86,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.86,
+      "sellingPriceTtc": 4.89
+    },
+    {
+      "id": "glt-0120",
+      "mpn": "9814653780",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/capteur-gestion-de-la-batterie-9814653780-oe-5437054",
+          "priceTtc": 85.13,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 85.13,
+      "sellingPriceTtc": 85.09
+    },
+    {
+      "id": "glt-0121",
+      "mpn": "570.512.092.000",
+      "brand": "BV PSH",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/demarreur-570512092000-bv-psh-2413280",
+          "priceTtc": 61.28,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 61.28,
+      "sellingPriceTtc": 61.29
+    },
+    {
+      "id": "glt-0122",
+      "mpn": "3500",
+      "brand": "CEVAM",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/demarreur-3500-cevam-349526",
+          "priceTtc": 81.98,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 81.98,
+      "sellingPriceTtc": 81.99
+    },
+    {
+      "id": "glt-0123",
+      "mpn": "50295776",
+      "brand": "HERTH+BUSS ELPARTS",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/fusible-50295776-herthbuss-elparts-1633838",
+          "priceTtc": 13.07,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 13.07,
+      "sellingPriceTtc": 13.09
+    },
+    {
+      "id": "glt-0124",
+      "mpn": "EPDC-AU-014",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/capteur-parctronic-EPDCAU014-teknor-3893762",
+          "priceTtc": 5.34,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.34,
+      "sellingPriceTtc": 5.29
+    },
+    {
+      "id": "glt-0125",
+      "mpn": "EPDC-ME-011",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/capteur-parctronic-EPDCME011-teknor-2457358",
+          "priceTtc": 5.81,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.81,
+      "sellingPriceTtc": 5.79
+    },
+    {
+      "id": "glt-0126",
+      "mpn": "VKJP 01016",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/soufflets-de-cardan-avant-VKJP01016-skf-874977",
+          "priceTtc": 9.73,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 9.73,
+      "sellingPriceTtc": 9.69
+    },
+    {
+      "id": "glt-0127",
+      "mpn": "VKJP 1002",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/soufflets-de-cardan-avant-VKJP1002-skf-874986",
+          "priceTtc": 6.46,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.46,
+      "sellingPriceTtc": 6.49
+    },
+    {
+      "id": "glt-0128",
+      "mpn": "VKJP 3159",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/soufflets-de-cardan-avant-VKJP3159-skf-875579",
+          "priceTtc": 11.93,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 11.93,
+      "sellingPriceTtc": 11.89
+    },
+    {
+      "id": "glt-0129",
+      "mpn": "11412",
+      "brand": "FEBI BILSTEIN",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bague-d-etancheite-differentiel-avant-gauche-a-l-unite-febi-bilstein-11412-febi-bilstein-6592",
+          "priceTtc": 4.1,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.1,
+      "sellingPriceTtc": 4.09
+    },
+    {
+      "id": "glt-0130",
+      "mpn": "VKJP 1311",
+      "brand": "SKF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/soufflets-de-cardan-avant-VKJP1311-skf-875144",
+          "priceTtc": 14.98,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 14.98,
+      "sellingPriceTtc": 14.99
+    },
+    {
+      "id": "glt-0131",
+      "mpn": "302015100286",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/embout-de-cardan-avant-kit-de-reparation-302015100286-magneti-marelli-4661443",
+          "priceTtc": 28.57,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 28.57,
+      "sellingPriceTtc": 28.59
+    },
+    {
+      "id": "glt-0132",
+      "mpn": "PJD162",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/cylindre-recepteur-embrayage-PJD162-trw-467968",
+          "priceTtc": 9.8,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 9.8,
+      "sellingPriceTtc": 9.79
+    },
+    {
+      "id": "glt-0133",
+      "mpn": "PNB313",
+      "brand": "TRW",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/cylindre-emetteur-embrayage-PNB313-trw-471041",
+          "priceTtc": 23.59,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 23.59,
+      "sellingPriceTtc": 23.59
+    },
+    {
+      "id": "glt-0134",
+      "mpn": "173279",
+      "brand": "FEBI BILSTEIN",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/kit-bagues-d-etancheite-differentiel-173279-febi-bilstein-2619418",
+          "priceTtc": 8.52,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 8.52,
+      "sellingPriceTtc": 8.49
+    },
+    {
+      "id": "glt-0135",
+      "mpn": "D8000E",
+      "brand": "AUTOFREN SEINSA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/soufflets-de-cardan-universel-D8000E-autofren-seinsa-1426082",
+          "priceTtc": 4.3,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.3,
+      "sellingPriceTtc": 4.29
+    },
+    {
+      "id": "glt-0136",
+      "mpn": "NWN-RE-003",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/arbre-de-transmission-entrainement-essieux-NWNRE003-teknor-3709831",
+          "priceTtc": 203.64,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 203.64,
+      "sellingPriceTtc": 203.59
+    },
+    {
+      "id": "glt-0137",
+      "mpn": "1231500Q1C",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/vis-de-volant-moteur-1231500Q1C-oe-6561476",
+          "priceTtc": 5.39,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.39,
+      "sellingPriceTtc": 5.39
+    },
+    {
+      "id": "glt-0138",
+      "mpn": "454.82",
+      "brand": "ELRING",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/bague-d-etancheite-boite-de-vitesse-manuel-454820-elring-1193200",
+          "priceTtc": 6.52,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.52,
+      "sellingPriceTtc": 6.49
+    },
+    {
+      "id": "glt-0139",
+      "mpn": "8200177718",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/contacteur-feu-de-recul-8200177718-oe-3897921",
+          "priceTtc": 25.33,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 25.33,
+      "sellingPriceTtc": 25.29
+    },
+    {
+      "id": "glt-0140",
+      "mpn": "T6118",
+      "brand": "GRESA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/arbre-de-transmission-avant-gauche-a-l-unite-T6118-gresa-3310624",
+          "priceTtc": 7.04,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 7.04,
+      "sellingPriceTtc": 6.99
+    },
+    {
+      "id": "glt-0141",
+      "mpn": "T6052",
+      "brand": "GRESA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/arbre-de-transmission-T6052-gresa-3310563",
+          "priceTtc": 7.49,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 7.49,
+      "sellingPriceTtc": 7.49
+    },
+    {
+      "id": "glt-0142",
+      "mpn": "ECP-HD-017",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/capteur-vitesse-ECPHD017-teknor-3893555",
+          "priceTtc": 12.37,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 12.37,
+      "sellingPriceTtc": 12.39
+    },
+    {
+      "id": "glt-0143",
+      "mpn": "NPZ-PL-025",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/jeu-de-joints-arbre-de-transmission-avant-NPZPL025-teknor-3894711",
+          "priceTtc": 19.69,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 19.69,
+      "sellingPriceTtc": 19.69
+    },
+    {
+      "id": "glt-0144",
+      "mpn": "466016355203",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-466016355203-magneti-marelli-4794969",
+          "priceTtc": 27.77,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 27.77,
+      "sellingPriceTtc": 27.79
+    },
+    {
+      "id": "glt-0145",
+      "mpn": "466016355201",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-466016355201-magneti-marelli-4795107",
+          "priceTtc": 26.96,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 26.96,
+      "sellingPriceTtc": 26.99
+    },
+    {
+      "id": "glt-0146",
+      "mpn": "466016355294",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-466016355294-magneti-marelli-5477141",
+          "priceTtc": 35.96,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 35.96,
+      "sellingPriceTtc": 35.99
+    },
+    {
+      "id": "glt-0147",
+      "mpn": "1714P2",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/conduite-a-press-capteur-de-press-filtre-particule-suie-1714P2-oe-4814595",
+          "priceTtc": 21.49,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 21.49,
+      "sellingPriceTtc": 21.49
+    },
+    {
+      "id": "glt-0148",
+      "mpn": "70621",
+      "brand": "3RG",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/butee-elastique-silencieux-70621-3rg-2381174",
+          "priceTtc": 4.97,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.97,
+      "sellingPriceTtc": 4.99
+    },
+    {
+      "id": "glt-0149",
+      "mpn": "ESL-RE-000",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLRE000-teknor-1694653",
+          "priceTtc": 17.16,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.16,
+      "sellingPriceTtc": 17.19
+    },
+    {
+      "id": "glt-0150",
+      "mpn": "80438",
+      "brand": "WALKER",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/piece-de-serrage-echappement-80438-walker-1363402",
+          "priceTtc": 3.77,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.77,
+      "sellingPriceTtc": 3.79
+    },
+    {
+      "id": "glt-0151",
+      "mpn": "ESL-SK-000",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLSK000-teknor-1695382",
+          "priceTtc": 17.16,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.16,
+      "sellingPriceTtc": 17.19
+    },
+    {
+      "id": "glt-0152",
+      "mpn": "SEMB7",
+      "brand": "DÜRER",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/support-silencieux-SEMB7-durer-3579552",
+          "priceTtc": 11.96,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 11.96,
+      "sellingPriceTtc": 11.99
+    },
+    {
+      "id": "glt-0153",
+      "mpn": "88277",
+      "brand": "3RG",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-additif-fluide-dpf-88277-3rg-6341743",
+          "priceTtc": 136.24,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 136.24,
+      "sellingPriceTtc": 136.19
+    },
+    {
+      "id": "glt-0154",
+      "mpn": "ESL-CT-012",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLCT012-teknor-2456645",
+          "priceTtc": 17.29,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.29,
+      "sellingPriceTtc": 17.29
+    },
+    {
+      "id": "glt-0155",
+      "mpn": "1610115580",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/reservoir-additif-fap-1610115580-oe-4644389",
+          "priceTtc": 161.06,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 161.06,
+      "sellingPriceTtc": 161.09
+    },
+    {
+      "id": "glt-0156",
+      "mpn": "ESL-MS-016",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLMS016-teknor-3712168",
+          "priceTtc": 14.94,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 14.94,
+      "sellingPriceTtc": 14.89
+    },
+    {
+      "id": "glt-0157",
+      "mpn": "ECS-TY-001",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/capteur-pression-des-gaz-echappement-ECSTY001-teknor-4416808",
+          "priceTtc": 12.37,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 12.37,
+      "sellingPriceTtc": 12.39
+    },
+    {
+      "id": "glt-0158",
+      "mpn": "ESL-FR-008",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLFR008-teknor-3712171",
+          "priceTtc": 17.29,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.29,
+      "sellingPriceTtc": 17.29
+    },
+    {
+      "id": "glt-0159",
+      "mpn": "ESL-SB-017",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLSB017-teknor-3712157",
+          "priceTtc": 19.78,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 19.78,
+      "sellingPriceTtc": 19.79
+    },
+    {
+      "id": "glt-0160",
+      "mpn": "ESL-BM-014",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLBM014-teknor-3712180",
+          "priceTtc": 15.82,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 15.82,
+      "sellingPriceTtc": 15.79
+    },
+    {
+      "id": "glt-0161",
+      "mpn": "ESL-PL-001",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/sonde-lambda-ESLPL001-teknor-3712164",
+          "priceTtc": 17.29,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.29,
+      "sellingPriceTtc": 17.29
+    },
+    {
+      "id": "glt-0162",
+      "mpn": "350213183800",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/radiateur-refroidissement-du-moteur-350213183800-magneti-marelli-4179329",
+          "priceTtc": 67.49,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 67.49,
+      "sellingPriceTtc": 67.49
+    },
+    {
+      "id": "glt-0163",
+      "mpn": "CTM-PE-000",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/thermostat-d-eau-CTMPE000-teknor-4415937",
+          "priceTtc": 13.74,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 13.74,
+      "sellingPriceTtc": 13.69
+    },
+    {
+      "id": "glt-0164",
+      "mpn": "DBR011TT",
+      "brand": "THERMOTEC",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/vase-d-expansion-liquide-de-refroidissement-DBR011TT-thermotec-1749009",
+          "priceTtc": 9.14,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 9.14,
+      "sellingPriceTtc": 9.09
+    },
+    {
+      "id": "glt-0165",
+      "mpn": "53424A",
+      "brand": "NRF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/radiateur-refroidissement-du-moteur-53424A-nrf-1026860",
+          "priceTtc": 33.84,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 33.84,
+      "sellingPriceTtc": 33.79
+    },
+    {
+      "id": "glt-0166",
+      "mpn": "10.9224",
+      "brand": "SIDAT",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/preresistance-moteur-electrique-ventilateur-de-radiateur-109224-sidat-5657896",
+          "priceTtc": 23.98,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 23.98,
+      "sellingPriceTtc": 23.99
+    },
+    {
+      "id": "glt-0167",
+      "mpn": "DBR001TT",
+      "brand": "THERMOTEC",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/vase-d-expansion-liquide-de-refroidissement-DBR001TT-thermotec-1233788",
+          "priceTtc": 7.48,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 7.48,
+      "sellingPriceTtc": 7.49
+    },
+    {
+      "id": "glt-0168",
+      "mpn": "53425A",
+      "brand": "NRF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/radiateur-refroidissement-du-moteur-53425A-nrf-2546799",
+          "priceTtc": 42.46,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 42.46,
+      "sellingPriceTtc": 42.49
+    },
+    {
+      "id": "glt-0169",
+      "mpn": "9675070980",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/tuyau-de-radiateur-9675070980-oe-4910014",
+          "priceTtc": 16.79,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 16.79,
+      "sellingPriceTtc": 16.79
+    },
+    {
+      "id": "glt-0170",
+      "mpn": "9849443980",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/thermostat-liquide-de-refroidissement-9849443980-oe-4604025",
+          "priceTtc": 135.65,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 135.65,
+      "sellingPriceTtc": 135.69
+    },
+    {
+      "id": "glt-0171",
+      "mpn": "CCL-CT-003",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/radiateur-d-huile-CCLCT003-teknor-2456751",
+          "priceTtc": 17.54,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.54,
+      "sellingPriceTtc": 17.49
+    },
+    {
+      "id": "glt-0172",
+      "mpn": "58067",
+      "brand": "NRF",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/radiateur-refroidissement-du-moteur-58067-nrf-1027853",
+          "priceTtc": 35.27,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 35.27,
+      "sellingPriceTtc": 35.29
+    },
+    {
+      "id": "glt-0173",
+      "mpn": "7701048284",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/ventilateur-refroidissement-du-moteur-7701048284-oe-3901772",
+          "priceTtc": 21.8,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 21.8,
+      "sellingPriceTtc": 21.79
+    },
+    {
+      "id": "glt-0174",
+      "mpn": "CCL-WW-023",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/radiateur-d-huile-de-boite-automatique-CCLWW023-teknor-4416864",
+          "priceTtc": 34.39,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 34.39,
+      "sellingPriceTtc": 34.39
+    },
+    {
+      "id": "glt-0175",
+      "mpn": "CCL-WW-025",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/radiateur-d-huile-CCLWW025-teknor-4416862",
+          "priceTtc": 40.26,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 40.26,
+      "sellingPriceTtc": 40.29
+    },
+    {
+      "id": "glt-0176",
+      "mpn": "CH9954",
+      "brand": "MOTORAD",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/thermostat-d-eau-CH9954-motorad-4753990",
+          "priceTtc": 4.55,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.55,
+      "sellingPriceTtc": 4.59
+    },
+    {
+      "id": "glt-0177",
+      "mpn": "ERD-RE-017",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/resistance-du-ventilateur-de-radiateur-ERDRE017-teknor-2457891",
+          "priceTtc": 10.99,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 10.99,
+      "sellingPriceTtc": 10.99
+    },
+    {
+      "id": "glt-0178",
+      "mpn": "CTM-WW-038",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/boitier-du-thermostat-CTMWW038-teknor-2457950",
+          "priceTtc": 17.29,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.29,
+      "sellingPriceTtc": 17.29
+    },
+    {
+      "id": "glt-0179",
+      "mpn": "CSW-WW-005",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/commande-ventilateur-electrique-refroidissement-du-moteur-CSWWW005-teknor-3713338",
+          "priceTtc": 18.3,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 18.3,
+      "sellingPriceTtc": 18.29
+    },
+    {
+      "id": "glt-0180",
+      "mpn": "L 04 005",
+      "brand": "BREMBO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/liquide-de-frein-L04005-brembo-2502020",
+          "priceTtc": 4.36,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.36,
+      "sellingPriceTtc": 4.39
+    },
+    {
+      "id": "glt-0181",
+      "mpn": "4455",
+      "brand": "BARDAHL",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/nettoyant-freins-600ml-4455-bardahl-1296454",
+          "priceTtc": 3.42,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.42,
+      "sellingPriceTtc": 3.39
+    },
+    {
+      "id": "glt-0182",
+      "mpn": "K5W30C2C3L5",
+      "brand": "KROSS",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/huile-moteur-5w30-c2-c3-5l-K5W30C2C3L5-kross-8415750",
+          "priceTtc": 20.68,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 20.68,
+      "sellingPriceTtc": 20.69
+    },
+    {
+      "id": "glt-0183",
+      "mpn": "OLHM0001",
+      "brand": "K2",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/huile-hydraulique-OLHM0001-k2-6561190",
+          "priceTtc": 17.83,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 17.83,
+      "sellingPriceTtc": 17.79
+    },
+    {
+      "id": "glt-0184",
+      "mpn": "LDRUNIV05",
+      "brand": "ITEX",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/liquide-de-refroidissement-universel-25-5-litres-LDRUNIV05-itex-1273899",
+          "priceTtc": 9.08,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 9.08,
+      "sellingPriceTtc": 9.09
+    },
+    {
+      "id": "glt-0185",
+      "mpn": "K5W40L5",
+      "brand": "KROSS",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/huile-moteur-5w40-b4-5l-K5W40L5-kross-8415754",
+          "priceTtc": 22.27,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 22.27,
+      "sellingPriceTtc": 22.29
+    },
+    {
+      "id": "glt-0186",
+      "mpn": "61-104",
+      "brand": "AMTRA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/liquide-de-refroidissement-g12-5-litres-61104-amtra-2890972",
+          "priceTtc": 10.13,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 10.13,
+      "sellingPriceTtc": 10.09
+    },
+    {
+      "id": "glt-0187",
+      "mpn": "20-A50",
+      "brand": "AMTRA",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/nettoyant-debitmetre-d-air-massique-20A50-amtra-3310286",
+          "priceTtc": 5.65,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.65,
+      "sellingPriceTtc": 5.69
+    },
+    {
+      "id": "glt-0188",
+      "mpn": "T371",
+      "brand": "K2",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/nettoyant-moteur-avant-vidange-T371-k2-3245273",
+          "priceTtc": 3.26,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.26,
+      "sellingPriceTtc": 3.29
+    },
+    {
+      "id": "glt-0189",
+      "mpn": "R5W30C1L1",
+      "brand": "REXOIL",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/huile-moteur-5w30-c1-1l-R5W30C1L1-rexoil-6336365",
+          "priceTtc": 5.72,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 5.72,
+      "sellingPriceTtc": 5.69
+    },
+    {
+      "id": "glt-0190",
+      "mpn": "575545",
+      "brand": "VALEO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-575545-valeo-5297517",
+          "priceTtc": 4.06,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.06,
+      "sellingPriceTtc": 4.09
+    },
+    {
+      "id": "glt-0191",
+      "mpn": "575002",
+      "brand": "VALEO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-575002-valeo-6350682",
+          "priceTtc": 8.28,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 8.28,
+      "sellingPriceTtc": 8.29
+    },
+    {
+      "id": "glt-0192",
+      "mpn": "575008",
+      "brand": "VALEO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-575008-valeo-6350688",
+          "priceTtc": 10.48,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 10.48,
+      "sellingPriceTtc": 10.49
+    },
+    {
+      "id": "glt-0193",
+      "mpn": "575009",
+      "brand": "VALEO",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-575009-valeo-6350689",
+          "priceTtc": 10.31,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 10.31,
+      "sellingPriceTtc": 10.29
+    },
+    {
+      "id": "glt-0194",
+      "mpn": "723180283",
+      "brand": "MAGNETI MARELLI",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/kit-de-bras-d-essuie-glace-netyage-des-vitres-000723180283-magneti-marelli-4664196",
+          "priceTtc": 13.39,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 13.39,
+      "sellingPriceTtc": 13.39
+    },
+    {
+      "id": "glt-0195",
+      "mpn": "QAW1024",
+      "brand": "QUINTON HAZELL",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-QAW1024-quinton-hazell-2621514",
+          "priceTtc": 6.4,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.4,
+      "sellingPriceTtc": 6.39
+    },
+    {
+      "id": "glt-0196",
+      "mpn": "WBF0024.11",
+      "brand": "OPEN PARTS",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-WBF002411-open-parts-3438090",
+          "priceTtc": 6.91,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.91,
+      "sellingPriceTtc": 6.89
+    },
+    {
+      "id": "glt-0197",
+      "mpn": "QAW1026",
+      "brand": "QUINTON HAZELL",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-QAW1026-quinton-hazell-2621516",
+          "priceTtc": 6.4,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 6.4,
+      "sellingPriceTtc": 6.39
+    },
+    {
+      "id": "glt-0198",
+      "mpn": "ESP-PE-000",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-d-eau-de-nettoyage-nettoyage-des-vitres-ESPPE000-teknor-2457338",
+          "priceTtc": 4.38,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.38,
+      "sellingPriceTtc": 4.39
+    },
+    {
+      "id": "glt-0199",
+      "mpn": "WBR7027.00",
+      "brand": "OPEN PARTS",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/balai-d-essuie-glace-WBR702700-open-parts-3438144",
+          "priceTtc": 4.44,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.44,
+      "sellingPriceTtc": 4.39
+    },
+    {
+      "id": "glt-0200",
+      "mpn": "QWP092",
+      "brand": "QUINTON HAZELL",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-d-eau-de-nettoyage-nettoyage-des-vitres-QWP092-quinton-hazell-3708667",
+          "priceTtc": 14.03,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 14.03,
+      "sellingPriceTtc": 13.99
+    },
+    {
+      "id": "glt-0201",
+      "mpn": "ESP-VV-001",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-d-eau-de-nettoyage-nettoyage-des-vitres-ESPVV001-teknor-4416706",
+          "priceTtc": 4.06,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.06,
+      "sellingPriceTtc": 4.09
+    },
+    {
+      "id": "glt-0202",
+      "mpn": "ESP-PL-000",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/pompe-d-eau-de-nettoyage-nettoyage-des-vitres-ESPPL000-teknor-3712131",
+          "priceTtc": 3.38,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 3.38,
+      "sellingPriceTtc": 3.39
+    },
+    {
+      "id": "glt-0203",
+      "mpn": "EMW-TY-001",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/tringlerie-d-essuie-glace-EMWTY001-teknor-3712770",
+          "priceTtc": 21.01,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 21.01,
+      "sellingPriceTtc": 20.99
+    },
+    {
+      "id": "glt-0204",
+      "mpn": "EMW-PL-004",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/tringlerie-d-essuie-glace-EMWPL004-teknor-3712778",
+          "priceTtc": 50.04,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 50.04,
+      "sellingPriceTtc": 49.99
+    },
+    {
+      "id": "glt-0205",
+      "mpn": "EMW-HD-004",
+      "brand": "TEKNÖR",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/tringlerie-d-essuie-glace-EMWHD004-teknor-3893747",
+          "priceTtc": 26.69,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 26.69,
+      "sellingPriceTtc": 26.69
+    },
+    {
+      "id": "glt-0206",
+      "mpn": "642398",
+      "brand": "OE",
+      "checkedOn": "2026-11-06",
+      "offers": [
+        {
+          "seller": "Carmino",
+          "url": "https://www.carmino.fr/p/kit-de-bras-d-essuie-glace-nettoyage-des-vitres-642398-oe-3902204",
+          "priceTtc": 4.12,
+          "currency": "EUR",
+          "vatIncluded": true
+        }
+      ],
+      "lowestTtc": 4.12,
+      "sellingPriceTtc": 4.09
+    }
+  ]
+}

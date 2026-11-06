@@ -23,8 +23,11 @@ function loc(value, path) {
   }
 }
 
-if (!Array.isArray(products) || products.length < 30) {
-  errors.push(`expected at least 30 products, got ${products.length}`)
+const priceFile = JSON.parse(readFileSync(resolve(root, 'src/data/price-sources.json'), 'utf8'))
+const sourceById = new Map((priceFile.parts ?? []).map((part) => [part.id, part]))
+
+if (!Array.isArray(products) || products.length < 180) {
+  errors.push(`expected at least 180 products, got ${products.length}`)
 }
 
 const categoryIds = new Set(categories.map((c) => c.id))
@@ -44,20 +47,26 @@ for (const product of products) {
     if (!product[key] || seen[key].has(product[key])) errors.push(`duplicate or empty ${key}: ${product[key]}`)
     seen[key].add(product[key])
   }
-  if (product.fictional !== true) errors.push(`${product.id} must be marked fictional: true`)
+  if (product.fictional !== false) errors.push(`${product.id} must be a real catalogue line`)
+  if (product.fulfillment !== 'partner') errors.push(`${product.id} must be partner-fulfilled`)
   if (!categoryIds.has(product.category)) errors.push(`${product.id} unknown category ${product.category}`)
   if (!artIds.has(product.art)) errors.push(`${product.id} unknown art ${product.art}`)
   if (typeof product.priceTtc !== 'number' || product.priceTtc <= 0) errors.push(`${product.id} bad price`)
-  if (product.vatRate !== 0.2) errors.push(`${product.id} vatRate must stay at the example rate 0.2`)
-  if (product.fulfillment !== 'stock' && product.fulfillment !== 'partner') {
-    errors.push(`${product.id} bad fulfillment`)
-  }
+  if (product.vatRate !== 0.2) errors.push(`${product.id} vatRate must stay at 0.2`)
   if (product.leadMin < 1 || product.leadMax < product.leadMin) errors.push(`${product.id} bad lead time`)
-  if (!product.sku.startsWith('GLT-')) errors.push(`${product.id} sku must start with GLT-`)
-  if (/d[eé]mo|demonstration|demostraci|dimostrazi|vorführung/i.test(JSON.stringify(product))) {
-    errors.push(`${product.id} still contains a forbidden catalogue label`)
+  if (!product.mpn || !product.brand) errors.push(`${product.id} needs a manufacturer reference and brand`)
+  if (!Array.isArray(product.oeNumbers)) errors.push(`${product.id} oeNumbers must be an array`)
+  const source = sourceById.get(product.id)
+  if (!source || !Array.isArray(source.offers) || source.offers.length < 1) {
+    errors.push(`${product.id} has no stored public price source`)
+  } else if (source.sellingPriceTtc !== product.priceTtc) {
+    errors.push(`${product.id} price does not match the stored selling price`)
+  } else if (!source.offers.every((offer) => offer.url && offer.priceTtc > 0)) {
+    errors.push(`${product.id} has an offer without a url or price`)
   }
-  if (!product.oem.startsWith('EX-OEM-')) errors.push(`${product.id} oem must start with EX-OEM-`)
+  if (/horizon|rivage|sommet|travers[eé]e/i.test(JSON.stringify(product))) {
+    errors.push(`${product.id} still names a fictional make`)
+  }
   loc(product.name, `${product.id}.name`)
   loc(product.summary, `${product.id}.summary`)
   loc(product.description, `${product.id}.description`)
@@ -66,9 +75,6 @@ for (const product of products) {
     loc(spec.label, `${product.id}.specs[${index}].label`)
     loc(spec.value, `${product.id}.specs[${index}].value`)
   }
-  if (!Array.isArray(product.compatibility) || product.compatibility.length === 0) {
-    errors.push(`${product.id} needs example compatibility`)
-  }
   for (const fit of product.compatibility ?? []) {
     const make = vehicleById.get(fit.make)
     if (!make) {
@@ -76,24 +82,15 @@ for (const product of products) {
       continue
     }
     const model = make.models.find((item) => item.id === fit.model)
-    if (!model) {
-      errors.push(`${product.id} unknown model ${fit.model}`)
-      continue
-    }
-    const years = model.years
-    if (fit.yearFrom < years[0] || fit.yearTo > years[years.length - 1] || fit.yearFrom > fit.yearTo) {
-      errors.push(`${product.id} year range outside ${fit.model}`)
-    }
-    for (const engine of fit.engines) {
-      if (!model.engines.some((item) => item.id === engine)) {
-        errors.push(`${product.id} unknown engine ${engine} on ${fit.model}`)
-      }
-    }
+    if (!model) errors.push(`${product.id} unknown model ${fit.model}`)
   }
 }
 
 const best = products.filter((product) => product.bestSeller)
 if (best.length < 6) errors.push('expected at least 6 bestsellers')
+
+const forbiddenMakes = vehicles.filter((make) => /horizon|rivage|sommet|travers/i.test(`${make.id} ${make.name.fr}`))
+if (forbiddenMakes.length) errors.push('fictional makes are still in vehicles.json')
 
 if (errors.length) {
   console.error(`Catalogue check failed (${errors.length})`)
@@ -101,4 +98,4 @@ if (errors.length) {
   process.exit(1)
 }
 
-console.log(`Catalogue OK: ${products.length} example products, ${vehicles.length} fictional makes.`)
+console.log(`Catalogue OK: ${products.length} priced parts, ${vehicles.length} makes named by source pages.`)

@@ -2,7 +2,7 @@
 
 Vitrine statique d’une maison de pièces automobiles neuves, livrées en Europe depuis le stock de la société ou directement par un partenaire. Le site est en français par défaut, avec un sélecteur FR / EN / DE / ES / IT.
 
-Les pièces, prix, stocks, délais et compatibilités sont fictifs. Aucun montage réel n’est annoncé. Aucun paiement n’est encaissé. Le site public est [grandlinetime.com](https://grandlinetime.com).
+Les prix sont le plus bas prix public TTC relevé chez un marchand européen, arrondi en ,x9. La compatibilité n’est affichée que si la page source la cite pour la référence. Le paiement n’est pas encaissé. Le site public est [grandlinetime.com](https://grandlinetime.com).
 
 ## Lancer en local
 
@@ -47,7 +47,7 @@ Les textes légaux sont des modèles. Les faire relire par un conseil avant tout
 
 ## Catalogue
 
-`src/data/products.json` contient 30 produits exemple (`fictional: true`, références `GLT-…`, OEM `EX-OEM-…`). Les véhicules de `src/data/vehicles.json` sont des marques fictives (Horizon, Rivage, Sommet, Traversée). `npm run check` refuse un produit incomplet ou avec une compatibilité inconnue.
+`src/data/products.json` contient les pièces dont un prix public TTC a été lu. `src/data/price-sources.json` garde l’URL, le prix observé et la date. `npm run refresh-prices` relit ces URLs. `npm run check` refuse un prix sans source.
 
 Les illustrations sont des SVG d’origine, dans `src/components/PartArt.tsx`. Aucune image distante.
 
