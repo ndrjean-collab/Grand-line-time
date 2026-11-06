@@ -2,7 +2,7 @@
 
 Vitrine statique d’une maison de pièces automobiles neuves, livrées en Europe depuis le stock de la société ou directement par un partenaire. Le site est en français par défaut, avec un sélecteur FR / EN / DE / ES / IT.
 
-Les prix sont le plus bas prix public TTC relevé chez un marchand européen, arrondi en ,x9. La compatibilité n’est affichée que si la page source la cite pour la référence. Le paiement n’est pas encaissé. Le site public est [grandlinetime.com](https://grandlinetime.com).
+Les prix sont 5 % sous le plus bas prix public TTC relevé, arrondis au montant en ,x9 qui ne dépasse pas cette remise. La compatibilité n’est affichée que si la page source la cite pour la référence. Le paiement n’est pas encaissé. Le site public est [grandlinetime.com](https://grandlinetime.com).
 
 ## Lancer en local
 

@@ -66,11 +66,11 @@ export const aboutDoc: InfoDoc = {
     {
       kind: 'callout',
       text: L(
-        'Les références sont des pièces neuves du marché. Le prix affiché est le plus bas prix public TTC relevé, arrondi en ,x9. La compatibilité n’est listée que si la page source la cite pour cette référence. Le paiement n’est pas encore branché. Le site est publié sur grandlinetime.com.',
-        'The references are new aftermarket parts. The price shown is the lowest public price including VAT that was found, rounded to end in 9 cents. Compatibility is listed only when the source page states it for that part number. Payment is not connected yet. The site is published at grandlinetime.com.',
-        'Die Referenzen sind neue Ersatzteile. Der Preis ist der niedrigste gefundene öffentliche Preis inkl. MwSt., gerundet auf eine Endung mit 9 Cent. Eine Passform steht nur dann, wenn die Quellseite sie für diese Referenz nennt. Die Zahlung ist noch nicht angebunden. Die Website ist unter grandlinetime.com veröffentlicht.',
-        'Las referencias son recambios nuevos. El precio es el menor precio público con IVA encontrado, redondeado para terminar en 9 céntimos. La compatibilidad solo se lista si la página de origen la cita para esa referencia. El pago aún no está conectado. El sitio está publicado en grandlinetime.com.',
-        'I riferimenti sono ricambi nuovi. Il prezzo è il più basso prezzo pubblico IVA inclusa trovato, arrotondato in modo da finire con 9 centesimi. La compatibilità è elencata solo se la pagina di origine la indica per quel riferimento. Il pagamento non è ancora collegato. Il sito è pubblicato su grandlinetime.com.',
+        'Les références sont des pièces neuves du marché. Le prix affiché est 5 % sous le plus bas prix public TTC relevé, arrondi au montant en ,x9 qui ne dépasse pas cette remise. La compatibilité n’est listée que si la page source la cite pour cette référence. Le paiement n’est pas encore branché. Le site est publié sur grandlinetime.com.',
+        'The references are new aftermarket parts. The price shown is 5% below the lowest public price including VAT that was found, rounded down to an amount ending in 9 cents that does not exceed that discount. Compatibility is listed only when the source page states it for that part number. Payment is not connected yet. The site is published at grandlinetime.com.',
+        'Die Referenzen sind neue Ersatzteile. Der Preis liegt 5 % unter dem niedrigsten gefundenen öffentlichen Preis inkl. MwSt. und endet auf 9 Cent, ohne diese Ermäßigung zu überschreiten. Eine Passform steht nur dann, wenn die Quellseite sie für diese Referenz nennt. Die Zahlung ist noch nicht angebunden. Die Website ist unter grandlinetime.com veröffentlicht.',
+        'Las referencias son recambios nuevos. El precio es un 5 % inferior al menor precio público con IVA encontrado, redondeado hacia abajo a un importe que termina en 9 céntimos sin superar ese descuento. La compatibilidad solo se lista si la página de origen la cita para esa referencia. El pago aún no está conectado. El sitio está publicado en grandlinetime.com.',
+        'I riferimenti sono ricambi nuovi. Il prezzo è il 5% sotto il più basso prezzo pubblico IVA inclusa trovato, arrotondato per difetto a un importo che finisce con 9 centesimi senza superare quello sconto. La compatibilità è elencata solo se la pagina di origine la indica per quel riferimento. Il pagamento non è ancora collegato. Il sito è pubblicato su grandlinetime.com.',
       ),
     },
     {
@@ -276,11 +276,11 @@ export const termsDoc: InfoDoc = {
     {
       kind: 'p',
       text: L(
-        'Elles décriront la vente de pièces automobiles neuves par [RAISON SOCIALE], [FORME JURIDIQUE], dont le siège est [ADRESSE], aux consommateurs et, le cas échéant, aux professionnels. Les prix affichés reprennent le plus bas prix public TTC relevé.',
-        'They will describe the sale of new automotive parts by [COMPANY NAME], [LEGAL FORM], registered office [ADDRESS], to consumers and, where relevant, to professionals. Displayed prices follow the lowest public price including VAT that was found.',
-        'Sie werden den Verkauf neuer Fahrzeugteile durch [FIRMENNAME], [RECHTSFORM], Sitz [ADRESSE], an Verbraucher und gegebenenfalls Gewerbekunden beschreiben. Die Preise folgen dem niedrigsten gefundenen öffentlichen Preis inkl. MwSt.',
-        'Describirán la venta de recambios nuevos por [RAZÓN SOCIAL], [FORMA JURÍDICA], domicilio [DIRECCIÓN], a consumidores y, en su caso, a profesionales. Los precios siguen el menor precio público con IVA encontrado.',
-        'Descriveranno la vendita di ricambi nuovi da parte di [RAGIONE SOCIALE], [FORMA GIURIDICA], sede [INDIRIZZO], a consumatori e, se del caso, a professionisti. I prezzi seguono il più basso prezzo pubblico IVA inclusa trovato.',
+        'Elles décriront la vente de pièces automobiles neuves par [RAISON SOCIALE], [FORME JURIDIQUE], dont le siège est [ADRESSE], aux consommateurs et, le cas échéant, aux professionnels. Les prix affichés sont 5 % sous le plus bas prix public TTC relevé.',
+        'They will describe the sale of new automotive parts by [COMPANY NAME], [LEGAL FORM], registered office [ADDRESS], to consumers and, where relevant, to professionals. Displayed prices are 5% below the lowest public price including VAT that was found.',
+        'Sie werden den Verkauf neuer Fahrzeugteile durch [FIRMENNAME], [RECHTSFORM], Sitz [ADRESSE], an Verbraucher und gegebenenfalls Gewerbekunden beschreiben. Die Preise liegen 5 % unter dem niedrigsten gefundenen öffentlichen Preis inkl. MwSt.',
+        'Describirán la venta de recambios nuevos por [RAZÓN SOCIAL], [FORMA JURÍDICA], domicilio [DIRECCIÓN], a consumidores y, en su caso, a profesionales. Los precios son un 5 % inferiores al menor precio público con IVA encontrado.',
+        'Descriveranno la vendita di ricambi nuovi da parte di [RAGIONE SOCIALE], [FORMA GIURIDICA], sede [INDIRIZZO], a consumatori e, se del caso, a professionisti. I prezzi sono il 5% sotto il più basso prezzo pubblico IVA inclusa trovato.',
       ),
     },
     {

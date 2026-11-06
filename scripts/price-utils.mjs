@@ -1,9 +1,20 @@
-/** Lowest public EUR TTC price, rounded to the nearest price ending in 9 cents. */
-export function sellingPriceFromLowest(amount) {
-  if (!Number.isFinite(amount) || amount <= 0) return null
-  const tenths = Math.round(amount * 10) / 10
-  const value = Math.round((tenths - 0.01) * 100) / 100
-  return value > 0 ? value : Math.round(amount * 100) / 100
+/** Share taken off the lowest competitor price. 0.05 means the shelf price is 5% below that price. */
+export const PRICE_DISCOUNT = 0.05
+
+/**
+ * Shelf price: lowest × (1 − PRICE_DISCOUNT), then the greatest amount
+ * that ends in 9 cents and is not above that discounted figure.
+ */
+export function sellingPriceFromLowest(lowest) {
+  if (!Number.isFinite(lowest) || lowest <= 0) return null
+  const cap = lowest * (1 - PRICE_DISCOUNT)
+  let cents = Math.floor(cap * 100 + 1e-8)
+  const lastDigit = cents % 10
+  cents = lastDigit === 9 ? cents : cents - lastDigit - 1
+  if (cents <= 0) return null
+  const price = cents / 100
+  if (price > cap + 1e-9) return null
+  return price
 }
 
 export function parseEuro(text) {

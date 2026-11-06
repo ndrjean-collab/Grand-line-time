@@ -1,6 +1,6 @@
 import { writeFileSync } from 'node:fs'
 import { resolve } from 'node:path'
-import { sellingPriceFromLowest } from './price-utils.mjs'
+import { PRICE_DISCOUNT, sellingPriceFromLowest } from './price-utils.mjs'
 
 const root = resolve(import.meta.dirname, '..')
 const today = new Date().toISOString().slice(0, 10)
@@ -471,7 +471,7 @@ const priceSources = {
   checkedOn: today,
   currency: 'EUR',
   vatIncluded: true,
-  sellingPriceRule: 'Lowest observed public TTC price, rounded to the nearest amount ending in 9 cents.',
+  sellingPriceRule: `Lowest observed public TTC price minus ${PRICE_DISCOUNT * 100}%, then rounded down to a price ending in 9 cents, never above that discounted amount.`,
   sites: {
     carmino: 'Product pages returned a public EUR TTC price, specifications and, when present, stated fitment.',
     oscaro: 'Blocked: HTTP 403 Cloudflare challenge.',

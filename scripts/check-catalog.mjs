@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
+import { PRICE_DISCOUNT, sellingPriceFromLowest } from './price-utils.mjs'
 
 const root = resolve(import.meta.dirname, '..')
 const products = JSON.parse(readFileSync(resolve(root, 'src/data/products.json'), 'utf8'))
@@ -61,6 +62,8 @@ for (const product of products) {
     errors.push(`${product.id} has no stored public price source`)
   } else if (source.sellingPriceTtc !== product.priceTtc) {
     errors.push(`${product.id} price does not match the stored selling price`)
+  } else if (sellingPriceFromLowest(source.lowestTtc) !== product.priceTtc) {
+    errors.push(`${product.id} price is not ${PRICE_DISCOUNT * 100}% below the lowest offer`)
   } else if (!source.offers.every((offer) => offer.url && offer.priceTtc > 0)) {
     errors.push(`${product.id} has an offer without a url or price`)
   }

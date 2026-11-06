@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from 'node:fs'
 import { resolve } from 'node:path'
-import { sellingPriceFromLowest } from './price-utils.mjs'
+import { PRICE_DISCOUNT, sellingPriceFromLowest } from './price-utils.mjs'
 
 const root = resolve(import.meta.dirname, '..')
 const today = new Date().toISOString().slice(0, 10)
@@ -61,7 +61,11 @@ for (const part of sources.parts ?? []) {
   }
   if (!prices.length) continue
   const lowest = Math.min(...prices)
+  const cap = lowest * (1 - PRICE_DISCOUNT)
   const selling = sellingPriceFromLowest(lowest)
+  if (selling != null && selling > cap + 1e-9) {
+    throw new Error(`${part.mpn}: selling price ${selling} is above ${cap}`)
+  }
   part.lowestTtc = Math.round(lowest * 100) / 100
   part.sellingPriceTtc = selling
   part.checkedOn = today
