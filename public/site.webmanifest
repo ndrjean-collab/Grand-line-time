@@ -1,0 +1,17 @@
+{
+  "name": "Grand Line Time",
+  "short_name": "Grand Line",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f0e6",
+  "theme_color": "#12161a",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
