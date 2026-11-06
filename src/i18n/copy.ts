@@ -247,11 +247,11 @@ export const copy = {
     'Sito: grandlinetime.com',
   ),
   footerRights: L(
-    '© {year} Grand Line Time — [RAISON SOCIALE]. Tous droits réservés.',
-    '© {year} Grand Line Time — [COMPANY NAME]. All rights reserved.',
-    '© {year} Grand Line Time — [FIRMENNAME]. Alle Rechte vorbehalten.',
-    '© {year} Grand Line Time — [RAZÓN SOCIAL]. Todos los derechos reservados.',
-    '© {year} Grand Line Time — [RAGIONE SOCIALE]. Tutti i diritti riservati.',
+    '© {year} Grand Line Time SASU. Tous droits réservés.',
+    '© {year} Grand Line Time SASU. All rights reserved.',
+    '© {year} Grand Line Time SASU. Alle Rechte vorbehalten.',
+    '© {year} Grand Line Time SASU. Todos los derechos reservados.',
+    '© {year} Grand Line Time SASU. Tutti i diritti riservati.',
   ),
   footerVat: L(
     'Prix en euros TTC. TVA indiquée : 20 % (France métropolitaine).',

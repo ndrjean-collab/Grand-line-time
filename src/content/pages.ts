@@ -374,8 +374,8 @@ export const legalDoc: InfoDoc = {
     {
       kind: 'ul',
       items: [
-        L('Dénomination : [RAISON SOCIALE]', 'Name: [COMPANY NAME]', 'Name: [FIRMENNAME]', 'Denominación: [RAZÓN SOCIAL]', 'Denominazione: [RAGIONE SOCIALE]'),
-        L('Forme : [FORME JURIDIQUE]', 'Form: [LEGAL FORM]', 'Form: [RECHTSFORM]', 'Forma: [FORMA JURÍDICA]', 'Forma: [FORMA GIURIDICA]'),
+        L('Dénomination : Grand Line Time SASU', 'Name: Grand Line Time SASU', 'Name: Grand Line Time SASU', 'Denominación: Grand Line Time SASU', 'Denominazione: Grand Line Time SASU'),
+        L('Forme : SASU', 'Form: SASU', 'Form: SASU', 'Forma: SASU', 'Forma: SASU'),
         L('Capital : [CAPITAL SOCIAL]', 'Share capital: [SHARE CAPITAL]', 'Kapital: [STAMMKAPITAL]', 'Capital: [CAPITAL SOCIAL]', 'Capitale: [CAPITALE SOCIALE]'),
         L('Siège : [ADRESSE], [CODE POSTAL] [VILLE], [PAYS]', 'Office: [ADDRESS], [POSTCODE] [CITY], [COUNTRY]', 'Sitz: [ADRESSE], [PLZ] [ORT], [LAND]', 'Domicilio: [DIRECCIÓN], [CÓDIGO POSTAL] [CIUDAD], [PAÍS]', 'Sede: [INDIRIZZO], [CAP] [CITTÀ], [PAESE]'),
         L('RCS : [RCS]', 'Register: [COMPANY REGISTER]', 'Register: [HANDELSREGISTER]', 'Registro: [REGISTRO MERCANTIL]', 'Registro: [REGISTRO IMPRESE]'),
