@@ -1,0 +1,14 @@
+[
+  { "id": "freinage", "art": "disc" },
+  { "id": "filtration", "art": "oil-filter" },
+  { "id": "moteur", "art": "timing" },
+  { "id": "suspension", "art": "shock" },
+  { "id": "eclairage", "art": "headlamp" },
+  { "id": "carrosserie", "art": "bumper" },
+  { "id": "electricite", "art": "battery" },
+  { "id": "embrayage", "art": "clutch" },
+  { "id": "echappement", "art": "muffler" },
+  { "id": "refroidissement", "art": "radiator" },
+  { "id": "huiles", "art": "oil" },
+  { "id": "accessoires", "art": "wiper" }
+]

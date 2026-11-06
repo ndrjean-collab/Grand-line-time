@@ -1,0 +1,258 @@
+[
+  {
+    "id": "horizon",
+    "name": {
+      "fr": "Horizon",
+      "en": "Horizon",
+      "de": "Horizon",
+      "es": "Horizon",
+      "it": "Horizon"
+    },
+    "models": [
+      {
+        "id": "h-citadine",
+        "name": {
+          "fr": "Citadine 110",
+          "en": "City 110",
+          "de": "Kleinwagen 110",
+          "es": "Urbano 110",
+          "it": "City 110"
+        },
+        "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+        "engines": [
+          {
+            "id": "eng-h-12",
+            "name": {
+              "fr": "1.2 essence — exemple",
+              "en": "1.2 petrol — example",
+              "de": "1.2 Benzin — Beispiel",
+              "es": "1.2 gasolina — ejemplo",
+              "it": "1.2 benzina — esempio"
+            }
+          },
+          {
+            "id": "eng-h-15d",
+            "name": {
+              "fr": "1.5 diesel — exemple",
+              "en": "1.5 diesel — example",
+              "de": "1.5 Diesel — Beispiel",
+              "es": "1.5 diésel — ejemplo",
+              "it": "1.5 diesel — esempio"
+            }
+          }
+        ]
+      },
+      {
+        "id": "h-compacte",
+        "name": {
+          "fr": "Compacte 210",
+          "en": "Compact 210",
+          "de": "Kompakt 210",
+          "es": "Compacto 210",
+          "it": "Compatta 210"
+        },
+        "years": [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+        "engines": [
+          {
+            "id": "eng-h-14",
+            "name": {
+              "fr": "1.4 essence — exemple",
+              "en": "1.4 petrol — example",
+              "de": "1.4 Benzin — Beispiel",
+              "es": "1.4 gasolina — ejemplo",
+              "it": "1.4 benzina — esempio"
+            }
+          },
+          {
+            "id": "eng-h-16d",
+            "name": {
+              "fr": "1.6 diesel — exemple",
+              "en": "1.6 diesel — example",
+              "de": "1.6 Diesel — Beispiel",
+              "es": "1.6 diésel — ejemplo",
+              "it": "1.6 diesel — esempio"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rivage",
+    "name": {
+      "fr": "Rivage",
+      "en": "Rivage",
+      "de": "Rivage",
+      "es": "Rivage",
+      "it": "Rivage"
+    },
+    "models": [
+      {
+        "id": "r-berline",
+        "name": {
+          "fr": "Berline 320",
+          "en": "Saloon 320",
+          "de": "Limousine 320",
+          "es": "Berlina 320",
+          "it": "Berlina 320"
+        },
+        "years": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "engines": [
+          {
+            "id": "eng-r-16",
+            "name": {
+              "fr": "1.6 essence — exemple",
+              "en": "1.6 petrol — example",
+              "de": "1.6 Benzin — Beispiel",
+              "es": "1.6 gasolina — ejemplo",
+              "it": "1.6 benzina — esempio"
+            }
+          },
+          {
+            "id": "eng-r-20d",
+            "name": {
+              "fr": "2.0 diesel — exemple",
+              "en": "2.0 diesel — example",
+              "de": "2.0 Diesel — Beispiel",
+              "es": "2.0 diésel — ejemplo",
+              "it": "2.0 diesel — esempio"
+            }
+          }
+        ]
+      },
+      {
+        "id": "r-break",
+        "name": {
+          "fr": "Break 330",
+          "en": "Estate 330",
+          "de": "Kombi 330",
+          "es": "Familiar 330",
+          "it": "Station 330"
+        },
+        "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "engines": [
+          {
+            "id": "eng-r-16b",
+            "name": {
+              "fr": "1.6 essence — exemple",
+              "en": "1.6 petrol — example",
+              "de": "1.6 Benzin — Beispiel",
+              "es": "1.6 gasolina — ejemplo",
+              "it": "1.6 benzina — esempio"
+            }
+          },
+          {
+            "id": "eng-r-20db",
+            "name": {
+              "fr": "2.0 diesel — exemple",
+              "en": "2.0 diesel — example",
+              "de": "2.0 Diesel — Beispiel",
+              "es": "2.0 diésel — ejemplo",
+              "it": "2.0 diesel — esempio"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sommet",
+    "name": {
+      "fr": "Sommet",
+      "en": "Sommet",
+      "de": "Sommet",
+      "es": "Sommet",
+      "it": "Sommet"
+    },
+    "models": [
+      {
+        "id": "s-suv",
+        "name": {
+          "fr": "SUV 440",
+          "en": "SUV 440",
+          "de": "SUV 440",
+          "es": "SUV 440",
+          "it": "SUV 440"
+        },
+        "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025],
+        "engines": [
+          {
+            "id": "eng-s-18",
+            "name": {
+              "fr": "1.8 essence — exemple",
+              "en": "1.8 petrol — example",
+              "de": "1.8 Benzin — Beispiel",
+              "es": "1.8 gasolina — ejemplo",
+              "it": "1.8 benzina — esempio"
+            }
+          },
+          {
+            "id": "eng-s-20d",
+            "name": {
+              "fr": "2.0 diesel — exemple",
+              "en": "2.0 diesel — example",
+              "de": "2.0 Diesel — Beispiel",
+              "es": "2.0 diésel — ejemplo",
+              "it": "2.0 diesel — esempio"
+            }
+          },
+          {
+            "id": "eng-s-hyb",
+            "name": {
+              "fr": "Hybride — exemple",
+              "en": "Hybrid — example",
+              "de": "Hybrid — Beispiel",
+              "es": "Híbrido — ejemplo",
+              "it": "Ibrido — esempio"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "traversee",
+    "name": {
+      "fr": "Traversée",
+      "en": "Traversée",
+      "de": "Traversée",
+      "es": "Traversée",
+      "it": "Traversée"
+    },
+    "models": [
+      {
+        "id": "t-util",
+        "name": {
+          "fr": "Utilitaire 550",
+          "en": "Van 550",
+          "de": "Transporter 550",
+          "es": "Furgón 550",
+          "it": "Furgone 550"
+        },
+        "years": [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022],
+        "engines": [
+          {
+            "id": "eng-t-20d",
+            "name": {
+              "fr": "2.0 diesel — exemple",
+              "en": "2.0 diesel — example",
+              "de": "2.0 Diesel — Beispiel",
+              "es": "2.0 diésel — ejemplo",
+              "it": "2.0 diesel — esempio"
+            }
+          },
+          {
+            "id": "eng-t-22d",
+            "name": {
+              "fr": "2.2 diesel — exemple",
+              "en": "2.2 diesel — example",
+              "de": "2.2 Diesel — Beispiel",
+              "es": "2.2 diésel — ejemplo",
+              "it": "2.2 diesel — esempio"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+# Demonstration catalogue — keep out of search indexes until real products replace it.
+User-agent: *
+Disallow: /

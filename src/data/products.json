@@ -1,0 +1,3605 @@
+[
+  {
+    "id": "ex-1001",
+    "slug": "plaquettes-frein-avant-exemple",
+    "sku": "GLT-DEMO-1001",
+    "oem": "EX-OEM-100001",
+    "demo": true,
+    "category": "freinage",
+    "art": "pads",
+    "priceTtc": 42.9,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": true,
+    "rank": 1,
+    "name": {
+      "fr": "Jeu de plaquettes de frein avant — exemple",
+      "en": "Front brake pad set — example",
+      "de": "Bremsbelagsatz vorne — Beispiel",
+      "es": "Juego de pastillas de freno delanteras — ejemplo",
+      "it": "Set pastiglie freno anteriori — esempio"
+    },
+    "summary": {
+      "fr": "Jeu avant pour une citadine de démonstration.",
+      "en": "Front axle set for a demonstration city car.",
+      "de": "Vorderachssatz für einen Demonstrations-Kleinwagen.",
+      "es": "Juego delantero para un urbano de demostración.",
+      "it": "Set anteriore per una city di dimostrazione."
+    },
+    "description": {
+      "fr": "Plaquettes neuves de démonstration, sans marque, prévues pour illustrer une fiche freinage. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Unbranded new demonstration pads, used to illustrate a braking product sheet. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Markenneutrale neue Demonstrationsbeläge zur Darstellung eines Bremsenartikels. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Pastillas nuevas de demostración, sin marca, para ilustrar una ficha de frenado. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Pastiglie nuove di dimostrazione, senza marchio, per illustrare una scheda freni. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant — exemple",
+          "en": "Front — example",
+          "de": "Vorne — Beispiel",
+          "es": "Delantero — ejemplo",
+          "it": "Anteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "4 plaquettes — exemple",
+          "en": "4 pads — example",
+          "de": "4 Beläge — Beispiel",
+          "es": "4 pastillas — ejemplo",
+          "it": "4 pastiglie — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Témoin d’usure",
+          "en": "Wear sensor",
+          "de": "Verschleißkontakt",
+          "es": "Testigo de desgaste",
+          "it": "Sensore usura"
+        },
+        "value": {
+          "fr": "Non inclus — exemple",
+          "en": "Not included — example",
+          "de": "Nicht enthalten — Beispiel",
+          "es": "No incluido — ejemplo",
+          "it": "Non incluso — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Épaisseur",
+          "en": "Thickness",
+          "de": "Dicke",
+          "es": "Espesor",
+          "it": "Spessore"
+        },
+        "value": {
+          "fr": "18 mm — exemple",
+          "en": "18 mm — example",
+          "de": "18 mm — Beispiel",
+          "es": "18 mm — ejemplo",
+          "it": "18 mm — esempio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2021,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      },
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2020,
+        "engines": [
+          "eng-r-16"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1002",
+    "slug": "disque-frein-ventile-avant-exemple",
+    "sku": "GLT-DEMO-1002",
+    "oem": "EX-OEM-100002",
+    "demo": true,
+    "category": "freinage",
+    "art": "disc",
+    "priceTtc": 68.5,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 9,
+    "name": {
+      "fr": "Disque de frein ventilé avant — exemple",
+      "en": "Front ventilated brake disc — example",
+      "de": "Belüftete Bremsscheibe vorne — Beispiel",
+      "es": "Disco de freno ventilado delantero — ejemplo",
+      "it": "Disco freno ventilato anteriore — esempio"
+    },
+    "summary": {
+      "fr": "Disque ventilé vendu à l’unité, cote fictive.",
+      "en": "Vented disc sold individually, fictional size.",
+      "de": "Belüftete Scheibe, einzeln, fiktives Maß.",
+      "es": "Disco ventilado por unidad, cota ficticia.",
+      "it": "Disco ventilato venduto singolarmente, misura fittizia."
+    },
+    "description": {
+      "fr": "Disque ventilé de démonstration pour montrer une pièce de freinage tenue en stock. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration vented disc used to show a braking part held in stock. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Belüftete Demonstrationsscheibe für einen lagernden Bremsenartikel. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Disco ventilado de demostración para mostrar una pieza de frenado en stock. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Disco ventilato di dimostrazione per mostrare un ricambio freni a stock. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant — exemple",
+          "en": "Front — example",
+          "de": "Vorne — Beispiel",
+          "es": "Delantero — ejemplo",
+          "it": "Anteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "1 disque — exemple",
+          "en": "1 disc — example",
+          "de": "1 Scheibe — Beispiel",
+          "es": "1 disco — ejemplo",
+          "it": "1 disco — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Diamètre",
+          "en": "Diameter",
+          "de": "Durchmesser",
+          "es": "Diámetro",
+          "it": "Diametro"
+        },
+        "value": {
+          "fr": "280 mm — exemple",
+          "en": "280 mm — example",
+          "de": "280 mm — Beispiel",
+          "es": "280 mm — ejemplo",
+          "it": "280 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Épaisseur",
+          "en": "Thickness",
+          "de": "Dicke",
+          "es": "Espesor",
+          "it": "Spessore"
+        },
+        "value": {
+          "fr": "22 mm — exemple",
+          "en": "22 mm — example",
+          "de": "22 mm — Beispiel",
+          "es": "22 mm — ejemplo",
+          "it": "22 mm — esempio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2021,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1003",
+    "slug": "flexible-frein-exemple",
+    "sku": "GLT-DEMO-1003",
+    "oem": "EX-OEM-100003",
+    "demo": true,
+    "category": "freinage",
+    "art": "hose",
+    "priceTtc": 24.9,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 16,
+    "name": {
+      "fr": "Flexible de frein — exemple",
+      "en": "Brake hose — example",
+      "de": "Bremsschlauch — Beispiel",
+      "es": "Latiguillo de freno — ejemplo",
+      "it": "Tubo freno flessibile — esempio"
+    },
+    "summary": {
+      "fr": "Flexible avant expédié par un partenaire fictif.",
+      "en": "Front hose shipped by a fictional partner.",
+      "de": "Vorderer Schlauch, Versand durch einen fiktiven Partner.",
+      "es": "Latiguillo delantero enviado por un socio ficticio.",
+      "it": "Tubo anteriore spedito da un partner fittizio."
+    },
+    "description": {
+      "fr": "Flexible de démonstration pour illustrer une pièce absente du stock et expédiée directement. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration hose illustrating a part that is not in stock and ships directly. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrationsschlauch für einen Artikel, der nicht lagernd ist und direkt versendet wird. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Latiguillo de demostración para una pieza que no está en stock y se envía directa. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Tubo di dimostrazione per un ricambio assente a stock e spedito direttamente. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant — exemple",
+          "en": "Front — example",
+          "de": "Vorne — Beispiel",
+          "es": "Delantero — ejemplo",
+          "it": "Anteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Longueur",
+          "en": "Length",
+          "de": "Länge",
+          "es": "Longitud",
+          "it": "Lunghezza"
+        },
+        "value": {
+          "fr": "320 mm — exemple",
+          "en": "320 mm — example",
+          "de": "320 mm — Beispiel",
+          "es": "320 mm — ejemplo",
+          "it": "320 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Matière",
+          "en": "Material",
+          "de": "Werkstoff",
+          "es": "Material",
+          "it": "Materiale"
+        },
+        "value": {
+          "fr": "Caoutchouc — exemple",
+          "en": "Rubber — example",
+          "de": "Gummi — Beispiel",
+          "es": "Caucho — ejemplo",
+          "it": "Gomma — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2025,
+        "engines": [
+          "eng-s-18",
+          "eng-s-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1004",
+    "slug": "filtre-huile-exemple",
+    "sku": "GLT-DEMO-1004",
+    "oem": "EX-OEM-100004",
+    "demo": true,
+    "category": "filtration",
+    "art": "oil-filter",
+    "priceTtc": 12.4,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": true,
+    "rank": 2,
+    "name": {
+      "fr": "Filtre à huile — exemple",
+      "en": "Oil filter — example",
+      "de": "Ölfilter — Beispiel",
+      "es": "Filtro de aceite — ejemplo",
+      "it": "Filtro olio — esempio"
+    },
+    "summary": {
+      "fr": "Cartouche vissée, référence de démonstration.",
+      "en": "Spin-on cartridge, demonstration reference.",
+      "de": "Anschraubpatrone, Demonstrationsreferenz.",
+      "es": "Cartucho de rosca, referencia de demostración.",
+      "it": "Cartuccia avvitabile, riferimento di dimostrazione."
+    },
+    "description": {
+      "fr": "Filtre à huile neuf et sans marque, très demandé dans cette vitrine pour tester la recherche. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Unbranded new oil filter, included so the storefront search can be tried. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Markenneutraler neuer Ölfilter, damit die Suche in der Vitrine geprüft werden kann. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Filtro de aceite nuevo y sin marca, útil para probar el buscador de la vitrina. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Filtro olio nuovo e senza marchio, utile per provare la ricerca della vetrina. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type",
+          "de": "Typ",
+          "es": "Tipo",
+          "it": "Tipo"
+        },
+        "value": {
+          "fr": "Vissé — exemple",
+          "en": "Spin-on — example",
+          "de": "Anschraub — Beispiel",
+          "es": "De rosca — ejemplo",
+          "it": "Avvitabile — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Diamètre",
+          "en": "Diameter",
+          "de": "Durchmesser",
+          "es": "Diámetro",
+          "it": "Diametro"
+        },
+        "value": {
+          "fr": "76 mm — exemple",
+          "en": "76 mm — example",
+          "de": "76 mm — Beispiel",
+          "es": "76 mm — ejemplo",
+          "it": "76 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Hauteur",
+          "en": "Height",
+          "de": "Höhe",
+          "es": "Altura",
+          "it": "Altezza"
+        },
+        "value": {
+          "fr": "85 mm — exemple",
+          "en": "85 mm — example",
+          "de": "85 mm — Beispiel",
+          "es": "85 mm — ejemplo",
+          "it": "85 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      },
+      {
+        "make": "horizon",
+        "model": "h-compacte",
+        "yearFrom": 2017,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-14",
+          "eng-h-16d"
+        ]
+      },
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16",
+          "eng-r-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1005",
+    "slug": "filtre-habitacle-exemple",
+    "sku": "GLT-DEMO-1005",
+    "oem": "EX-OEM-100005",
+    "demo": true,
+    "category": "filtration",
+    "art": "cabin-filter",
+    "priceTtc": 18.9,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 10,
+    "name": {
+      "fr": "Filtre d’habitacle — exemple",
+      "en": "Cabin filter — example",
+      "de": "Innenraumfilter — Beispiel",
+      "es": "Filtro de habitáculo — ejemplo",
+      "it": "Filtro abitacolo — esempio"
+    },
+    "summary": {
+      "fr": "Filtre particules pour l’habitacle, cote fictive.",
+      "en": "Particle cabin filter, fictional size.",
+      "de": "Partikel-Innenraumfilter, fiktives Maß.",
+      "es": "Filtro de partículas de habitáculo, cota ficticia.",
+      "it": "Filtro antiparticolato abitacolo, misura fittizia."
+    },
+    "description": {
+      "fr": "Filtre d’habitacle de démonstration, plissé, pour la famille filtration. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Pleated demonstration cabin filter for the filtration family. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Gefalteter Demonstrations-Innenraumfilter der Filterfamilie. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Filtro de habitáculo plisado de demostración, familia filtración. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Filtro abitacolo pieghettato di dimostrazione, famiglia filtrazione. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type",
+          "de": "Typ",
+          "es": "Tipo",
+          "it": "Tipo"
+        },
+        "value": {
+          "fr": "Particules — exemple",
+          "en": "Particle — example",
+          "de": "Partikel — Beispiel",
+          "es": "Partículas — ejemplo",
+          "it": "Particelle — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Longueur",
+          "en": "Length",
+          "de": "Länge",
+          "es": "Longitud",
+          "it": "Lunghezza"
+        },
+        "value": {
+          "fr": "240 mm — exemple",
+          "en": "240 mm — example",
+          "de": "240 mm — Beispiel",
+          "es": "240 mm — ejemplo",
+          "it": "240 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Largeur",
+          "en": "Width",
+          "de": "Breite",
+          "es": "Anchura",
+          "it": "Larghezza"
+        },
+        "value": {
+          "fr": "190 mm — exemple",
+          "en": "190 mm — example",
+          "de": "190 mm — Beispiel",
+          "es": "190 mm — ejemplo",
+          "it": "190 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2018,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      },
+      {
+        "make": "rivage",
+        "model": "r-break",
+        "yearFrom": 2016,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16b",
+          "eng-r-20db"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1006",
+    "slug": "filtre-carburant-exemple",
+    "sku": "GLT-DEMO-1006",
+    "oem": "EX-OEM-100006",
+    "demo": true,
+    "category": "filtration",
+    "art": "fuel-filter",
+    "priceTtc": 27.5,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 17,
+    "name": {
+      "fr": "Filtre à carburant — exemple",
+      "en": "Fuel filter — example",
+      "de": "Kraftstofffilter — Beispiel",
+      "es": "Filtro de combustible — ejemplo",
+      "it": "Filtro carburante — esempio"
+    },
+    "summary": {
+      "fr": "Filtre en ligne pour un utilitaire de démonstration.",
+      "en": "Inline filter for a demonstration van.",
+      "de": "Leitungsfilter für einen Demonstrations-Transporter.",
+      "es": "Filtro en línea para un furgón de demostración.",
+      "it": "Filtro in linea per un furgone di dimostrazione."
+    },
+    "description": {
+      "fr": "Filtre à carburant de démonstration expédié par un partenaire, hors stock atelier. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration fuel filter shipped by a partner, not held in the workshop stock. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Kraftstofffilter, Partnerversand, nicht im Werkstattlager. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Filtro de combustible de demostración enviado por un socio, fuera del stock. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Filtro carburante di dimostrazione spedito da un partner, non a stock. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type",
+          "de": "Typ",
+          "es": "Tipo",
+          "it": "Tipo"
+        },
+        "value": {
+          "fr": "En ligne — exemple",
+          "en": "Inline — example",
+          "de": "In der Leitung — Beispiel",
+          "es": "En línea — ejemplo",
+          "it": "In linea — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Diamètre",
+          "en": "Diameter",
+          "de": "Durchmesser",
+          "es": "Diámetro",
+          "it": "Diametro"
+        },
+        "value": {
+          "fr": "70 mm — exemple",
+          "en": "70 mm — example",
+          "de": "70 mm — Beispiel",
+          "es": "70 mm — ejemplo",
+          "it": "70 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Matière",
+          "en": "Material",
+          "de": "Werkstoff",
+          "es": "Material",
+          "it": "Materiale"
+        },
+        "value": {
+          "fr": "Métal — exemple",
+          "en": "Metal — example",
+          "de": "Metall — Beispiel",
+          "es": "Metal — ejemplo",
+          "it": "Metallo — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "traversee",
+        "model": "t-util",
+        "yearFrom": 2014,
+        "yearTo": 2022,
+        "engines": [
+          "eng-t-20d",
+          "eng-t-22d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1007",
+    "slug": "kit-distribution-exemple",
+    "sku": "GLT-DEMO-1007",
+    "oem": "EX-OEM-100007",
+    "demo": true,
+    "category": "moteur",
+    "art": "timing",
+    "priceTtc": 189,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": true,
+    "rank": 3,
+    "name": {
+      "fr": "Kit de distribution — exemple",
+      "en": "Timing kit — example",
+      "de": "Zahnriemensatz — Beispiel",
+      "es": "Kit de distribución — ejemplo",
+      "it": "Kit distribuzione — esempio"
+    },
+    "summary": {
+      "fr": "Courroie et galets, composition fictive.",
+      "en": "Belt and rollers, fictional contents.",
+      "de": "Riemen und Rollen, fiktiver Inhalt.",
+      "es": "Correa y rodillos, composición ficticia.",
+      "it": "Cinghia e rulli, composizione fittizia."
+    },
+    "description": {
+      "fr": "Kit de distribution de démonstration pour une berline fictive, expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration timing kit for a fictional saloon, shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Zahnriemensatz für eine fiktive Limousine, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Kit de distribución de demostración para una berlina ficticia, envío por socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Kit distribuzione di dimostrazione per una berlina fittizia, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "Courroie + galets — exemple",
+          "en": "Belt + rollers — example",
+          "de": "Riemen + Rollen — Beispiel",
+          "es": "Correa + rodillos — ejemplo",
+          "it": "Cinghia + rulli — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Pompe à eau",
+          "en": "Water pump",
+          "de": "Wasserpumpe",
+          "es": "Bomba de agua",
+          "it": "Pompa acqua"
+        },
+        "value": {
+          "fr": "Non incluse — exemple",
+          "en": "Not included — example",
+          "de": "Nicht enthalten — Beispiel",
+          "es": "No incluida — ejemplo",
+          "it": "Non inclusa — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Dents",
+          "en": "Teeth",
+          "de": "Zähne",
+          "es": "Dientes",
+          "it": "Denti"
+        },
+        "value": {
+          "fr": "153 — exemple",
+          "en": "153 — example",
+          "de": "153 — Beispiel",
+          "es": "153 — ejemplo",
+          "it": "153 — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2020,
+        "engines": [
+          "eng-r-16"
+        ]
+      },
+      {
+        "make": "rivage",
+        "model": "r-break",
+        "yearFrom": 2016,
+        "yearTo": 2020,
+        "engines": [
+          "eng-r-16b"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1008",
+    "slug": "bougie-allumage-exemple",
+    "sku": "GLT-DEMO-1008",
+    "oem": "EX-OEM-100008",
+    "demo": true,
+    "category": "moteur",
+    "art": "spark",
+    "priceTtc": 9.9,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 11,
+    "name": {
+      "fr": "Bougie d’allumage — exemple",
+      "en": "Spark plug — example",
+      "de": "Zündkerze — Beispiel",
+      "es": "Bujía de encendido — ejemplo",
+      "it": "Candela di accensione — esempio"
+    },
+    "summary": {
+      "fr": "Bougie unitaire pour motorisation essence de démonstration.",
+      "en": "Single plug for a demonstration petrol engine.",
+      "de": "Einzelkerze für einen Demonstrations-Benzinmotor.",
+      "es": "Bujía unitaria para un motor de gasolina de demostración.",
+      "it": "Candela singola per un motore benzina di dimostrazione."
+    },
+    "description": {
+      "fr": "Bougie neuve de démonstration, vendue à l’unité, en stock atelier. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "New demonstration spark plug, sold individually, held in workshop stock. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Neue Demonstrationszündkerze, einzeln, im Werkstattlager. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Bujía nueva de demostración, por unidad, en stock de taller. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Candela nuova di dimostrazione, venduta singola, a stock officina. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "1 bougie — exemple",
+          "en": "1 plug — example",
+          "de": "1 Kerze — Beispiel",
+          "es": "1 bujía — ejemplo",
+          "it": "1 candela — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Filetage",
+          "en": "Thread",
+          "de": "Gewinde",
+          "es": "Rosca",
+          "it": "Filettatura"
+        },
+        "value": {
+          "fr": "M14 — exemple",
+          "en": "M14 — example",
+          "de": "M14 — Beispiel",
+          "es": "M14 — ejemplo",
+          "it": "M14 — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Écartement",
+          "en": "Gap",
+          "de": "Elektrodenabstand",
+          "es": "Separación",
+          "it": "Distanza elettrodi"
+        },
+        "value": {
+          "fr": "0,9 mm — exemple",
+          "en": "0.9 mm — example",
+          "de": "0,9 mm — Beispiel",
+          "es": "0,9 mm — ejemplo",
+          "it": "0,9 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12"
+        ]
+      },
+      {
+        "make": "horizon",
+        "model": "h-compacte",
+        "yearFrom": 2017,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-14"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1009",
+    "slug": "support-moteur-exemple",
+    "sku": "GLT-DEMO-1009",
+    "oem": "EX-OEM-100009",
+    "demo": true,
+    "category": "moteur",
+    "art": "mount",
+    "priceTtc": 74,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 18,
+    "name": {
+      "fr": "Support moteur — exemple",
+      "en": "Engine mount — example",
+      "de": "Motorlager — Beispiel",
+      "es": "Soporte de motor — ejemplo",
+      "it": "Supporto motore — esempio"
+    },
+    "summary": {
+      "fr": "Silentbloc hydraulique fictif, côté droit.",
+      "en": "Fictional hydraulic mount, right side.",
+      "de": "Fiktives Hydrolager, rechte Seite.",
+      "es": "Soporte hidráulico ficticio, lado derecho.",
+      "it": "Supporto idraulico fittizio, lato destro."
+    },
+    "description": {
+      "fr": "Support moteur de démonstration pour illustrer une pièce partenaire sur un SUV fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration engine mount illustrating a partner-supplied part for a fictional SUV. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Motorlager als Partnerartikel für ein fiktives SUV. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Soporte de motor de demostración como pieza de socio para un SUV ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Supporto motore di dimostrazione come ricambio partner per un SUV fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Côté",
+          "en": "Side",
+          "de": "Seite",
+          "es": "Lado",
+          "it": "Lato"
+        },
+        "value": {
+          "fr": "Droit — exemple",
+          "en": "Right — example",
+          "de": "Rechts — Beispiel",
+          "es": "Derecho — ejemplo",
+          "it": "Destro — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type",
+          "de": "Typ",
+          "es": "Tipo",
+          "it": "Tipo"
+        },
+        "value": {
+          "fr": "Hydraulique — exemple",
+          "en": "Hydraulic — example",
+          "de": "Hydraulisch — Beispiel",
+          "es": "Hidráulico — ejemplo",
+          "it": "Idraulico — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Matière",
+          "en": "Material",
+          "de": "Werkstoff",
+          "es": "Material",
+          "it": "Materiale"
+        },
+        "value": {
+          "fr": "Métal et caoutchouc — exemple",
+          "en": "Metal and rubber — example",
+          "de": "Metall und Gummi — Beispiel",
+          "es": "Metal y caucho — ejemplo",
+          "it": "Metallo e gomma — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2024,
+        "engines": [
+          "eng-s-18",
+          "eng-s-hyb"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1010",
+    "slug": "amortisseur-avant-exemple",
+    "sku": "GLT-DEMO-1010",
+    "oem": "EX-OEM-100010",
+    "demo": true,
+    "category": "suspension",
+    "art": "shock",
+    "priceTtc": 96,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": true,
+    "rank": 4,
+    "name": {
+      "fr": "Amortisseur avant — exemple",
+      "en": "Front shock absorber — example",
+      "de": "Stoßdämpfer vorne — Beispiel",
+      "es": "Amortiguador delantero — ejemplo",
+      "it": "Ammortizzatore anteriore — esempio"
+    },
+    "summary": {
+      "fr": "Amortisseur à gaz, vendu à l’unité.",
+      "en": "Gas shock, sold individually.",
+      "de": "Gasdruckdämpfer, einzeln.",
+      "es": "Amortiguador de gas, por unidad.",
+      "it": "Ammortizzatore a gas, venduto singolarmente."
+    },
+    "description": {
+      "fr": "Amortisseur avant de démonstration, en stock, pour un SUV fictif de la gamme Sommet. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration front shock, in stock, for a fictional Sommet SUV. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Stoßdämpfer vorne, lagernd, für ein fiktives Sommet-SUV. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Amortiguador delantero de demostración, en stock, para un SUV Sommet ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Ammortizzatore anteriore di dimostrazione, a stock, per un SUV Sommet fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant — exemple",
+          "en": "Front — example",
+          "de": "Vorne — Beispiel",
+          "es": "Delantero — ejemplo",
+          "it": "Anteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "1 amortisseur — exemple",
+          "en": "1 shock — example",
+          "de": "1 Dämpfer — Beispiel",
+          "es": "1 amortiguador — ejemplo",
+          "it": "1 ammortizzatore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type",
+          "de": "Typ",
+          "es": "Tipo",
+          "it": "Tipo"
+        },
+        "value": {
+          "fr": "Gaz — exemple",
+          "en": "Gas — example",
+          "de": "Gas — Beispiel",
+          "es": "Gas — ejemplo",
+          "it": "Gas — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2025,
+        "engines": [
+          "eng-s-18",
+          "eng-s-20d",
+          "eng-s-hyb"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1011",
+    "slug": "bras-suspension-exemple",
+    "sku": "GLT-DEMO-1011",
+    "oem": "EX-OEM-100011",
+    "demo": true,
+    "category": "suspension",
+    "art": "arm",
+    "priceTtc": 82.5,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 19,
+    "name": {
+      "fr": "Bras de suspension — exemple",
+      "en": "Control arm — example",
+      "de": "Querlenker — Beispiel",
+      "es": "Brazo de suspensión — ejemplo",
+      "it": "Braccio sospensione — esempio"
+    },
+    "summary": {
+      "fr": "Triangle avant avec rotule fictive montée.",
+      "en": "Front wishbone with a fictional fitted joint.",
+      "de": "Vorderer Querlenker mit fiktivem Gelenk.",
+      "es": "Triángulo delantero con rótula ficticia montada.",
+      "it": "Braccio anteriore con snodo fittizio montato."
+    },
+    "description": {
+      "fr": "Bras de suspension de démonstration expédié par un partenaire pour un break fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration control arm shipped by a partner for a fictional estate. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Querlenker, Partnerversand, für einen fiktiven Kombi. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Brazo de suspensión de demostración enviado por un socio para un familiar ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Braccio sospensione di dimostrazione spedito da un partner per una station fittizia. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant — exemple",
+          "en": "Front — example",
+          "de": "Vorne — Beispiel",
+          "es": "Delantero — ejemplo",
+          "it": "Anteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Côté",
+          "en": "Side",
+          "de": "Seite",
+          "es": "Lado",
+          "it": "Lato"
+        },
+        "value": {
+          "fr": "Gauche — exemple",
+          "en": "Left — example",
+          "de": "Links — Beispiel",
+          "es": "Izquierdo — ejemplo",
+          "it": "Sinistro — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Rotule",
+          "en": "Ball joint",
+          "de": "Traggelenk",
+          "es": "Rótula",
+          "it": "Snodo"
+        },
+        "value": {
+          "fr": "Incluse — exemple",
+          "en": "Included — example",
+          "de": "Enthalten — Beispiel",
+          "es": "Incluida — ejemplo",
+          "it": "Incluso — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "rivage",
+        "model": "r-break",
+        "yearFrom": 2016,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16b",
+          "eng-r-20db"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1012",
+    "slug": "rotule-direction-exemple",
+    "sku": "GLT-DEMO-1012",
+    "oem": "EX-OEM-100012",
+    "demo": true,
+    "category": "suspension",
+    "art": "balljoint",
+    "priceTtc": 34.9,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 12,
+    "name": {
+      "fr": "Rotule de direction — exemple",
+      "en": "Steering ball joint — example",
+      "de": "Traggelenk — Beispiel",
+      "es": "Rótula de dirección — ejemplo",
+      "it": "Snodo sterzo — esempio"
+    },
+    "summary": {
+      "fr": "Rotule inférieure de démonstration, en stock.",
+      "en": "Lower demonstration joint, in stock.",
+      "de": "Unteres Demonstrationsgelenk, lagernd.",
+      "es": "Rótula inferior de demostración, en stock.",
+      "it": "Snodo inferiore di dimostrazione, a stock."
+    },
+    "description": {
+      "fr": "Rotule de direction neuve, fiche de démonstration pour la famille suspension et direction. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "New steering joint, a demonstration sheet for suspension and steering. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Neues Lenkgelenk als Demonstrationsartikel für Fahrwerk und Lenkung. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Rótula de dirección nueva, ficha de demostración de suspensión y dirección. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Snodo sterzo nuovo, scheda dimostrativa di sospensioni e sterzo. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Inférieure — exemple",
+          "en": "Lower — example",
+          "de": "Unten — Beispiel",
+          "es": "Inferior — ejemplo",
+          "it": "Inferiore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "1 rotule — exemple",
+          "en": "1 joint — example",
+          "de": "1 Gelenk — Beispiel",
+          "es": "1 rótula — ejemplo",
+          "it": "1 snodo — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Cône",
+          "en": "Cone",
+          "de": "Kegel",
+          "es": "Cono",
+          "it": "Cono"
+        },
+        "value": {
+          "fr": "Standard fictif",
+          "en": "Fictional standard",
+          "de": "Fiktiver Standard",
+          "es": "Estándar ficticio",
+          "it": "Standard fittizio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-compacte",
+        "yearFrom": 2017,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-14",
+          "eng-h-16d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1013",
+    "slug": "phare-avant-exemple",
+    "sku": "GLT-DEMO-1013",
+    "oem": "EX-OEM-100013",
+    "demo": true,
+    "category": "eclairage",
+    "art": "headlamp",
+    "priceTtc": 149,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 20,
+    "name": {
+      "fr": "Optique de phare avant — exemple",
+      "en": "Front headlamp unit — example",
+      "de": "Frontscheinwerfer — Beispiel",
+      "es": "Faro delantero — ejemplo",
+      "it": "Proiettore anteriore — esempio"
+    },
+    "summary": {
+      "fr": "Optique droit, version de démonstration.",
+      "en": "Right-hand lamp, demonstration version.",
+      "de": "Rechter Scheinwerfer, Demonstrationsversion.",
+      "es": "Faro derecho, versión de demostración.",
+      "it": "Proiettore destro, versione di dimostrazione."
+    },
+    "description": {
+      "fr": "Phare avant de démonstration, sans marque, expédié directement par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Unbranded demonstration headlamp, shipped directly by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Markenneutraler Demonstrationsscheinwerfer, Direktversand durch einen Partner. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Faro delantero de demostración, sin marca, envío directo de un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Proiettore anteriore di dimostrazione, senza marchio, spedizione diretta di un partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Côté",
+          "en": "Side",
+          "de": "Seite",
+          "es": "Lado",
+          "it": "Lato"
+        },
+        "value": {
+          "fr": "Droit — exemple",
+          "en": "Right — example",
+          "de": "Rechts — Beispiel",
+          "es": "Derecho — ejemplo",
+          "it": "Destro — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Technologie",
+          "en": "Technology",
+          "de": "Technik",
+          "es": "Tecnología",
+          "it": "Tecnologia"
+        },
+        "value": {
+          "fr": "Halogène — exemple",
+          "en": "Halogen — example",
+          "de": "Halogen — Beispiel",
+          "es": "Halógeno — ejemplo",
+          "it": "Alogeno — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Réglage",
+          "en": "Levelling",
+          "de": "Leuchtweitenregulierung",
+          "es": "Regulación",
+          "it": "Regolazione"
+        },
+        "value": {
+          "fr": "Manuel — exemple",
+          "en": "Manual — example",
+          "de": "Manuell — Beispiel",
+          "es": "Manual — ejemplo",
+          "it": "Manuale — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2016,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16",
+          "eng-r-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1014",
+    "slug": "feu-arriere-exemple",
+    "sku": "GLT-DEMO-1014",
+    "oem": "EX-OEM-100014",
+    "demo": true,
+    "category": "eclairage",
+    "art": "taillamp",
+    "priceTtc": 64,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 13,
+    "name": {
+      "fr": "Feu arrière — exemple",
+      "en": "Rear lamp — example",
+      "de": "Rückleuchte — Beispiel",
+      "es": "Piloto trasero — ejemplo",
+      "it": "Fanale posteriore — esempio"
+    },
+    "summary": {
+      "fr": "Feu arrière gauche de démonstration, en stock.",
+      "en": "Left rear lamp, demonstration, in stock.",
+      "de": "Linke Rückleuchte, Demonstration, lagernd.",
+      "es": "Piloto trasero izquierdo de demostración, en stock.",
+      "it": "Fanale posteriore sinistro di dimostrazione, a stock."
+    },
+    "description": {
+      "fr": "Feu arrière de démonstration pour illustrer un article d’éclairage tenu en magasin. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration rear lamp illustrating a lighting part held in store. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Rückleuchte für einen lagernden Beleuchtungsartikel. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Piloto trasero de demostración para un artículo de iluminación en tienda. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Fanale posteriore di dimostrazione per un articolo di illuminazione a magazzino. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Arrière — exemple",
+          "en": "Rear — example",
+          "de": "Hinten — Beispiel",
+          "es": "Trasero — ejemplo",
+          "it": "Posteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Côté",
+          "en": "Side",
+          "de": "Seite",
+          "es": "Lado",
+          "it": "Lato"
+        },
+        "value": {
+          "fr": "Gauche — exemple",
+          "en": "Left — example",
+          "de": "Links — Beispiel",
+          "es": "Izquierdo — ejemplo",
+          "it": "Sinistro — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Ampoules",
+          "en": "Bulbs",
+          "de": "Lampen",
+          "es": "Lámparas",
+          "it": "Lampadine"
+        },
+        "value": {
+          "fr": "Non fournies — exemple",
+          "en": "Not supplied — example",
+          "de": "Nicht enthalten — Beispiel",
+          "es": "No incluidas — ejemplo",
+          "it": "Non fornite — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2022,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1015",
+    "slug": "retroviseur-exterieur-exemple",
+    "sku": "GLT-DEMO-1015",
+    "oem": "EX-OEM-100015",
+    "demo": true,
+    "category": "carrosserie",
+    "art": "mirror",
+    "priceTtc": 79.9,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 21,
+    "name": {
+      "fr": "Rétroviseur extérieur — exemple",
+      "en": "Exterior mirror — example",
+      "de": "Außenspiegel — Beispiel",
+      "es": "Retrovisor exterior — ejemplo",
+      "it": "Specchietto esterno — esempio"
+    },
+    "summary": {
+      "fr": "Coque et glace, réglage électrique fictif.",
+      "en": "Cover and glass, fictional electric adjustment.",
+      "de": "Kappe und Glas, fiktive elektrische Verstellung.",
+      "es": "Carcasa y cristal, ajuste eléctrico ficticio.",
+      "it": "Calotta e vetro, regolazione elettrica fittizia."
+    },
+    "description": {
+      "fr": "Rétroviseur de démonstration pour un SUV fictif, préparé hors stock et expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration mirror for a fictional SUV, prepared off-stock and shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Außenspiegel für ein fiktives SUV, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Retrovisor de demostración para un SUV ficticio, envío por un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Specchietto di dimostrazione per un SUV fittizio, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Côté",
+          "en": "Side",
+          "de": "Seite",
+          "es": "Lado",
+          "it": "Lato"
+        },
+        "value": {
+          "fr": "Gauche — exemple",
+          "en": "Left — example",
+          "de": "Links — Beispiel",
+          "es": "Izquierdo — ejemplo",
+          "it": "Sinistro — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Réglage",
+          "en": "Adjustment",
+          "de": "Verstellung",
+          "es": "Ajuste",
+          "it": "Regolazione"
+        },
+        "value": {
+          "fr": "Électrique — exemple",
+          "en": "Electric — example",
+          "de": "Elektrisch — Beispiel",
+          "es": "Eléctrico — ejemplo",
+          "it": "Elettrico — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Clignotant",
+          "en": "Indicator",
+          "de": "Blinker",
+          "es": "Intermitente",
+          "it": "Indicatore"
+        },
+        "value": {
+          "fr": "Inclus — exemple",
+          "en": "Included — example",
+          "de": "Enthalten — Beispiel",
+          "es": "Incluido — ejemplo",
+          "it": "Incluso — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2019,
+        "yearTo": 2025,
+        "engines": [
+          "eng-s-18",
+          "eng-s-20d",
+          "eng-s-hyb"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1016",
+    "slug": "pare-chocs-avant-exemple",
+    "sku": "GLT-DEMO-1016",
+    "oem": "EX-OEM-100016",
+    "demo": true,
+    "category": "carrosserie",
+    "art": "bumper",
+    "priceTtc": 219,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 22,
+    "name": {
+      "fr": "Pare-chocs avant — exemple",
+      "en": "Front bumper — example",
+      "de": "Frontstoßstange — Beispiel",
+      "es": "Parachoques delantero — ejemplo",
+      "it": "Paraurti anteriore — esempio"
+    },
+    "summary": {
+      "fr": "Bouclier avant à peindre, référence fictive.",
+      "en": "Front bumper to paint, fictional reference.",
+      "de": "Frontschürze zum Lackieren, fiktive Referenz.",
+      "es": "Paragolpes delantero para pintar, referencia ficticia.",
+      "it": "Paraurti anteriore da verniciare, riferimento fittizio."
+    },
+    "description": {
+      "fr": "Pare-chocs de démonstration pour un utilitaire fictif. Pièce volumineuse expédiée par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration bumper for a fictional van. A bulky part shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Stoßstange für einen fiktiven Transporter. Sperrig, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Parachoques de demostración para un furgón ficticio. Pieza voluminosa de socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Paraurti di dimostrazione per un furgone fittizio. Pezzo voluminoso, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant — exemple",
+          "en": "Front — example",
+          "de": "Vorne — Beispiel",
+          "es": "Delantero — ejemplo",
+          "it": "Anteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Finition",
+          "en": "Finish",
+          "de": "Ausführung",
+          "es": "Acabado",
+          "it": "Finitura"
+        },
+        "value": {
+          "fr": "À peindre — exemple",
+          "en": "To paint — example",
+          "de": "Zum Lackieren — Beispiel",
+          "es": "Para pintar — ejemplo",
+          "it": "Da verniciare — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Capteurs",
+          "en": "Sensors",
+          "de": "Sensoren",
+          "es": "Sensores",
+          "it": "Sensori"
+        },
+        "value": {
+          "fr": "Emplacements seuls — exemple",
+          "en": "Mounts only — example",
+          "de": "Nur Aufnahmen — Beispiel",
+          "es": "Solo alojamientos — ejemplo",
+          "it": "Solo sedi — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "traversee",
+        "model": "t-util",
+        "yearFrom": 2014,
+        "yearTo": 2020,
+        "engines": [
+          "eng-t-20d",
+          "eng-t-22d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1017",
+    "slug": "batterie-12v-exemple",
+    "sku": "GLT-DEMO-1017",
+    "oem": "EX-OEM-100017",
+    "demo": true,
+    "category": "electricite",
+    "art": "battery",
+    "priceTtc": 129,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": true,
+    "rank": 5,
+    "name": {
+      "fr": "Batterie 12 V — exemple",
+      "en": "12 V battery — example",
+      "de": "12-V-Batterie — Beispiel",
+      "es": "Batería 12 V — ejemplo",
+      "it": "Batteria 12 V — esempio"
+    },
+    "summary": {
+      "fr": "Batterie de démarrage, capacité fictive.",
+      "en": "Starter battery, fictional capacity.",
+      "de": "Starterbatterie, fiktive Kapazität.",
+      "es": "Batería de arranque, capacidad ficticia.",
+      "it": "Batteria di avviamento, capacità fittizia."
+    },
+    "description": {
+      "fr": "Batterie 12 V de démonstration tenue en stock. Les consignes et la reprise ne sont pas encore opérées. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration 12 V battery held in stock. Core charges and returns are not operated yet. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-12-V-Batterie, lagernd. Pfand und Rücknahme sind noch nicht aktiv. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Batería 12 V de demostración en stock. La fianza y la recogida aún no están activas. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Batteria 12 V di dimostrazione a stock. Cauzione e ritiro non sono ancora attivi. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Tension",
+          "en": "Voltage",
+          "de": "Spannung",
+          "es": "Tensión",
+          "it": "Tensione"
+        },
+        "value": {
+          "fr": "12 V — exemple",
+          "en": "12 V — example",
+          "de": "12 V — Beispiel",
+          "es": "12 V — ejemplo",
+          "it": "12 V — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Capacité",
+          "en": "Capacity",
+          "de": "Kapazität",
+          "es": "Capacidad",
+          "it": "Capacità"
+        },
+        "value": {
+          "fr": "60 Ah — exemple",
+          "en": "60 Ah — example",
+          "de": "60 Ah — Beispiel",
+          "es": "60 Ah — ejemplo",
+          "it": "60 Ah — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Démarrage",
+          "en": "Cranking",
+          "de": "Kaltstart",
+          "es": "Arranque",
+          "it": "Avviamento"
+        },
+        "value": {
+          "fr": "540 A — exemple",
+          "en": "540 A — example",
+          "de": "540 A — Beispiel",
+          "es": "540 A — ejemplo",
+          "it": "540 A — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      },
+      {
+        "make": "traversee",
+        "model": "t-util",
+        "yearFrom": 2014,
+        "yearTo": 2022,
+        "engines": [
+          "eng-t-20d",
+          "eng-t-22d"
+        ]
+      },
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2025,
+        "engines": [
+          "eng-s-18",
+          "eng-s-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1018",
+    "slug": "demarreur-exemple",
+    "sku": "GLT-DEMO-1018",
+    "oem": "EX-OEM-100018",
+    "demo": true,
+    "category": "electricite",
+    "art": "starter",
+    "priceTtc": 164,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 23,
+    "name": {
+      "fr": "Démarreur — exemple",
+      "en": "Starter motor — example",
+      "de": "Anlasser — Beispiel",
+      "es": "Motor de arranque — ejemplo",
+      "it": "Motorino di avviamento — esempio"
+    },
+    "summary": {
+      "fr": "Démarreur révisé de démonstration, envoi partenaire.",
+      "en": "Demonstration starter, partner dispatch.",
+      "de": "Demonstrations-Anlasser, Partnerversand.",
+      "es": "Motor de arranque de demostración, envío de socio.",
+      "it": "Motorino di dimostrazione, spedizione partner."
+    },
+    "description": {
+      "fr": "Démarreur de démonstration pour un utilitaire fictif. Aucune consigne n’est collectée dans cette vitrine. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration starter for a fictional van. This storefront does not collect a core charge. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Anlasser für einen fiktiven Transporter. Kein Pfand in dieser Vitrine. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Motor de arranque de demostración para un furgón ficticio. Sin fianza en esta vitrina. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Motorino di dimostrazione per un furgone fittizio. Nessuna cauzione in questa vetrina. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Dents",
+          "en": "Teeth",
+          "de": "Zähne",
+          "es": "Dientes",
+          "it": "Denti"
+        },
+        "value": {
+          "fr": "10 — exemple",
+          "en": "10 — example",
+          "de": "10 — Beispiel",
+          "es": "10 — ejemplo",
+          "it": "10 — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Tension",
+          "en": "Voltage",
+          "de": "Spannung",
+          "es": "Tensión",
+          "it": "Tensione"
+        },
+        "value": {
+          "fr": "12 V — exemple",
+          "en": "12 V — example",
+          "de": "12 V — Beispiel",
+          "es": "12 V — ejemplo",
+          "it": "12 V — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Puissance",
+          "en": "Output",
+          "de": "Leistung",
+          "es": "Potencia",
+          "it": "Potenza"
+        },
+        "value": {
+          "fr": "1,4 kW — exemple",
+          "en": "1.4 kW — example",
+          "de": "1,4 kW — Beispiel",
+          "es": "1,4 kW — ejemplo",
+          "it": "1,4 kW — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "traversee",
+        "model": "t-util",
+        "yearFrom": 2014,
+        "yearTo": 2022,
+        "engines": [
+          "eng-t-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1019",
+    "slug": "alternateur-exemple",
+    "sku": "GLT-DEMO-1019",
+    "oem": "EX-OEM-100019",
+    "demo": true,
+    "category": "electricite",
+    "art": "alternator",
+    "priceTtc": 198,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 24,
+    "name": {
+      "fr": "Alternateur — exemple",
+      "en": "Alternator — example",
+      "de": "Lichtmaschine — Beispiel",
+      "es": "Alternador — ejemplo",
+      "it": "Alternatore — esempio"
+    },
+    "summary": {
+      "fr": "Alternateur de démonstration pour berline diesel fictive.",
+      "en": "Demonstration alternator for a fictional diesel saloon.",
+      "de": "Demonstrations-Lichtmaschine für eine fiktive Diesel-Limousine.",
+      "es": "Alternador de demostración para una berlina diésel ficticia.",
+      "it": "Alternatore di dimostrazione per una berlina diesel fittizia."
+    },
+    "description": {
+      "fr": "Alternateur neuf de démonstration, expédié par un partenaire, ampérage fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "New demonstration alternator, shipped by a partner, fictional amperage. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Neue Demonstrations-Lichtmaschine, Partnerversand, fiktive Amperezahl. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Alternador nuevo de demostración, envío de socio, amperaje ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Alternatore nuovo di dimostrazione, spedizione partner, amperaggio fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Tension",
+          "en": "Voltage",
+          "de": "Spannung",
+          "es": "Tensión",
+          "it": "Tensione"
+        },
+        "value": {
+          "fr": "12 V — exemple",
+          "en": "12 V — example",
+          "de": "12 V — Beispiel",
+          "es": "12 V — ejemplo",
+          "it": "12 V — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Ampérage",
+          "en": "Amperage",
+          "de": "Ampere",
+          "es": "Amperaje",
+          "it": "Amperaggio"
+        },
+        "value": {
+          "fr": "120 A — exemple",
+          "en": "120 A — example",
+          "de": "120 A — Beispiel",
+          "es": "120 A — ejemplo",
+          "it": "120 A — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Poulie",
+          "en": "Pulley",
+          "de": "Riemenscheibe",
+          "es": "Polea",
+          "it": "Puleggia"
+        },
+        "value": {
+          "fr": "Incluse — exemple",
+          "en": "Included — example",
+          "de": "Enthalten — Beispiel",
+          "es": "Incluida — ejemplo",
+          "it": "Inclusa — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2022,
+        "engines": [
+          "eng-r-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1020",
+    "slug": "kit-embrayage-exemple",
+    "sku": "GLT-DEMO-1020",
+    "oem": "EX-OEM-100020",
+    "demo": true,
+    "category": "embrayage",
+    "art": "clutch",
+    "priceTtc": 249,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": true,
+    "rank": 6,
+    "name": {
+      "fr": "Kit d’embrayage — exemple",
+      "en": "Clutch kit — example",
+      "de": "Kupplungssatz — Beispiel",
+      "es": "Kit de embrague — ejemplo",
+      "it": "Kit frizione — esempio"
+    },
+    "summary": {
+      "fr": "Disque, mécanisme et butée, composition fictive.",
+      "en": "Disc, cover and bearing, fictional kit.",
+      "de": "Scheibe, Druckplatte und Ausrücker, fiktiver Satz.",
+      "es": "Disco, mecanismo y cojinete, kit ficticio.",
+      "it": "Disco, meccanismo e reggispinta, kit fittizio."
+    },
+    "description": {
+      "fr": "Kit d’embrayage de démonstration pour une compacte diesel fictive, envoi partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration clutch kit for a fictional diesel compact, partner dispatch. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Kupplungssatz für einen fiktiven Diesel-Kompaktwagen, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Kit de embrague de demostración para un compacto diésel ficticio, envío de socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Kit frizione di dimostrazione per una compatta diesel fittizia, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "3 pièces — exemple",
+          "en": "3 pieces — example",
+          "de": "3 Teile — Beispiel",
+          "es": "3 piezas — ejemplo",
+          "it": "3 pezzi — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Diamètre",
+          "en": "Diameter",
+          "de": "Durchmesser",
+          "es": "Diámetro",
+          "it": "Diametro"
+        },
+        "value": {
+          "fr": "228 mm — exemple",
+          "en": "228 mm — example",
+          "de": "228 mm — Beispiel",
+          "es": "228 mm — ejemplo",
+          "it": "228 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Butée",
+          "en": "Release bearing",
+          "de": "Ausrücklager",
+          "es": "Cojinete",
+          "it": "Reggispinta"
+        },
+        "value": {
+          "fr": "Incluse — exemple",
+          "en": "Included — example",
+          "de": "Enthalten — Beispiel",
+          "es": "Incluido — ejemplo",
+          "it": "Incluso — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-compacte",
+        "yearFrom": 2017,
+        "yearTo": 2022,
+        "engines": [
+          "eng-h-16d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1021",
+    "slug": "volant-moteur-exemple",
+    "sku": "GLT-DEMO-1021",
+    "oem": "EX-OEM-100021",
+    "demo": true,
+    "category": "embrayage",
+    "art": "flywheel",
+    "priceTtc": 289,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 25,
+    "name": {
+      "fr": "Volant moteur — exemple",
+      "en": "Flywheel — example",
+      "de": "Schwungrad — Beispiel",
+      "es": "Volante motor — ejemplo",
+      "it": "Volano motore — esempio"
+    },
+    "summary": {
+      "fr": "Volant rigide de démonstration, cote fictive.",
+      "en": "Rigid demonstration flywheel, fictional size.",
+      "de": "Starres Demonstrations-Schwungrad, fiktives Maß.",
+      "es": "Volante rígido de demostración, cota ficticia.",
+      "it": "Volano rigido di dimostrazione, misura fittizia."
+    },
+    "description": {
+      "fr": "Volant moteur de démonstration associé au kit d’embrayage exemple de la même compacte. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration flywheel paired with the example clutch kit of the same compact. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Schwungrad passend zum Beispiel-Kupplungssatz desselben Kompaktwagens. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Volante de demostración asociado al kit de embrague de ejemplo del mismo compacto. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Volano di dimostrazione abbinato al kit frizione di esempio della stessa compatta. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type",
+          "de": "Typ",
+          "es": "Tipo",
+          "it": "Tipo"
+        },
+        "value": {
+          "fr": "Rigide — exemple",
+          "en": "Rigid — example",
+          "de": "Starr — Beispiel",
+          "es": "Rígido — ejemplo",
+          "it": "Rigido — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Dents",
+          "en": "Teeth",
+          "de": "Zähne",
+          "es": "Dientes",
+          "it": "Denti"
+        },
+        "value": {
+          "fr": "125 — exemple",
+          "en": "125 — example",
+          "de": "125 — Beispiel",
+          "es": "125 — ejemplo",
+          "it": "125 — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Diamètre",
+          "en": "Diameter",
+          "de": "Durchmesser",
+          "es": "Diámetro",
+          "it": "Diametro"
+        },
+        "value": {
+          "fr": "260 mm — exemple",
+          "en": "260 mm — example",
+          "de": "260 mm — Beispiel",
+          "es": "260 mm — ejemplo",
+          "it": "260 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-compacte",
+        "yearFrom": 2017,
+        "yearTo": 2022,
+        "engines": [
+          "eng-h-16d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1022",
+    "slug": "silencieux-arriere-exemple",
+    "sku": "GLT-DEMO-1022",
+    "oem": "EX-OEM-100022",
+    "demo": true,
+    "category": "echappement",
+    "art": "muffler",
+    "priceTtc": 156,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 26,
+    "name": {
+      "fr": "Silencieux arrière — exemple",
+      "en": "Rear silencer — example",
+      "de": "Endschalldämpfer — Beispiel",
+      "es": "Silencioso trasero — ejemplo",
+      "it": "Silenziatore posteriore — esempio"
+    },
+    "summary": {
+      "fr": "Silencieux arrière pour SUV de démonstration.",
+      "en": "Rear silencer for a demonstration SUV.",
+      "de": "Endschalldämpfer für ein Demonstrations-SUV.",
+      "es": "Silencioso trasero para un SUV de demostración.",
+      "it": "Silenziatore posteriore per un SUV di dimostrazione."
+    },
+    "description": {
+      "fr": "Silencieux de démonstration, acier fictif, expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration silencer, fictional steel, shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Schalldämpfer, fiktiver Stahl, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Silencioso de demostración, acero ficticio, envío de un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Silenziatore di dimostrazione, acciaio fittizio, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Arrière — exemple",
+          "en": "Rear — example",
+          "de": "Hinten — Beispiel",
+          "es": "Trasero — ejemplo",
+          "it": "Posteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Matière",
+          "en": "Material",
+          "de": "Werkstoff",
+          "es": "Material",
+          "it": "Materiale"
+        },
+        "value": {
+          "fr": "Acier — exemple",
+          "en": "Steel — example",
+          "de": "Stahl — Beispiel",
+          "es": "Acero — ejemplo",
+          "it": "Acciaio — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Sortie",
+          "en": "Tailpipe",
+          "de": "Endrohr",
+          "es": "Salida",
+          "it": "Uscita"
+        },
+        "value": {
+          "fr": "1 sortie — exemple",
+          "en": "1 outlet — example",
+          "de": "1 Endrohr — Beispiel",
+          "es": "1 salida — ejemplo",
+          "it": "1 uscita — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2023,
+        "engines": [
+          "eng-s-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1023",
+    "slug": "sonde-lambda-exemple",
+    "sku": "GLT-DEMO-1023",
+    "oem": "EX-OEM-100023",
+    "demo": true,
+    "category": "echappement",
+    "art": "lambda",
+    "priceTtc": 58,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 14,
+    "name": {
+      "fr": "Sonde lambda — exemple",
+      "en": "Lambda sensor — example",
+      "de": "Lambdasonde — Beispiel",
+      "es": "Sonda lambda — ejemplo",
+      "it": "Sonda lambda — esempio"
+    },
+    "summary": {
+      "fr": "Sonde avant catalyseur, connecteur fictif.",
+      "en": "Pre-catalyst sensor, fictional connector.",
+      "de": "Sonde vor dem Katalysator, fiktiver Stecker.",
+      "es": "Sonda previa al catalizador, conector ficticio.",
+      "it": "Sonda a monte del catalizzatore, connettore fittizio."
+    },
+    "description": {
+      "fr": "Sonde lambda de démonstration en stock, pour une citadine essence fictive. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration lambda sensor in stock, for a fictional petrol city car. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Lambdasonde, lagernd, für einen fiktiven Benzin-Kleinwagen. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Sonda lambda de demostración en stock, para un urbano de gasolina ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Sonda lambda di dimostrazione a stock, per una city benzina fittizia. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant catalyseur — exemple",
+          "en": "Pre-catalyst — example",
+          "de": "Vor Kat — Beispiel",
+          "es": "Antes del catalizador — ejemplo",
+          "it": "Prima del catalizzatore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Fils",
+          "en": "Wires",
+          "de": "Leitungen",
+          "es": "Cables",
+          "it": "Fili"
+        },
+        "value": {
+          "fr": "4 — exemple",
+          "en": "4 — example",
+          "de": "4 — Beispiel",
+          "es": "4 — ejemplo",
+          "it": "4 — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Longueur",
+          "en": "Length",
+          "de": "Länge",
+          "es": "Longitud",
+          "it": "Lunghezza"
+        },
+        "value": {
+          "fr": "450 mm — exemple",
+          "en": "450 mm — example",
+          "de": "450 mm — Beispiel",
+          "es": "450 mm — ejemplo",
+          "it": "450 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1024",
+    "slug": "radiateur-exemple",
+    "sku": "GLT-DEMO-1024",
+    "oem": "EX-OEM-100024",
+    "demo": true,
+    "category": "refroidissement",
+    "art": "radiator",
+    "priceTtc": 142,
+    "vatRate": 0.2,
+    "fulfillment": "partner",
+    "leadMin": 5,
+    "leadMax": 8,
+    "bestSeller": false,
+    "rank": 27,
+    "name": {
+      "fr": "Radiateur de refroidissement — exemple",
+      "en": "Cooling radiator — example",
+      "de": "Kühler — Beispiel",
+      "es": "Radiador de refrigeración — ejemplo",
+      "it": "Radiatore di raffreddamento — esempio"
+    },
+    "summary": {
+      "fr": "Radiateur moteur pour break de démonstration.",
+      "en": "Engine radiator for a demonstration estate.",
+      "de": "Motorkühler für einen Demonstrations-Kombi.",
+      "es": "Radiador de motor para un familiar de demostración.",
+      "it": "Radiatore motore per una station di dimostrazione."
+    },
+    "description": {
+      "fr": "Radiateur de démonstration, dimensions fictives, expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration radiator, fictional dimensions, shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrationskühler, fiktive Maße, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Radiador de demostración, medidas ficticias, envío de un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Radiatore di dimostrazione, misure fittizie, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Réseau",
+          "en": "Core",
+          "de": "Netz",
+          "es": "Núcleo",
+          "it": "Massa radiante"
+        },
+        "value": {
+          "fr": "Aluminium — exemple",
+          "en": "Aluminium — example",
+          "de": "Aluminium — Beispiel",
+          "es": "Aluminio — ejemplo",
+          "it": "Alluminio — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Largeur",
+          "en": "Width",
+          "de": "Breite",
+          "es": "Anchura",
+          "it": "Larghezza"
+        },
+        "value": {
+          "fr": "580 mm — exemple",
+          "en": "580 mm — example",
+          "de": "580 mm — Beispiel",
+          "es": "580 mm — ejemplo",
+          "it": "580 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Hauteur",
+          "en": "Height",
+          "de": "Höhe",
+          "es": "Altura",
+          "it": "Altezza"
+        },
+        "value": {
+          "fr": "380 mm — exemple",
+          "en": "380 mm — example",
+          "de": "380 mm — Beispiel",
+          "es": "380 mm — ejemplo",
+          "it": "380 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "rivage",
+        "model": "r-break",
+        "yearFrom": 2016,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16b",
+          "eng-r-20db"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1025",
+    "slug": "thermostat-exemple",
+    "sku": "GLT-DEMO-1025",
+    "oem": "EX-OEM-100025",
+    "demo": true,
+    "category": "refroidissement",
+    "art": "thermostat",
+    "priceTtc": 29.5,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 15,
+    "name": {
+      "fr": "Thermostat — exemple",
+      "en": "Thermostat — example",
+      "de": "Thermostat — Beispiel",
+      "es": "Termostato — ejemplo",
+      "it": "Termostato — esempio"
+    },
+    "summary": {
+      "fr": "Thermostat avec joint, seuil fictif.",
+      "en": "Thermostat with gasket, fictional threshold.",
+      "de": "Thermostat mit Dichtung, fiktiver Wert.",
+      "es": "Termostato con junta, umbral ficticio.",
+      "it": "Termostato con guarnizione, soglia fittizia."
+    },
+    "description": {
+      "fr": "Thermostat de démonstration en stock, température d’ouverture fictive. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration thermostat in stock, fictional opening temperature. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrationsthermostat, lagernd, fiktive Öffnungstemperatur. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Termostato de demostración en stock, temperatura de apertura ficticia. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Termostato di dimostrazione a stock, temperatura di apertura fittizia. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Ouverture",
+          "en": "Opening",
+          "de": "Öffnung",
+          "es": "Apertura",
+          "it": "Apertura"
+        },
+        "value": {
+          "fr": "89 °C — exemple",
+          "en": "89 °C — example",
+          "de": "89 °C — Beispiel",
+          "es": "89 °C — ejemplo",
+          "it": "89 °C — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Joint",
+          "en": "Gasket",
+          "de": "Dichtung",
+          "es": "Junta",
+          "it": "Guarnizione"
+        },
+        "value": {
+          "fr": "Inclus — exemple",
+          "en": "Included — example",
+          "de": "Enthalten — Beispiel",
+          "es": "Incluida — ejemplo",
+          "it": "Inclusa — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Matière",
+          "en": "Material",
+          "de": "Werkstoff",
+          "es": "Material",
+          "it": "Materiale"
+        },
+        "value": {
+          "fr": "Composite — exemple",
+          "en": "Composite — example",
+          "de": "Verbund — Beispiel",
+          "es": "Compuesto — ejemplo",
+          "it": "Composito — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16",
+          "eng-r-20d"
+        ]
+      },
+      {
+        "make": "horizon",
+        "model": "h-compacte",
+        "yearFrom": 2017,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-14",
+          "eng-h-16d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1026",
+    "slug": "huile-moteur-5w30-exemple",
+    "sku": "GLT-DEMO-1026",
+    "oem": "EX-OEM-100026",
+    "demo": true,
+    "category": "huiles",
+    "art": "oil",
+    "priceTtc": 39.9,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": true,
+    "rank": 7,
+    "name": {
+      "fr": "Huile moteur 5W-30, 5 L — exemple",
+      "en": "Engine oil 5W-30, 5 L — example",
+      "de": "Motoröl 5W-30, 5 L — Beispiel",
+      "es": "Aceite de motor 5W-30, 5 L — ejemplo",
+      "it": "Olio motore 5W-30, 5 L — esempio"
+    },
+    "summary": {
+      "fr": "Bidon de 5 litres, spécification fictive.",
+      "en": "5 litre can, fictional specification.",
+      "de": "5-Liter-Kanister, fiktive Spezifikation.",
+      "es": "Garrafa de 5 litros, especificación ficticia.",
+      "it": "Tanica da 5 litri, specifica fittizia."
+    },
+    "description": {
+      "fr": "Huile moteur de démonstration. Aucune homologation constructeur n’est revendiquée. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration engine oil. No manufacturer approval is claimed. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Motoröl. Keine Herstellerfreigabe wird behauptet. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Aceite de motor de demostración. No se alega ninguna homologación. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Olio motore di dimostrazione. Nessuna omologazione è dichiarata. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Viscosité",
+          "en": "Viscosity",
+          "de": "Viskosität",
+          "es": "Viscosidad",
+          "it": "Viscosità"
+        },
+        "value": {
+          "fr": "5W-30 — exemple",
+          "en": "5W-30 — example",
+          "de": "5W-30 — Beispiel",
+          "es": "5W-30 — ejemplo",
+          "it": "5W-30 — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Volume",
+          "en": "Volume",
+          "de": "Menge",
+          "es": "Volumen",
+          "it": "Volume"
+        },
+        "value": {
+          "fr": "5 L — exemple",
+          "en": "5 L — example",
+          "de": "5 L — Beispiel",
+          "es": "5 L — ejemplo",
+          "it": "5 L — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Base",
+          "en": "Base",
+          "de": "Basis",
+          "es": "Base",
+          "it": "Base"
+        },
+        "value": {
+          "fr": "Synthétique — exemple",
+          "en": "Synthetic — example",
+          "de": "Synthetisch — Beispiel",
+          "es": "Sintético — ejemplo",
+          "it": "Sintetico — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Sans homologation réelle",
+          "en": "No real approval",
+          "de": "Keine echte Freigabe",
+          "es": "Sin homologación real",
+          "it": "Senza omologazione reale"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      },
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16",
+          "eng-r-20d"
+        ]
+      },
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2025,
+        "engines": [
+          "eng-s-18",
+          "eng-s-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1027",
+    "slug": "liquide-frein-dot4-exemple",
+    "sku": "GLT-DEMO-1027",
+    "oem": "EX-OEM-100027",
+    "demo": true,
+    "category": "huiles",
+    "art": "brake-fluid",
+    "priceTtc": 11.5,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 28,
+    "name": {
+      "fr": "Liquide de frein DOT 4 — exemple",
+      "en": "Brake fluid DOT 4 — example",
+      "de": "Bremsflüssigkeit DOT 4 — Beispiel",
+      "es": "Líquido de frenos DOT 4 — ejemplo",
+      "it": "Liquido freni DOT 4 — esempio"
+    },
+    "summary": {
+      "fr": "Flacon de 1 litre, grade de démonstration.",
+      "en": "1 litre bottle, demonstration grade.",
+      "de": "1-Liter-Flasche, Demonstrationsklasse.",
+      "es": "Botella de 1 litro, grado de demostración.",
+      "it": "Flacone da 1 litro, grado di dimostrazione."
+    },
+    "description": {
+      "fr": "Liquide de frein de démonstration. Un bidon ouvert ne serait pas repris, comme le précisera les CGV réelles. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration brake fluid. An opened bottle would not be returnable, as the future terms will state. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Bremsflüssigkeit. Eine geöffnete Flasche wäre vom Umtausch ausgenommen. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Líquido de frenos de demostración. Un envase abierto no se devolvería. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Liquido freni di dimostrazione. Una confezione aperta non sarebbe restituibile. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Grade",
+          "en": "Grade",
+          "de": "Klasse",
+          "es": "Grado",
+          "it": "Grado"
+        },
+        "value": {
+          "fr": "DOT 4 — exemple",
+          "en": "DOT 4 — example",
+          "de": "DOT 4 — Beispiel",
+          "es": "DOT 4 — ejemplo",
+          "it": "DOT 4 — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Volume",
+          "en": "Volume",
+          "de": "Menge",
+          "es": "Volumen",
+          "it": "Volume"
+        },
+        "value": {
+          "fr": "1 L — exemple",
+          "en": "1 L — example",
+          "de": "1 L — Beispiel",
+          "es": "1 L — ejemplo",
+          "it": "1 L — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Point d’ébullition",
+          "en": "Boiling point",
+          "de": "Siedepunkt",
+          "es": "Punto de ebullición",
+          "it": "Punto di ebollizione"
+        },
+        "value": {
+          "fr": "230 °C — exemple",
+          "en": "230 °C — example",
+          "de": "230 °C — Beispiel",
+          "es": "230 °C — ejemplo",
+          "it": "230 °C — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      },
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16",
+          "eng-r-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1028",
+    "slug": "liquide-refroidissement-exemple",
+    "sku": "GLT-DEMO-1028",
+    "oem": "EX-OEM-100028",
+    "demo": true,
+    "category": "huiles",
+    "art": "coolant",
+    "priceTtc": 16.9,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 29,
+    "name": {
+      "fr": "Liquide de refroidissement — exemple",
+      "en": "Coolant — example",
+      "de": "Kühlmittel — Beispiel",
+      "es": "Líquido refrigerante — ejemplo",
+      "it": "Liquido di raffreddamento — esempio"
+    },
+    "summary": {
+      "fr": "Bidon prêt à l’emploi, couleur fictive.",
+      "en": "Ready-to-use can, fictional colour.",
+      "de": "Fertigmischung, fiktive Farbe.",
+      "es": "Garrafa lista para usar, color ficticio.",
+      "it": "Tanica pronta all’uso, colore fittizio."
+    },
+    "description": {
+      "fr": "Liquide de refroidissement de démonstration, prêt à l’emploi, sans interchangeabilité réelle annoncée. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Ready-to-use demonstration coolant, with no real interchange claim. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Fertig gemischtes Demonstrations-Kühlmittel, ohne echte Mischbarkeitsaussage. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Refrigerante de demostración listo para usar, sin afirmación real de compatibilidad. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Liquido di raffreddamento di dimostrazione pronto all’uso, senza claim reale di miscibilità. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Volume",
+          "en": "Volume",
+          "de": "Menge",
+          "es": "Volumen",
+          "it": "Volume"
+        },
+        "value": {
+          "fr": "5 L — exemple",
+          "en": "5 L — example",
+          "de": "5 L — Beispiel",
+          "es": "5 L — ejemplo",
+          "it": "5 L — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Type",
+          "en": "Type",
+          "de": "Typ",
+          "es": "Tipo",
+          "it": "Tipo"
+        },
+        "value": {
+          "fr": "Prêt à l’emploi — exemple",
+          "en": "Ready to use — example",
+          "de": "Fertigmischung — Beispiel",
+          "es": "Listo para usar — ejemplo",
+          "it": "Pronto all’uso — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Teinte",
+          "en": "Colour",
+          "de": "Farbe",
+          "es": "Color",
+          "it": "Colore"
+        },
+        "value": {
+          "fr": "Rose — exemple",
+          "en": "Pink — example",
+          "de": "Rosa — Beispiel",
+          "es": "Rosa — ejemplo",
+          "it": "Rosa — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2025,
+        "engines": [
+          "eng-s-18",
+          "eng-s-20d",
+          "eng-s-hyb"
+        ]
+      },
+      {
+        "make": "traversee",
+        "model": "t-util",
+        "yearFrom": 2014,
+        "yearTo": 2022,
+        "engines": [
+          "eng-t-20d",
+          "eng-t-22d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1029",
+    "slug": "balai-essuie-glace-exemple",
+    "sku": "GLT-DEMO-1029",
+    "oem": "EX-OEM-100029",
+    "demo": true,
+    "category": "accessoires",
+    "art": "wiper",
+    "priceTtc": 19.9,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": true,
+    "rank": 8,
+    "name": {
+      "fr": "Balai d’essuie-glace — exemple",
+      "en": "Wiper blade — example",
+      "de": "Scheibenwischerblatt — Beispiel",
+      "es": "Escobilla limpiaparabrisas — ejemplo",
+      "it": "Spazzola tergicristallo — esempio"
+    },
+    "summary": {
+      "fr": "Balai avant conducteur, longueur fictive.",
+      "en": "Driver-side front blade, fictional length.",
+      "de": "Wischerblatt Fahrerseite, fiktive Länge.",
+      "es": "Escobilla delantera del conductor, longitud ficticia.",
+      "it": "Spazzola anteriore lato guida, lunghezza fittizia."
+    },
+    "description": {
+      "fr": "Balai d’essuie-glace de démonstration, en stock, avec attache universelle fictive. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration wiper blade, in stock, with a fictional universal connector. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Wischerblatt, lagernd, mit fiktivem Universaladapter. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Escobilla de demostración, en stock, con anclaje universal ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Spazzola di dimostrazione, a stock, con attacco universale fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Position",
+          "en": "Position",
+          "de": "Position",
+          "es": "Posición",
+          "it": "Posizione"
+        },
+        "value": {
+          "fr": "Avant — exemple",
+          "en": "Front — example",
+          "de": "Vorne — Beispiel",
+          "es": "Delantero — ejemplo",
+          "it": "Anteriore — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Longueur",
+          "en": "Length",
+          "de": "Länge",
+          "es": "Longitud",
+          "it": "Lunghezza"
+        },
+        "value": {
+          "fr": "600 mm — exemple",
+          "en": "600 mm — example",
+          "de": "600 mm — Beispiel",
+          "es": "600 mm — ejemplo",
+          "it": "600 mm — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Attache",
+          "en": "Connector",
+          "de": "Adapter",
+          "es": "Anclaje",
+          "it": "Attacco"
+        },
+        "value": {
+          "fr": "Universelle fictive",
+          "en": "Fictional universal",
+          "de": "Fiktiv universell",
+          "es": "Universal ficticio",
+          "it": "Universale fittizio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "horizon",
+        "model": "h-citadine",
+        "yearFrom": 2016,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-12",
+          "eng-h-15d"
+        ]
+      },
+      {
+        "make": "horizon",
+        "model": "h-compacte",
+        "yearFrom": 2017,
+        "yearTo": 2024,
+        "engines": [
+          "eng-h-14",
+          "eng-h-16d"
+        ]
+      },
+      {
+        "make": "rivage",
+        "model": "r-berline",
+        "yearFrom": 2015,
+        "yearTo": 2023,
+        "engines": [
+          "eng-r-16",
+          "eng-r-20d"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ex-1030",
+    "slug": "tapis-de-sol-exemple",
+    "sku": "GLT-DEMO-1030",
+    "oem": "EX-OEM-100030",
+    "demo": true,
+    "category": "accessoires",
+    "art": "mat",
+    "priceTtc": 34,
+    "vatRate": 0.2,
+    "fulfillment": "stock",
+    "leadMin": 2,
+    "leadMax": 4,
+    "bestSeller": false,
+    "rank": 30,
+    "name": {
+      "fr": "Tapis de sol — exemple",
+      "en": "Floor mat — example",
+      "de": "Fußmatte — Beispiel",
+      "es": "Alfombrilla — ejemplo",
+      "it": "Tappetino — esempio"
+    },
+    "summary": {
+      "fr": "Jeu de tapis caoutchouc, forme fictive.",
+      "en": "Rubber mat set, fictional shape.",
+      "de": "Gummimattensatz, fiktive Form.",
+      "es": "Juego de alfombrillas de goma, forma ficticia.",
+      "it": "Set di tappetini in gomma, forma fittizia."
+    },
+    "description": {
+      "fr": "Tapis de sol de démonstration, jeu avant et arrière, pour un véhicule fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Demonstration floor mats, front and rear set, for a fictional vehicle. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
+      "de": "Demonstrations-Fußmatten, Satz vorn und hinten, für ein fiktives Fahrzeug. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Alfombrillas de demostración, juego delantero y trasero, para un vehículo ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
+      "it": "Tappetini di dimostrazione, set anteriore e posteriore, per un veicolo fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+    },
+    "specs": [
+      {
+        "label": {
+          "fr": "Conditionnement",
+          "en": "Pack",
+          "de": "Inhalt",
+          "es": "Contenido",
+          "it": "Confezione"
+        },
+        "value": {
+          "fr": "4 tapis — exemple",
+          "en": "4 mats — example",
+          "de": "4 Matten — Beispiel",
+          "es": "4 alfombrillas — ejemplo",
+          "it": "4 tappetini — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Matière",
+          "en": "Material",
+          "de": "Werkstoff",
+          "es": "Material",
+          "it": "Materiale"
+        },
+        "value": {
+          "fr": "Caoutchouc — exemple",
+          "en": "Rubber — example",
+          "de": "Gummi — Beispiel",
+          "es": "Caucho — ejemplo",
+          "it": "Gomma — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Couleur",
+          "en": "Colour",
+          "de": "Farbe",
+          "es": "Color",
+          "it": "Colore"
+        },
+        "value": {
+          "fr": "Noir — exemple",
+          "en": "Black — example",
+          "de": "Schwarz — Beispiel",
+          "es": "Negro — ejemplo",
+          "it": "Nero — esempio"
+        }
+      },
+      {
+        "label": {
+          "fr": "Mention",
+          "en": "Notice",
+          "de": "Hinweis",
+          "es": "Aviso",
+          "it": "Nota"
+        },
+        "value": {
+          "fr": "Valeur fictive",
+          "en": "Fictional value",
+          "de": "Fiktiver Wert",
+          "es": "Valor ficticio",
+          "it": "Valore fittizio"
+        }
+      }
+    ],
+    "compatibility": [
+      {
+        "make": "sommet",
+        "model": "s-suv",
+        "yearFrom": 2018,
+        "yearTo": 2025,
+        "engines": [
+          "eng-s-18",
+          "eng-s-20d",
+          "eng-s-hyb"
+        ]
+      },
+      {
+        "make": "traversee",
+        "model": "t-util",
+        "yearFrom": 2016,
+        "yearTo": 2022,
+        "engines": [
+          "eng-t-20d",
+          "eng-t-22d"
+        ]
+      }
+    ]
+  }
+]
