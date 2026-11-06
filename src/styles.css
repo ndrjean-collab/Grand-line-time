@@ -489,6 +489,8 @@ textarea { min-height: 140px; resize: vertical; }
 .pcard__more { color: var(--copper-deep); font-size: 0.88rem; margin-top: 0.2rem; }
 
 .art-wrap { position: relative; overflow: hidden; aspect-ratio: 4 / 3; }
+.art-wrap--photo { background: #fff; }
+.part-photo { width: 100%; height: 100%; object-fit: contain; display: block; }
 .art-wrap--icon { aspect-ratio: 1.5 / 1; border-radius: 12px; }
 .art-wrap--pdp { border-radius: 22px; aspect-ratio: 4 / 3; }
 .art-wrap--thumb { width: 92px; aspect-ratio: 1; border-radius: 12px; display: block; }

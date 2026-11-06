@@ -12,8 +12,12 @@ export function ProductCard({ product }: { product: Product }) {
   return (
     <article className="pcard">
       <Link to={`/produit/${product.slug}`} className="pcard__link">
-        <div className="art-wrap" data-cat={product.category}>
-          <PartArt art={product.art} category={product.category} title={product.name[locale]} caption={false} />
+        <div className={product.image ? 'art-wrap art-wrap--photo' : 'art-wrap'} data-cat={product.category}>
+          {product.image ? (
+            <img className="part-photo" src={product.image} alt={product.name[locale]} />
+          ) : (
+            <PartArt art={product.art} category={product.category} title={product.name[locale]} caption={false} />
+          )}
         </div>
         <div className="pcard__body">
           <p className="eyebrow">{cat ? t(cat.title) : product.category}</p>

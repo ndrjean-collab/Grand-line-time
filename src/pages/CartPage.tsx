@@ -38,8 +38,12 @@ export function CartPage() {
           <ul className="cart__lines">
             {detailed.map(({ line, product }) => (
               <li key={product.id}>
-                <Link to={`/produit/${product.slug}`} className="art-wrap art-wrap--thumb" data-cat={product.category}>
-                  <PartArt art={product.art} category={product.category} title={product.name[locale]} caption={false} />
+                <Link to={`/produit/${product.slug}`} className={product.image ? 'art-wrap art-wrap--thumb art-wrap--photo' : 'art-wrap art-wrap--thumb'} data-cat={product.category}>
+                  {product.image ? (
+                    <img className="part-photo" src={product.image} alt={product.name[locale]} />
+                  ) : (
+                    <PartArt art={product.art} category={product.category} title={product.name[locale]} caption={false} />
+                  )}
                 </Link>
                 <div>
                   <h2>

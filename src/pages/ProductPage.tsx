@@ -75,24 +75,32 @@ export function ProductPage() {
       />
       <article className="pdp">
         <div className="gallery">
-          <div className="art-wrap art-wrap--pdp" data-cat={product.category}>
-            <PartArt art={product.art} category={product.category} title={product.name[locale]} variant={view} />
-          </div>
-          <div className="gallery__thumbs" role="tablist" aria-label={product.name[locale]}>
-            {views.map((item) => (
-              <button
-                key={item}
-                type="button"
-                role="tab"
-                aria-selected={view === item}
-                className={view === item ? 'is-active' : ''}
-                onClick={() => setView(item)}
-              >
-                <PartArt art={product.art} category={product.category} title={viewLabel[item]} variant={item} caption={false} />
-                <span>{viewLabel[item]}</span>
-              </button>
-            ))}
-          </div>
+          {product.image ? (
+            <div className="art-wrap art-wrap--pdp art-wrap--photo" data-cat={product.category}>
+              <img className="part-photo" src={product.image} alt={product.name[locale]} />
+            </div>
+          ) : (
+            <>
+              <div className="art-wrap art-wrap--pdp" data-cat={product.category}>
+                <PartArt art={product.art} category={product.category} title={product.name[locale]} variant={view} />
+              </div>
+              <div className="gallery__thumbs" role="tablist" aria-label={product.name[locale]}>
+                {views.map((item) => (
+                  <button
+                    key={item}
+                    type="button"
+                    role="tab"
+                    aria-selected={view === item}
+                    className={view === item ? 'is-active' : ''}
+                    onClick={() => setView(item)}
+                  >
+                    <PartArt art={product.art} category={product.category} title={viewLabel[item]} variant={item} caption={false} />
+                    <span>{viewLabel[item]}</span>
+                  </button>
+                ))}
+              </div>
+            </>
+          )}
         </div>
         <div className="pdp__info">
           <p className="eyebrow">{cat ? t(cat.title) : product.category}</p>

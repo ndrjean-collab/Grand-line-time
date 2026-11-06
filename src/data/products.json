@@ -1135,7 +1135,8 @@
         "model": "impreza-3-5-portes",
         "detail": "IMPREZA 3/5 portes - GP -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0007.webp"
   },
   {
     "id": "glt-0008",
@@ -2067,7 +2068,8 @@
         "model": "cordoba-3-5-portes",
         "detail": "CORDOBA 3/5 portes - 6K2 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0012.webp"
   },
   {
     "id": "glt-0013",
@@ -2674,7 +2676,8 @@
         "model": "frontera-a-sport",
         "detail": "FRONTERA A Sport - 5_SUD2 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0016.webp"
   },
   {
     "id": "glt-0017",
@@ -2966,7 +2969,8 @@
         "model": "frontera-a-sport",
         "detail": "FRONTERA A Sport - 5_SUD2 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0018.webp"
   },
   {
     "id": "glt-0019",
@@ -3223,7 +3227,8 @@
         "model": "c4-grand-picasso-ii",
         "detail": "C4 Grand Picasso II -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0019.webp"
   },
   {
     "id": "glt-0020",
@@ -3464,7 +3469,8 @@
         "model": "c4-picasso-i",
         "detail": "C4 Picasso I - UD_ -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0020.webp"
   },
   {
     "id": "glt-0021",
@@ -3721,7 +3727,8 @@
         "model": "micra-v",
         "detail": "MICRA V - K14 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0021.webp"
   },
   {
     "id": "glt-0022",
@@ -4235,7 +4242,8 @@
         "model": "almera-ii-hatchback",
         "detail": "ALMERA II Hatchback - N16 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0023.webp"
   },
   {
     "id": "glt-0024",
@@ -4492,7 +4500,8 @@
         "model": "captur",
         "detail": "CAPTUR - J5_ -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0024.webp"
   },
   {
     "id": "glt-0025",
@@ -4612,7 +4621,8 @@
         }
       }
     ],
-    "compatibility": []
+    "compatibility": [],
+    "image": "/photos/glt-0025.webp"
   },
   {
     "id": "glt-0026",
@@ -4743,7 +4753,8 @@
         }
       }
     ],
-    "compatibility": []
+    "compatibility": [],
+    "image": "/photos/glt-0026.webp"
   },
   {
     "id": "glt-0027",
@@ -4984,7 +4995,8 @@
         "model": "asx-vsx-vse",
         "detail": "ASX - VSX_, VSE_ -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0027.webp"
   },
   {
     "id": "glt-0028",
@@ -5241,7 +5253,8 @@
         "model": "c8-van-ea-eb",
         "detail": "C8 Van - EA_, EB_ -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0028.webp"
   },
   {
     "id": "glt-0029",
@@ -8268,7 +8281,8 @@
         "model": "scudo-camion-plate-forme-chassis",
         "detail": "SCUDO Camion plate-forme/Châssis -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0042.webp"
   },
   {
     "id": "glt-0043",
@@ -9023,7 +9037,8 @@
         "model": "ds3-decapotable",
         "detail": "DS3 Décapotable -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0045.webp"
   },
   {
     "id": "glt-0046",
@@ -10538,7 +10553,8 @@
         "model": "6-break",
         "detail": "6 Break - GH -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0052.webp"
   },
   {
     "id": "glt-0053",
@@ -10653,7 +10669,8 @@
         "model": "frontera-a",
         "detail": "FRONTERA A - 5_MWL4 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0053.webp"
   },
   {
     "id": "glt-0054",
@@ -14717,7 +14734,8 @@
         "model": "a3-sportback",
         "detail": "A3 Sportback - 8PA -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0075.webp"
   },
   {
     "id": "glt-0076",
@@ -14955,7 +14973,8 @@
         "model": "pt-cruiser-decapotable",
         "detail": "PT CRUISER Décapotable -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0076.webp"
   },
   {
     "id": "glt-0077",
@@ -16132,7 +16151,8 @@
         "model": "talisman",
         "detail": "TALISMAN - L2M_ -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0081.webp"
   },
   {
     "id": "glt-0082",
@@ -16368,7 +16388,8 @@
         "model": "accord-viii-break",
         "detail": "ACCORD VIII Break -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0082.webp"
   },
   {
     "id": "glt-0083",
@@ -16609,7 +16630,8 @@
         "model": "90-89-89q-8a-b3",
         "detail": "90 - 89, 89Q, 8A, B3 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0083.webp"
   },
   {
     "id": "glt-0084",
@@ -16764,7 +16786,8 @@
         "model": "golf-vii-van",
         "detail": "GOLF VII Van - 5G1 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0084.webp"
   },
   {
     "id": "glt-0085",
@@ -20637,7 +20660,8 @@
         "model": "c4-picasso-i",
         "detail": "C4 Picasso I - UD_ -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0108.webp"
   },
   {
     "id": "glt-0109",
@@ -24655,7 +24679,8 @@
         "model": "yaris-i",
         "detail": "YARIS I - _CP10 -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0127.webp"
   },
   {
     "id": "glt-0128",
@@ -24901,7 +24926,8 @@
         "model": "roomster",
         "detail": "ROOMSTER - 5J -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0128.webp"
   },
   {
     "id": "glt-0129",
@@ -25157,7 +25183,8 @@
         "model": "c3-iii-van-sx-sy",
         "detail": "C3 III Van - SX_, SY_ -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0129.webp"
   },
   {
     "id": "glt-0130",
@@ -26082,7 +26109,8 @@
         "model": "c3-picasso",
         "detail": "C3 Picasso -"
       }
-    ]
+    ],
+    "image": "/photos/glt-0134.webp"
   },
   {
     "id": "glt-0135",

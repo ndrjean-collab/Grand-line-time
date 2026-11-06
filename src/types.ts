@@ -29,6 +29,8 @@ export interface Product {
   fictional: boolean
   category: string
   art: string
+  /** Local official manufacturer photo, when one was found for this exact part number. */
+  image?: string
   priceTtc: number
   vatRate: number
   fulfillment: Fulfillment
