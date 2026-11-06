@@ -408,6 +408,20 @@ export const legalDoc: InfoDoc = {
     },
     {
       kind: 'h2',
+      text: L('Photographies', 'Photographs', 'Produktfotos', 'Fotografías', 'Fotografie'),
+    },
+    {
+      kind: 'p',
+      text: L(
+        'Les photographies de produits appartiennent à leurs fabricants respectifs.',
+        'Product photographs belong to their respective manufacturers.',
+        'Die Produktfotografien gehören den jeweiligen Herstellern.',
+        'Las fotografías de producto pertenecen a sus respectivos fabricantes.',
+        'Le fotografie dei prodotti appartengono ai rispettivi fabbricanti.',
+      ),
+    },
+    {
+      kind: 'h2',
       text: L('Nom de domaine', 'Domain name', 'Domain', 'Nombre de dominio', 'Nome di dominio'),
     },
     {

@@ -49,7 +49,7 @@ Les textes légaux sont des modèles. Les faire relire par un conseil avant tout
 
 `src/data/products.json` contient les pièces dont un prix public TTC a été lu. `src/data/price-sources.json` garde l’URL, le prix observé et la date. `npm run refresh-prices` relit ces URLs. `npm run check` refuse un prix sans source.
 
-Les illustrations sont des SVG d’origine, dans `src/components/PartArt.tsx`. Aucune image distante.
+Lorsqu’une photo officielle du fabricant existe pour la référence exacte, elle est enregistrée dans `public/photos` (WebP, 800 px au plus) et son URL d’origine est dans `src/data/image-sources.json`. Aucune image de distributeur, aucun lien à chaud. Sinon, l’illustration SVG de la catégorie reste affichée (`src/components/PartArt.tsx`). `npm run fetch-images` recharge ces photos.
 
 ## Aller plus loin
 

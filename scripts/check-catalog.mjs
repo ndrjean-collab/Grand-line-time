@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs'
+import { existsSync, readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { PRICE_DISCOUNT, sellingPriceFromLowest } from './price-utils.mjs'
 
@@ -25,6 +25,9 @@ function loc(value, path) {
 }
 
 const priceFile = JSON.parse(readFileSync(resolve(root, 'src/data/price-sources.json'), 'utf8'))
+const imageFile = JSON.parse(readFileSync(resolve(root, 'src/data/image-sources.json'), 'utf8'))
+const imageById = new Map((imageFile.parts ?? []).map((part) => [part.id, part]))
+const blockedImageHosts = ['oscaro.', 'autodoc.', 'mister-auto.', 'amazon.', 'carmino.', 'partauto.']
 const sourceById = new Map((priceFile.parts ?? []).map((part) => [part.id, part]))
 
 if (!Array.isArray(products) || products.length < 180) {
@@ -87,7 +90,36 @@ for (const product of products) {
     const model = make.models.find((item) => item.id === fit.model)
     if (!model) errors.push(`${product.id} unknown model ${fit.model}`)
   }
+  const photo = imageById.get(product.id)
+  if (product.image) {
+    if (!photo) errors.push(`${product.id} photo has no source record`)
+    if (!product.image.startsWith('/photos/') || !product.image.endsWith('.webp')) {
+      errors.push(`${product.id} photo must be a local WebP`)
+    } else if (!existsSync(resolve(root, 'public', product.image.slice(1)))) {
+      errors.push(`${product.id} photo file is missing`)
+    }
+  } else if (photo) {
+    errors.push(`${product.id} has a source record but no image`)
+  }
+  if (photo) {
+    let host = ''
+    try {
+      host = new URL(photo.sourceUrl).hostname.toLowerCase()
+    } catch {
+      errors.push(`${product.id} photo source URL is invalid`)
+    }
+    if (blockedImageHosts.some((part) => host.includes(part))) {
+      errors.push(`${product.id} photo comes from a retailer`)
+    }
+    if (photo.file !== product.image) errors.push(`${product.id} photo path does not match the source record`)
+    if (photo.mpn !== product.mpn || photo.brand !== product.brand) {
+      errors.push(`${product.id} photo record does not match the part`)
+    }
+  }
 }
+
+if ((imageFile.parts ?? []).length !== imageById.size) errors.push('duplicate photo source records')
+if (imageFile.withPhoto !== imageById.size) errors.push('photo count does not match the source file')
 
 const best = products.filter((product) => product.bestSeller)
 if (best.length < 6) errors.push('expected at least 6 bestsellers')

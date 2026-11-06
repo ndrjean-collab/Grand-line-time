@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
     "check": "node scripts/check-catalog.mjs",
-    "refresh-prices": "node scripts/refresh-prices.mjs"
+    "refresh-prices": "node scripts/refresh-prices.mjs",
+    "fetch-images": "node scripts/fetch-images.mjs"
   },
   "dependencies": {
     "@fontsource/newsreader": "^5.2.8",
@@ -24,6 +25,7 @@
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "@vitejs/plugin-react": "^4.4.1",
+    "sharp": "^0.35.5",
     "typescript": "^5.8.3",
     "vite": "^6.3.5"
   }
