@@ -2,9 +2,9 @@
   {
     "id": "ex-1001",
     "slug": "plaquettes-frein-avant-exemple",
-    "sku": "GLT-DEMO-1001",
+    "sku": "GLT-1001",
     "oem": "EX-OEM-100001",
-    "demo": true,
+    "fictional": true,
     "category": "freinage",
     "art": "pads",
     "priceTtc": 42.9,
@@ -22,18 +22,18 @@
       "it": "Set pastiglie freno anteriori — esempio"
     },
     "summary": {
-      "fr": "Jeu avant pour une citadine de démonstration.",
-      "en": "Front axle set for a demonstration city car.",
-      "de": "Vorderachssatz für einen Demonstrations-Kleinwagen.",
-      "es": "Juego delantero para un urbano de demostración.",
-      "it": "Set anteriore per una city di dimostrazione."
+      "fr": "Jeu avant pour une citadine d'exemple.",
+      "en": "Front axle set for an example city car.",
+      "de": "Vorderachssatz für einen Beispiel-Kleinwagen.",
+      "es": "Juego delantero para un urbano de ejemplo.",
+      "it": "Set anteriore per una city di esempio."
     },
     "description": {
-      "fr": "Plaquettes neuves de démonstration, sans marque, prévues pour illustrer une fiche freinage. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Unbranded new demonstration pads, used to illustrate a braking product sheet. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Markenneutrale neue Demonstrationsbeläge zur Darstellung eines Bremsenartikels. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Pastillas nuevas de demostración, sin marca, para ilustrar una ficha de frenado. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Pastiglie nuove di dimostrazione, senza marchio, per illustrare una scheda freni. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Plaquettes neuves d'exemple, sans marque, prévues pour illustrer une fiche freinage. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Unbranded new example pads, used to illustrate a braking product sheet. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Markenneutrale neue Beispielbeläge zur Darstellung eines Bremsenartikels. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Pastillas nuevas de ejemplo, sin marca, para ilustrar una ficha de frenado. Características ficticias, sin garantía de montaje real.",
+      "it": "Pastiglie nuove di esempio, senza marchio, per illustrare una scheda freni. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -126,9 +126,9 @@
   {
     "id": "ex-1002",
     "slug": "disque-frein-ventile-avant-exemple",
-    "sku": "GLT-DEMO-1002",
+    "sku": "GLT-1002",
     "oem": "EX-OEM-100002",
-    "demo": true,
+    "fictional": true,
     "category": "freinage",
     "art": "disc",
     "priceTtc": 68.5,
@@ -153,11 +153,11 @@
       "it": "Disco ventilato venduto singolarmente, misura fittizia."
     },
     "description": {
-      "fr": "Disque ventilé de démonstration pour montrer une pièce de freinage tenue en stock. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration vented disc used to show a braking part held in stock. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Belüftete Demonstrationsscheibe für einen lagernden Bremsenartikel. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Disco ventilado de demostración para mostrar una pieza de frenado en stock. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Disco ventilato di dimostrazione per mostrare un ricambio freni a stock. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Disque ventilé d'exemple pour montrer une pièce de freinage tenue en stock. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example vented disc used to show a braking part held in stock. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Belüftete Beispielscheibe für einen lagernden Bremsenartikel. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Disco ventilado de ejemplo para mostrar una pieza de frenado en stock. Características ficticias, sin garantía de montaje real.",
+      "it": "Disco ventilato di esempio per mostrare un ricambio freni a stock. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -241,9 +241,9 @@
   {
     "id": "ex-1003",
     "slug": "flexible-frein-exemple",
-    "sku": "GLT-DEMO-1003",
+    "sku": "GLT-1003",
     "oem": "EX-OEM-100003",
-    "demo": true,
+    "fictional": true,
     "category": "freinage",
     "art": "hose",
     "priceTtc": 24.9,
@@ -268,11 +268,11 @@
       "it": "Tubo anteriore spedito da un partner fittizio."
     },
     "description": {
-      "fr": "Flexible de démonstration pour illustrer une pièce absente du stock et expédiée directement. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration hose illustrating a part that is not in stock and ships directly. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrationsschlauch für einen Artikel, der nicht lagernd ist und direkt versendet wird. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Latiguillo de demostración para una pieza que no está en stock y se envía directa. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Tubo di dimostrazione per un ricambio assente a stock e spedito direttamente. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Flexible d'exemple pour illustrer une pièce absente du stock et expédiée directement. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example hose illustrating a part that is not in stock and ships directly. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispielschlauch für einen Artikel, der nicht lagernd ist und direkt versendet wird. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Latiguillo de ejemplo para una pieza que no está en stock y se envía directa. Características ficticias, sin garantía de montaje real.",
+      "it": "Tubo di esempio per un ricambio assente a stock e spedito direttamente. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -356,9 +356,9 @@
   {
     "id": "ex-1004",
     "slug": "filtre-huile-exemple",
-    "sku": "GLT-DEMO-1004",
+    "sku": "GLT-1004",
     "oem": "EX-OEM-100004",
-    "demo": true,
+    "fictional": true,
     "category": "filtration",
     "art": "oil-filter",
     "priceTtc": 12.4,
@@ -376,18 +376,18 @@
       "it": "Filtro olio — esempio"
     },
     "summary": {
-      "fr": "Cartouche vissée, référence de démonstration.",
-      "en": "Spin-on cartridge, demonstration reference.",
-      "de": "Anschraubpatrone, Demonstrationsreferenz.",
-      "es": "Cartucho de rosca, referencia de demostración.",
-      "it": "Cartuccia avvitabile, riferimento di dimostrazione."
+      "fr": "Cartouche vissée, référence d'exemple.",
+      "en": "Spin-on cartridge, example reference.",
+      "de": "Anschraubpatrone, Beispielreferenz.",
+      "es": "Cartucho de rosca, referencia de ejemplo.",
+      "it": "Cartuccia avvitabile, riferimento di esempio."
     },
     "description": {
-      "fr": "Filtre à huile neuf et sans marque, très demandé dans cette vitrine pour tester la recherche. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Unbranded new oil filter, included so the storefront search can be tried. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Markenneutraler neuer Ölfilter, damit die Suche in der Vitrine geprüft werden kann. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Filtro de aceite nuevo y sin marca, útil para probar el buscador de la vitrina. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Filtro olio nuovo e senza marchio, utile per provare la ricerca della vetrina. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Filtre à huile neuf et sans marque, très demandé dans cette vitrine pour tester la recherche. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Unbranded new oil filter, included so the storefront search can be tried. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Markenneutraler neuer Ölfilter, damit die Suche in der Vitrine geprüft werden kann. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Filtro de aceite nuevo y sin marca, útil para probar el buscador de la vitrina. Características ficticias, sin garantía de montaje real.",
+      "it": "Filtro olio nuovo e senza marchio, utile per provare la ricerca della vetrina. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -491,9 +491,9 @@
   {
     "id": "ex-1005",
     "slug": "filtre-habitacle-exemple",
-    "sku": "GLT-DEMO-1005",
+    "sku": "GLT-1005",
     "oem": "EX-OEM-100005",
-    "demo": true,
+    "fictional": true,
     "category": "filtration",
     "art": "cabin-filter",
     "priceTtc": 18.9,
@@ -518,11 +518,11 @@
       "it": "Filtro antiparticolato abitacolo, misura fittizia."
     },
     "description": {
-      "fr": "Filtre d’habitacle de démonstration, plissé, pour la famille filtration. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Pleated demonstration cabin filter for the filtration family. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Gefalteter Demonstrations-Innenraumfilter der Filterfamilie. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Filtro de habitáculo plisado de demostración, familia filtración. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Filtro abitacolo pieghettato di dimostrazione, famiglia filtrazione. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Filtre d’habitacle d'exemple, plissé, pour la famille filtration. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Pleated example cabin filter for the filtration family. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Gefalteter Beispiel-Innenraumfilter der Filterfamilie. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Filtro de habitáculo plisado de ejemplo, familia filtración. Características ficticias, sin garantía de montaje real.",
+      "it": "Filtro abitacolo pieghettato di esempio, famiglia filtrazione. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -616,9 +616,9 @@
   {
     "id": "ex-1006",
     "slug": "filtre-carburant-exemple",
-    "sku": "GLT-DEMO-1006",
+    "sku": "GLT-1006",
     "oem": "EX-OEM-100006",
-    "demo": true,
+    "fictional": true,
     "category": "filtration",
     "art": "fuel-filter",
     "priceTtc": 27.5,
@@ -636,18 +636,18 @@
       "it": "Filtro carburante — esempio"
     },
     "summary": {
-      "fr": "Filtre en ligne pour un utilitaire de démonstration.",
-      "en": "Inline filter for a demonstration van.",
-      "de": "Leitungsfilter für einen Demonstrations-Transporter.",
-      "es": "Filtro en línea para un furgón de demostración.",
-      "it": "Filtro in linea per un furgone di dimostrazione."
+      "fr": "Filtre en ligne pour un utilitaire d'exemple.",
+      "en": "Inline filter for an example van.",
+      "de": "Leitungsfilter für einen Beispiel-Transporter.",
+      "es": "Filtro en línea para un furgón de ejemplo.",
+      "it": "Filtro in linea per un furgone di esempio."
     },
     "description": {
-      "fr": "Filtre à carburant de démonstration expédié par un partenaire, hors stock atelier. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration fuel filter shipped by a partner, not held in the workshop stock. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Kraftstofffilter, Partnerversand, nicht im Werkstattlager. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Filtro de combustible de demostración enviado por un socio, fuera del stock. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Filtro carburante di dimostrazione spedito da un partner, non a stock. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Filtre à carburant d'exemple expédié par un partenaire, hors stock atelier. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example fuel filter shipped by a partner, not held in the workshop stock. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Kraftstofffilter, Partnerversand, nicht im Werkstattlager. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Filtro de combustible de ejemplo enviado por un socio, fuera del stock. Características ficticias, sin garantía de montaje real.",
+      "it": "Filtro carburante di esempio spedito da un partner, non a stock. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -731,9 +731,9 @@
   {
     "id": "ex-1007",
     "slug": "kit-distribution-exemple",
-    "sku": "GLT-DEMO-1007",
+    "sku": "GLT-1007",
     "oem": "EX-OEM-100007",
-    "demo": true,
+    "fictional": true,
     "category": "moteur",
     "art": "timing",
     "priceTtc": 189,
@@ -758,11 +758,11 @@
       "it": "Cinghia e rulli, composizione fittizia."
     },
     "description": {
-      "fr": "Kit de distribution de démonstration pour une berline fictive, expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration timing kit for a fictional saloon, shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Zahnriemensatz für eine fiktive Limousine, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Kit de distribución de demostración para una berlina ficticia, envío por socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Kit distribuzione di dimostrazione per una berlina fittizia, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Kit de distribution d'exemple pour une berline fictive, expédié par un partenaire. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example timing kit for a fictional saloon, shipped by a partner. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Zahnriemensatz für eine fiktive Limousine, Partnerversand. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Kit de distribución de ejemplo para una berlina ficticia, envío por socio. Características ficticias, sin garantía de montaje real.",
+      "it": "Kit distribuzione di esempio per una berlina fittizia, spedizione partner. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -854,9 +854,9 @@
   {
     "id": "ex-1008",
     "slug": "bougie-allumage-exemple",
-    "sku": "GLT-DEMO-1008",
+    "sku": "GLT-1008",
     "oem": "EX-OEM-100008",
-    "demo": true,
+    "fictional": true,
     "category": "moteur",
     "art": "spark",
     "priceTtc": 9.9,
@@ -874,18 +874,18 @@
       "it": "Candela di accensione — esempio"
     },
     "summary": {
-      "fr": "Bougie unitaire pour motorisation essence de démonstration.",
-      "en": "Single plug for a demonstration petrol engine.",
-      "de": "Einzelkerze für einen Demonstrations-Benzinmotor.",
-      "es": "Bujía unitaria para un motor de gasolina de demostración.",
-      "it": "Candela singola per un motore benzina di dimostrazione."
+      "fr": "Bougie unitaire pour motorisation essence d'exemple.",
+      "en": "Single plug for an example petrol engine.",
+      "de": "Einzelkerze für einen Beispiel-Benzinmotor.",
+      "es": "Bujía unitaria para un motor de gasolina de ejemplo.",
+      "it": "Candela singola per un motore benzina di esempio."
     },
     "description": {
-      "fr": "Bougie neuve de démonstration, vendue à l’unité, en stock atelier. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "New demonstration spark plug, sold individually, held in workshop stock. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Neue Demonstrationszündkerze, einzeln, im Werkstattlager. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Bujía nueva de demostración, por unidad, en stock de taller. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Candela nuova di dimostrazione, venduta singola, a stock officina. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Bougie neuve d'exemple, vendue à l’unité, en stock atelier. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "New example spark plug, sold individually, held in workshop stock. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Neue Beispielzündkerze, einzeln, im Werkstattlager. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Bujía nueva de ejemplo, por unidad, en stock de taller. Características ficticias, sin garantía de montaje real.",
+      "it": "Candela nuova di esempio, venduta singola, a stock officina. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -977,9 +977,9 @@
   {
     "id": "ex-1009",
     "slug": "support-moteur-exemple",
-    "sku": "GLT-DEMO-1009",
+    "sku": "GLT-1009",
     "oem": "EX-OEM-100009",
-    "demo": true,
+    "fictional": true,
     "category": "moteur",
     "art": "mount",
     "priceTtc": 74,
@@ -1004,11 +1004,11 @@
       "it": "Supporto idraulico fittizio, lato destro."
     },
     "description": {
-      "fr": "Support moteur de démonstration pour illustrer une pièce partenaire sur un SUV fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration engine mount illustrating a partner-supplied part for a fictional SUV. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Motorlager als Partnerartikel für ein fiktives SUV. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Soporte de motor de demostración como pieza de socio para un SUV ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Supporto motore di dimostrazione come ricambio partner per un SUV fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Support moteur d'exemple pour illustrer une pièce partenaire sur un SUV fictif. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example engine mount illustrating a partner-supplied part for a fictional SUV. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Motorlager als Partnerartikel für ein fiktives SUV. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Soporte de motor de ejemplo como pieza de socio para un SUV ficticio. Características ficticias, sin garantía de montaje real.",
+      "it": "Supporto motore di esempio come ricambio partner per un SUV fittizio. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1092,9 +1092,9 @@
   {
     "id": "ex-1010",
     "slug": "amortisseur-avant-exemple",
-    "sku": "GLT-DEMO-1010",
+    "sku": "GLT-1010",
     "oem": "EX-OEM-100010",
-    "demo": true,
+    "fictional": true,
     "category": "suspension",
     "art": "shock",
     "priceTtc": 96,
@@ -1119,11 +1119,11 @@
       "it": "Ammortizzatore a gas, venduto singolarmente."
     },
     "description": {
-      "fr": "Amortisseur avant de démonstration, en stock, pour un SUV fictif de la gamme Sommet. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration front shock, in stock, for a fictional Sommet SUV. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Stoßdämpfer vorne, lagernd, für ein fiktives Sommet-SUV. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Amortiguador delantero de demostración, en stock, para un SUV Sommet ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Ammortizzatore anteriore di dimostrazione, a stock, per un SUV Sommet fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Amortisseur avant d'exemple, en stock, pour un SUV fictif de la gamme Sommet. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example front shock, in stock, for a fictional Sommet SUV. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Stoßdämpfer vorne, lagernd, für ein fiktives Sommet-SUV. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Amortiguador delantero de ejemplo, en stock, para un SUV Sommet ficticio. Características ficticias, sin garantía de montaje real.",
+      "it": "Ammortizzatore anteriore di esempio, a stock, per un SUV Sommet fittizio. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1208,9 +1208,9 @@
   {
     "id": "ex-1011",
     "slug": "bras-suspension-exemple",
-    "sku": "GLT-DEMO-1011",
+    "sku": "GLT-1011",
     "oem": "EX-OEM-100011",
-    "demo": true,
+    "fictional": true,
     "category": "suspension",
     "art": "arm",
     "priceTtc": 82.5,
@@ -1235,11 +1235,11 @@
       "it": "Braccio anteriore con snodo fittizio montato."
     },
     "description": {
-      "fr": "Bras de suspension de démonstration expédié par un partenaire pour un break fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration control arm shipped by a partner for a fictional estate. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Querlenker, Partnerversand, für einen fiktiven Kombi. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Brazo de suspensión de demostración enviado por un socio para un familiar ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Braccio sospensione di dimostrazione spedito da un partner per una station fittizia. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Bras de suspension d'exemple expédié par un partenaire pour un break fictif. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example control arm shipped by a partner for a fictional estate. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Querlenker, Partnerversand, für einen fiktiven Kombi. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Brazo de suspensión de ejemplo enviado por un socio para un familiar ficticio. Características ficticias, sin garantía de montaje real.",
+      "it": "Braccio sospensione di esempio spedito da un partner per una station fittizia. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1323,9 +1323,9 @@
   {
     "id": "ex-1012",
     "slug": "rotule-direction-exemple",
-    "sku": "GLT-DEMO-1012",
+    "sku": "GLT-1012",
     "oem": "EX-OEM-100012",
-    "demo": true,
+    "fictional": true,
     "category": "suspension",
     "art": "balljoint",
     "priceTtc": 34.9,
@@ -1343,18 +1343,18 @@
       "it": "Snodo sterzo — esempio"
     },
     "summary": {
-      "fr": "Rotule inférieure de démonstration, en stock.",
-      "en": "Lower demonstration joint, in stock.",
-      "de": "Unteres Demonstrationsgelenk, lagernd.",
-      "es": "Rótula inferior de demostración, en stock.",
-      "it": "Snodo inferiore di dimostrazione, a stock."
+      "fr": "Rotule inférieure d'exemple, en stock.",
+      "en": "Lower example joint, in stock.",
+      "de": "Unteres Beispielgelenk, lagernd.",
+      "es": "Rótula inferior de ejemplo, en stock.",
+      "it": "Snodo inferiore di esempio, a stock."
     },
     "description": {
-      "fr": "Rotule de direction neuve, fiche de démonstration pour la famille suspension et direction. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "New steering joint, a demonstration sheet for suspension and steering. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Neues Lenkgelenk als Demonstrationsartikel für Fahrwerk und Lenkung. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Rótula de dirección nueva, ficha de demostración de suspensión y dirección. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Snodo sterzo nuovo, scheda dimostrativa di sospensioni e sterzo. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Rotule de direction neuve, fiche d'exemple pour la famille suspension et direction. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "New steering joint, an example sheet for suspension and steering. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Neues Lenkgelenk als Beispielartikel für Fahrwerk und Lenkung. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Rótula de dirección nueva, ficha de ejemplo de suspensión y dirección. Características ficticias, sin garantía de montaje real.",
+      "it": "Snodo sterzo nuovo, scheda di esempio di sospensioni e sterzo. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1438,9 +1438,9 @@
   {
     "id": "ex-1013",
     "slug": "phare-avant-exemple",
-    "sku": "GLT-DEMO-1013",
+    "sku": "GLT-1013",
     "oem": "EX-OEM-100013",
-    "demo": true,
+    "fictional": true,
     "category": "eclairage",
     "art": "headlamp",
     "priceTtc": 149,
@@ -1458,18 +1458,18 @@
       "it": "Proiettore anteriore — esempio"
     },
     "summary": {
-      "fr": "Optique droit, version de démonstration.",
-      "en": "Right-hand lamp, demonstration version.",
-      "de": "Rechter Scheinwerfer, Demonstrationsversion.",
-      "es": "Faro derecho, versión de demostración.",
-      "it": "Proiettore destro, versione di dimostrazione."
+      "fr": "Optique droit, version d'exemple.",
+      "en": "Right-hand lamp, example version.",
+      "de": "Rechter Scheinwerfer, Beispielversion.",
+      "es": "Faro derecho, versión de ejemplo.",
+      "it": "Proiettore destro, versione di esempio."
     },
     "description": {
-      "fr": "Phare avant de démonstration, sans marque, expédié directement par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Unbranded demonstration headlamp, shipped directly by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Markenneutraler Demonstrationsscheinwerfer, Direktversand durch einen Partner. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Faro delantero de demostración, sin marca, envío directo de un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Proiettore anteriore di dimostrazione, senza marchio, spedizione diretta di un partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Phare avant d'exemple, sans marque, expédié directement par un partenaire. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Unbranded example headlamp, shipped directly by a partner. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Markenneutraler Beispielscheinwerfer, Direktversand durch einen Partner. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Faro delantero de ejemplo, sin marca, envío directo de un socio. Características ficticias, sin garantía de montaje real.",
+      "it": "Proiettore anteriore di esempio, senza marchio, spedizione diretta di un partner. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1553,9 +1553,9 @@
   {
     "id": "ex-1014",
     "slug": "feu-arriere-exemple",
-    "sku": "GLT-DEMO-1014",
+    "sku": "GLT-1014",
     "oem": "EX-OEM-100014",
-    "demo": true,
+    "fictional": true,
     "category": "eclairage",
     "art": "taillamp",
     "priceTtc": 64,
@@ -1573,18 +1573,18 @@
       "it": "Fanale posteriore — esempio"
     },
     "summary": {
-      "fr": "Feu arrière gauche de démonstration, en stock.",
-      "en": "Left rear lamp, demonstration, in stock.",
-      "de": "Linke Rückleuchte, Demonstration, lagernd.",
-      "es": "Piloto trasero izquierdo de demostración, en stock.",
-      "it": "Fanale posteriore sinistro di dimostrazione, a stock."
+      "fr": "Feu arrière gauche d'exemple, en stock.",
+      "en": "Left rear lamp, example, in stock.",
+      "de": "Linke Rückleuchte, Example, lagernd.",
+      "es": "Piloto trasero izquierdo de ejemplo, en stock.",
+      "it": "Fanale posteriore sinistro di esempio, a stock."
     },
     "description": {
-      "fr": "Feu arrière de démonstration pour illustrer un article d’éclairage tenu en magasin. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration rear lamp illustrating a lighting part held in store. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Rückleuchte für einen lagernden Beleuchtungsartikel. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Piloto trasero de demostración para un artículo de iluminación en tienda. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Fanale posteriore di dimostrazione per un articolo di illuminazione a magazzino. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Feu arrière d'exemple pour illustrer un article d’éclairage tenu en magasin. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example rear lamp illustrating a lighting part held in store. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Rückleuchte für einen lagernden Beleuchtungsartikel. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Piloto trasero de ejemplo para un artículo de iluminación en tienda. Características ficticias, sin garantía de montaje real.",
+      "it": "Fanale posteriore di esempio per un articolo di illuminazione a magazzino. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1668,9 +1668,9 @@
   {
     "id": "ex-1015",
     "slug": "retroviseur-exterieur-exemple",
-    "sku": "GLT-DEMO-1015",
+    "sku": "GLT-1015",
     "oem": "EX-OEM-100015",
-    "demo": true,
+    "fictional": true,
     "category": "carrosserie",
     "art": "mirror",
     "priceTtc": 79.9,
@@ -1695,11 +1695,11 @@
       "it": "Calotta e vetro, regolazione elettrica fittizia."
     },
     "description": {
-      "fr": "Rétroviseur de démonstration pour un SUV fictif, préparé hors stock et expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration mirror for a fictional SUV, prepared off-stock and shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Außenspiegel für ein fiktives SUV, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Retrovisor de demostración para un SUV ficticio, envío por un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Specchietto di dimostrazione per un SUV fittizio, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Rétroviseur d'exemple pour un SUV fictif, préparé hors stock et expédié par un partenaire. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example mirror for a fictional SUV, prepared off-stock and shipped by a partner. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Außenspiegel für ein fiktives SUV, Partnerversand. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Retrovisor de ejemplo para un SUV ficticio, envío por un socio. Características ficticias, sin garantía de montaje real.",
+      "it": "Specchietto di esempio per un SUV fittizio, spedizione partner. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1784,9 +1784,9 @@
   {
     "id": "ex-1016",
     "slug": "pare-chocs-avant-exemple",
-    "sku": "GLT-DEMO-1016",
+    "sku": "GLT-1016",
     "oem": "EX-OEM-100016",
-    "demo": true,
+    "fictional": true,
     "category": "carrosserie",
     "art": "bumper",
     "priceTtc": 219,
@@ -1811,11 +1811,11 @@
       "it": "Paraurti anteriore da verniciare, riferimento fittizio."
     },
     "description": {
-      "fr": "Pare-chocs de démonstration pour un utilitaire fictif. Pièce volumineuse expédiée par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration bumper for a fictional van. A bulky part shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Stoßstange für einen fiktiven Transporter. Sperrig, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Parachoques de demostración para un furgón ficticio. Pieza voluminosa de socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Paraurti di dimostrazione per un furgone fittizio. Pezzo voluminoso, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Pare-chocs d'exemple pour un utilitaire fictif. Pièce volumineuse expédiée par un partenaire. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example bumper for a fictional van. A bulky part shipped by a partner. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Stoßstange für einen fiktiven Transporter. Sperrig, Partnerversand. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Parachoques de ejemplo para un furgón ficticio. Pieza voluminosa de socio. Características ficticias, sin garantía de montaje real.",
+      "it": "Paraurti di esempio per un furgone fittizio. Pezzo voluminoso, spedizione partner. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -1899,9 +1899,9 @@
   {
     "id": "ex-1017",
     "slug": "batterie-12v-exemple",
-    "sku": "GLT-DEMO-1017",
+    "sku": "GLT-1017",
     "oem": "EX-OEM-100017",
-    "demo": true,
+    "fictional": true,
     "category": "electricite",
     "art": "battery",
     "priceTtc": 129,
@@ -1926,11 +1926,11 @@
       "it": "Batteria di avviamento, capacità fittizia."
     },
     "description": {
-      "fr": "Batterie 12 V de démonstration tenue en stock. Les consignes et la reprise ne sont pas encore opérées. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration 12 V battery held in stock. Core charges and returns are not operated yet. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-12-V-Batterie, lagernd. Pfand und Rücknahme sind noch nicht aktiv. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Batería 12 V de demostración en stock. La fianza y la recogida aún no están activas. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Batteria 12 V di dimostrazione a stock. Cauzione e ritiro non sono ancora attivi. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Batterie 12 V d'exemple tenue en stock. Les consignes et la reprise ne sont pas encore opérées. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example 12 V battery held in stock. Core charges and returns are not operated yet. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-12-V-Batterie, lagernd. Pfand und Rücknahme sind noch nicht aktiv. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Batería 12 V de ejemplo en stock. La fianza y la recogida aún no están activas. Características ficticias, sin garantía de montaje real.",
+      "it": "Batteria 12 V di esempio a stock. Cauzione e ritiro non sono ancora attivi. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2034,9 +2034,9 @@
   {
     "id": "ex-1018",
     "slug": "demarreur-exemple",
-    "sku": "GLT-DEMO-1018",
+    "sku": "GLT-1018",
     "oem": "EX-OEM-100018",
-    "demo": true,
+    "fictional": true,
     "category": "electricite",
     "art": "starter",
     "priceTtc": 164,
@@ -2054,18 +2054,18 @@
       "it": "Motorino di avviamento — esempio"
     },
     "summary": {
-      "fr": "Démarreur révisé de démonstration, envoi partenaire.",
-      "en": "Demonstration starter, partner dispatch.",
-      "de": "Demonstrations-Anlasser, Partnerversand.",
-      "es": "Motor de arranque de demostración, envío de socio.",
-      "it": "Motorino di dimostrazione, spedizione partner."
+      "fr": "Démarreur révisé d'exemple, envoi partenaire.",
+      "en": "Example starter, partner dispatch.",
+      "de": "Beispiel-Anlasser, Partnerversand.",
+      "es": "Motor de arranque de ejemplo, envío de socio.",
+      "it": "Motorino di esempio, spedizione partner."
     },
     "description": {
-      "fr": "Démarreur de démonstration pour un utilitaire fictif. Aucune consigne n’est collectée dans cette vitrine. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration starter for a fictional van. This storefront does not collect a core charge. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Anlasser für einen fiktiven Transporter. Kein Pfand in dieser Vitrine. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Motor de arranque de demostración para un furgón ficticio. Sin fianza en esta vitrina. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Motorino di dimostrazione per un furgone fittizio. Nessuna cauzione in questa vetrina. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Démarreur d'exemple pour un utilitaire fictif. Aucune consigne n’est collectée dans cette vitrine. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example starter for a fictional van. This storefront does not collect a core charge. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Anlasser für einen fiktiven Transporter. Kein Pfand in dieser Vitrine. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Motor de arranque de ejemplo para un furgón ficticio. Sin fianza en esta vitrina. Características ficticias, sin garantía de montaje real.",
+      "it": "Motorino di esempio per un furgone fittizio. Nessuna cauzione in questa vetrina. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2148,9 +2148,9 @@
   {
     "id": "ex-1019",
     "slug": "alternateur-exemple",
-    "sku": "GLT-DEMO-1019",
+    "sku": "GLT-1019",
     "oem": "EX-OEM-100019",
-    "demo": true,
+    "fictional": true,
     "category": "electricite",
     "art": "alternator",
     "priceTtc": 198,
@@ -2168,18 +2168,18 @@
       "it": "Alternatore — esempio"
     },
     "summary": {
-      "fr": "Alternateur de démonstration pour berline diesel fictive.",
-      "en": "Demonstration alternator for a fictional diesel saloon.",
-      "de": "Demonstrations-Lichtmaschine für eine fiktive Diesel-Limousine.",
-      "es": "Alternador de demostración para una berlina diésel ficticia.",
-      "it": "Alternatore di dimostrazione per una berlina diesel fittizia."
+      "fr": "Alternateur d'exemple pour berline diesel fictive.",
+      "en": "Example alternator for a fictional diesel saloon.",
+      "de": "Beispiel-Lichtmaschine für eine fiktive Diesel-Limousine.",
+      "es": "Alternador de ejemplo para una berlina diésel ficticia.",
+      "it": "Alternatore di esempio per una berlina diesel fittizia."
     },
     "description": {
-      "fr": "Alternateur neuf de démonstration, expédié par un partenaire, ampérage fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "New demonstration alternator, shipped by a partner, fictional amperage. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Neue Demonstrations-Lichtmaschine, Partnerversand, fiktive Amperezahl. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Alternador nuevo de demostración, envío de socio, amperaje ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Alternatore nuovo di dimostrazione, spedizione partner, amperaggio fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Alternateur neuf d'exemple, expédié par un partenaire, ampérage fictif. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "New example alternator, shipped by a partner, fictional amperage. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Neue Beispiel-Lichtmaschine, Partnerversand, fiktive Amperezahl. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Alternador nuevo de ejemplo, envío de socio, amperaje ficticio. Características ficticias, sin garantía de montaje real.",
+      "it": "Alternatore nuovo di esempio, spedizione partner, amperaggio fittizio. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2262,9 +2262,9 @@
   {
     "id": "ex-1020",
     "slug": "kit-embrayage-exemple",
-    "sku": "GLT-DEMO-1020",
+    "sku": "GLT-1020",
     "oem": "EX-OEM-100020",
-    "demo": true,
+    "fictional": true,
     "category": "embrayage",
     "art": "clutch",
     "priceTtc": 249,
@@ -2289,11 +2289,11 @@
       "it": "Disco, meccanismo e reggispinta, kit fittizio."
     },
     "description": {
-      "fr": "Kit d’embrayage de démonstration pour une compacte diesel fictive, envoi partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration clutch kit for a fictional diesel compact, partner dispatch. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Kupplungssatz für einen fiktiven Diesel-Kompaktwagen, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Kit de embrague de demostración para un compacto diésel ficticio, envío de socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Kit frizione di dimostrazione per una compatta diesel fittizia, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Kit d’embrayage d'exemple pour une compacte diesel fictive, envoi partenaire. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example clutch kit for a fictional diesel compact, partner dispatch. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Kupplungssatz für einen fiktiven Diesel-Kompaktwagen, Partnerversand. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Kit de embrague de ejemplo para un compacto diésel ficticio, envío de socio. Características ficticias, sin garantía de montaje real.",
+      "it": "Kit frizione di esempio per una compatta diesel fittizia, spedizione partner. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2376,9 +2376,9 @@
   {
     "id": "ex-1021",
     "slug": "volant-moteur-exemple",
-    "sku": "GLT-DEMO-1021",
+    "sku": "GLT-1021",
     "oem": "EX-OEM-100021",
-    "demo": true,
+    "fictional": true,
     "category": "embrayage",
     "art": "flywheel",
     "priceTtc": 289,
@@ -2396,18 +2396,18 @@
       "it": "Volano motore — esempio"
     },
     "summary": {
-      "fr": "Volant rigide de démonstration, cote fictive.",
-      "en": "Rigid demonstration flywheel, fictional size.",
-      "de": "Starres Demonstrations-Schwungrad, fiktives Maß.",
-      "es": "Volante rígido de demostración, cota ficticia.",
-      "it": "Volano rigido di dimostrazione, misura fittizia."
+      "fr": "Volant rigide d'exemple, cote fictive.",
+      "en": "Rigid example flywheel, fictional size.",
+      "de": "Starres Beispiel-Schwungrad, fiktives Maß.",
+      "es": "Volante rígido de ejemplo, cota ficticia.",
+      "it": "Volano rigido di esempio, misura fittizia."
     },
     "description": {
-      "fr": "Volant moteur de démonstration associé au kit d’embrayage exemple de la même compacte. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration flywheel paired with the example clutch kit of the same compact. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Schwungrad passend zum Beispiel-Kupplungssatz desselben Kompaktwagens. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Volante de demostración asociado al kit de embrague de ejemplo del mismo compacto. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Volano di dimostrazione abbinato al kit frizione di esempio della stessa compatta. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Volant moteur d'exemple associé au kit d’embrayage exemple de la même compacte. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example flywheel paired with the example clutch kit of the same compact. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Schwungrad passend zum Beispiel-Kupplungssatz desselben Kompaktwagens. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Volante de ejemplo asociado al kit de embrague de ejemplo del mismo compacto. Características ficticias, sin garantía de montaje real.",
+      "it": "Volano di esempio abbinato al kit frizione di esempio della stessa compatta. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2490,9 +2490,9 @@
   {
     "id": "ex-1022",
     "slug": "silencieux-arriere-exemple",
-    "sku": "GLT-DEMO-1022",
+    "sku": "GLT-1022",
     "oem": "EX-OEM-100022",
-    "demo": true,
+    "fictional": true,
     "category": "echappement",
     "art": "muffler",
     "priceTtc": 156,
@@ -2510,18 +2510,18 @@
       "it": "Silenziatore posteriore — esempio"
     },
     "summary": {
-      "fr": "Silencieux arrière pour SUV de démonstration.",
-      "en": "Rear silencer for a demonstration SUV.",
-      "de": "Endschalldämpfer für ein Demonstrations-SUV.",
-      "es": "Silencioso trasero para un SUV de demostración.",
-      "it": "Silenziatore posteriore per un SUV di dimostrazione."
+      "fr": "Silencieux arrière pour SUV d'exemple.",
+      "en": "Rear silencer for an example SUV.",
+      "de": "Endschalldämpfer für ein Beispiel-SUV.",
+      "es": "Silencioso trasero para un SUV de ejemplo.",
+      "it": "Silenziatore posteriore per un SUV di esempio."
     },
     "description": {
-      "fr": "Silencieux de démonstration, acier fictif, expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration silencer, fictional steel, shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Schalldämpfer, fiktiver Stahl, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Silencioso de demostración, acero ficticio, envío de un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Silenziatore di dimostrazione, acciaio fittizio, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Silencieux d'exemple, acier fictif, expédié par un partenaire. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example silencer, fictional steel, shipped by a partner. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Schalldämpfer, fiktiver Stahl, Partnerversand. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Silencioso de ejemplo, acero ficticio, envío de un socio. Características ficticias, sin garantía de montaje real.",
+      "it": "Silenziatore di esempio, acciaio fittizio, spedizione partner. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2604,9 +2604,9 @@
   {
     "id": "ex-1023",
     "slug": "sonde-lambda-exemple",
-    "sku": "GLT-DEMO-1023",
+    "sku": "GLT-1023",
     "oem": "EX-OEM-100023",
-    "demo": true,
+    "fictional": true,
     "category": "echappement",
     "art": "lambda",
     "priceTtc": 58,
@@ -2631,11 +2631,11 @@
       "it": "Sonda a monte del catalizzatore, connettore fittizio."
     },
     "description": {
-      "fr": "Sonde lambda de démonstration en stock, pour une citadine essence fictive. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration lambda sensor in stock, for a fictional petrol city car. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Lambdasonde, lagernd, für einen fiktiven Benzin-Kleinwagen. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Sonda lambda de demostración en stock, para un urbano de gasolina ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Sonda lambda di dimostrazione a stock, per una city benzina fittizia. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Sonde lambda d'exemple en stock, pour une citadine essence fictive. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example lambda sensor in stock, for a fictional petrol city car. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Lambdasonde, lagernd, für einen fiktiven Benzin-Kleinwagen. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Sonda lambda de ejemplo en stock, para un urbano de gasolina ficticio. Características ficticias, sin garantía de montaje real.",
+      "it": "Sonda lambda di esempio a stock, per una city benzina fittizia. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2718,9 +2718,9 @@
   {
     "id": "ex-1024",
     "slug": "radiateur-exemple",
-    "sku": "GLT-DEMO-1024",
+    "sku": "GLT-1024",
     "oem": "EX-OEM-100024",
-    "demo": true,
+    "fictional": true,
     "category": "refroidissement",
     "art": "radiator",
     "priceTtc": 142,
@@ -2738,18 +2738,18 @@
       "it": "Radiatore di raffreddamento — esempio"
     },
     "summary": {
-      "fr": "Radiateur moteur pour break de démonstration.",
-      "en": "Engine radiator for a demonstration estate.",
-      "de": "Motorkühler für einen Demonstrations-Kombi.",
-      "es": "Radiador de motor para un familiar de demostración.",
-      "it": "Radiatore motore per una station di dimostrazione."
+      "fr": "Radiateur moteur pour break d'exemple.",
+      "en": "Engine radiator for an example estate.",
+      "de": "Motorkühler für einen Beispiel-Kombi.",
+      "es": "Radiador de motor para un familiar de ejemplo.",
+      "it": "Radiatore motore per una station di esempio."
     },
     "description": {
-      "fr": "Radiateur de démonstration, dimensions fictives, expédié par un partenaire. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration radiator, fictional dimensions, shipped by a partner. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrationskühler, fiktive Maße, Partnerversand. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Radiador de demostración, medidas ficticias, envío de un socio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Radiatore di dimostrazione, misure fittizie, spedizione partner. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Radiateur d'exemple, dimensions fictives, expédié par un partenaire. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example radiator, fictional dimensions, shipped by a partner. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispielkühler, fiktive Maße, Partnerversand. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Radiador de ejemplo, medidas ficticias, envío de un socio. Características ficticias, sin garantía de montaje real.",
+      "it": "Radiatore di esempio, misure fittizie, spedizione partner. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2833,9 +2833,9 @@
   {
     "id": "ex-1025",
     "slug": "thermostat-exemple",
-    "sku": "GLT-DEMO-1025",
+    "sku": "GLT-1025",
     "oem": "EX-OEM-100025",
-    "demo": true,
+    "fictional": true,
     "category": "refroidissement",
     "art": "thermostat",
     "priceTtc": 29.5,
@@ -2860,11 +2860,11 @@
       "it": "Termostato con guarnizione, soglia fittizia."
     },
     "description": {
-      "fr": "Thermostat de démonstration en stock, température d’ouverture fictive. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration thermostat in stock, fictional opening temperature. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrationsthermostat, lagernd, fiktive Öffnungstemperatur. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Termostato de demostración en stock, temperatura de apertura ficticia. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Termostato di dimostrazione a stock, temperatura di apertura fittizia. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Thermostat d'exemple en stock, température d’ouverture fictive. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example thermostat in stock, fictional opening temperature. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispielthermostat, lagernd, fiktive Öffnungstemperatur. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Termostato de ejemplo en stock, temperatura de apertura ficticia. Características ficticias, sin garantía de montaje real.",
+      "it": "Termostato di esempio a stock, temperatura di apertura fittizia. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -2958,9 +2958,9 @@
   {
     "id": "ex-1026",
     "slug": "huile-moteur-5w30-exemple",
-    "sku": "GLT-DEMO-1026",
+    "sku": "GLT-1026",
     "oem": "EX-OEM-100026",
-    "demo": true,
+    "fictional": true,
     "category": "huiles",
     "art": "oil",
     "priceTtc": 39.9,
@@ -2985,11 +2985,11 @@
       "it": "Tanica da 5 litri, specifica fittizia."
     },
     "description": {
-      "fr": "Huile moteur de démonstration. Aucune homologation constructeur n’est revendiquée. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration engine oil. No manufacturer approval is claimed. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Motoröl. Keine Herstellerfreigabe wird behauptet. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Aceite de motor de demostración. No se alega ninguna homologación. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Olio motore di dimostrazione. Nessuna omologazione è dichiarata. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Huile moteur d'exemple. Aucune homologation constructeur n’est revendiquée. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example engine oil. No manufacturer approval is claimed. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Motoröl. Keine Herstellerfreigabe wird behauptet. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Aceite de motor de ejemplo. No se alega ninguna homologación. Características ficticias, sin garantía de montaje real.",
+      "it": "Olio motore di esempio. Nessuna omologazione è dichiarata. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -3093,9 +3093,9 @@
   {
     "id": "ex-1027",
     "slug": "liquide-frein-dot4-exemple",
-    "sku": "GLT-DEMO-1027",
+    "sku": "GLT-1027",
     "oem": "EX-OEM-100027",
-    "demo": true,
+    "fictional": true,
     "category": "huiles",
     "art": "brake-fluid",
     "priceTtc": 11.5,
@@ -3113,18 +3113,18 @@
       "it": "Liquido freni DOT 4 — esempio"
     },
     "summary": {
-      "fr": "Flacon de 1 litre, grade de démonstration.",
-      "en": "1 litre bottle, demonstration grade.",
-      "de": "1-Liter-Flasche, Demonstrationsklasse.",
-      "es": "Botella de 1 litro, grado de demostración.",
-      "it": "Flacone da 1 litro, grado di dimostrazione."
+      "fr": "Flacon de 1 litre, grade d'exemple.",
+      "en": "1 litre bottle, example grade.",
+      "de": "1-Liter-Flasche, Beispielklasse.",
+      "es": "Botella de 1 litro, grado de ejemplo.",
+      "it": "Flacone da 1 litro, grado di esempio."
     },
     "description": {
-      "fr": "Liquide de frein de démonstration. Un bidon ouvert ne serait pas repris, comme le précisera les CGV réelles. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration brake fluid. An opened bottle would not be returnable, as the future terms will state. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Bremsflüssigkeit. Eine geöffnete Flasche wäre vom Umtausch ausgenommen. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Líquido de frenos de demostración. Un envase abierto no se devolvería. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Liquido freni di dimostrazione. Una confezione aperta non sarebbe restituibile. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Liquide de frein d'exemple. Un bidon ouvert ne serait pas repris, comme le précisera les CGV réelles. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example brake fluid. An opened bottle would not be returnable, as the future terms will state. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Bremsflüssigkeit. Eine geöffnete Flasche wäre vom Umtausch ausgenommen. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Líquido de frenos de ejemplo. Un envase abierto no se devolvería. Características ficticias, sin garantía de montaje real.",
+      "it": "Liquido freni di esempio. Una confezione aperta non sarebbe restituibile. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -3218,9 +3218,9 @@
   {
     "id": "ex-1028",
     "slug": "liquide-refroidissement-exemple",
-    "sku": "GLT-DEMO-1028",
+    "sku": "GLT-1028",
     "oem": "EX-OEM-100028",
-    "demo": true,
+    "fictional": true,
     "category": "huiles",
     "art": "coolant",
     "priceTtc": 16.9,
@@ -3245,11 +3245,11 @@
       "it": "Tanica pronta all’uso, colore fittizio."
     },
     "description": {
-      "fr": "Liquide de refroidissement de démonstration, prêt à l’emploi, sans interchangeabilité réelle annoncée. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Ready-to-use demonstration coolant, with no real interchange claim. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Fertig gemischtes Demonstrations-Kühlmittel, ohne echte Mischbarkeitsaussage. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Refrigerante de demostración listo para usar, sin afirmación real de compatibilidad. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Liquido di raffreddamento di dimostrazione pronto all’uso, senza claim reale di miscibilità. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Liquide de refroidissement d'exemple, prêt à l’emploi, sans interchangeabilité réelle annoncée. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Ready-to-use example coolant, with no real interchange claim. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Fertig gemischtes Beispiel-Kühlmittel, ohne echte Mischbarkeitsaussage. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Refrigerante de ejemplo listo para usar, sin afirmación real de compatibilidad. Características ficticias, sin garantía de montaje real.",
+      "it": "Liquido di raffreddamento di esempio pronto all’uso, senza claim reale di miscibilità. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -3344,9 +3344,9 @@
   {
     "id": "ex-1029",
     "slug": "balai-essuie-glace-exemple",
-    "sku": "GLT-DEMO-1029",
+    "sku": "GLT-1029",
     "oem": "EX-OEM-100029",
-    "demo": true,
+    "fictional": true,
     "category": "accessoires",
     "art": "wiper",
     "priceTtc": 19.9,
@@ -3371,11 +3371,11 @@
       "it": "Spazzola anteriore lato guida, lunghezza fittizia."
     },
     "description": {
-      "fr": "Balai d’essuie-glace de démonstration, en stock, avec attache universelle fictive. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration wiper blade, in stock, with a fictional universal connector. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Wischerblatt, lagernd, mit fiktivem Universaladapter. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Escobilla de demostración, en stock, con anclaje universal ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Spazzola di dimostrazione, a stock, con attacco universale fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Balai d’essuie-glace d'exemple, en stock, avec attache universelle fictive. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example wiper blade, in stock, with a fictional universal connector. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Wischerblatt, lagernd, mit fiktivem Universaladapter. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Escobilla de ejemplo, en stock, con anclaje universal ficticio. Características ficticias, sin garantía de montaje real.",
+      "it": "Spazzola di esempio, a stock, con attacco universale fittizio. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {
@@ -3479,9 +3479,9 @@
   {
     "id": "ex-1030",
     "slug": "tapis-de-sol-exemple",
-    "sku": "GLT-DEMO-1030",
+    "sku": "GLT-1030",
     "oem": "EX-OEM-100030",
-    "demo": true,
+    "fictional": true,
     "category": "accessoires",
     "art": "mat",
     "priceTtc": 34,
@@ -3506,11 +3506,11 @@
       "it": "Set di tappetini in gomma, forma fittizia."
     },
     "description": {
-      "fr": "Tapis de sol de démonstration, jeu avant et arrière, pour un véhicule fictif. Fiche de démonstration : caractéristiques fictives, aucun montage réel n'est garanti.",
-      "en": "Demonstration floor mats, front and rear set, for a fictional vehicle. Demonstration sheet: fictional specifications, no real-world fitment is claimed.",
-      "de": "Demonstrations-Fußmatten, Satz vorn und hinten, für ein fiktives Fahrzeug. Demonstrationsblatt: erfundene Merkmale, keine Aussage zur echten Passform.",
-      "es": "Alfombrillas de demostración, juego delantero y trasero, para un vehículo ficticio. Ficha de demostración: características ficticias, sin garantía de montaje real.",
-      "it": "Tappetini di dimostrazione, set anteriore e posteriore, per un veicolo fittizio. Scheda dimostrativa: caratteristiche fittizie, nessun montaggio reale è garantito."
+      "fr": "Tapis de sol d'exemple, jeu avant et arrière, pour un véhicule fictif. Caractéristiques fictives, aucun montage réel n'est garanti.",
+      "en": "Example floor mats, front and rear set, for a fictional vehicle. Fictional specifications, no real-world fitment is claimed.",
+      "de": "Beispiel-Fußmatten, Satz vorn und hinten, für ein fiktives Fahrzeug. Erfundene Merkmale, keine Aussage zur echten Passform.",
+      "es": "Alfombrillas de ejemplo, juego delantero y trasero, para un vehículo ficticio. Características ficticias, sin garantía de montaje real.",
+      "it": "Tappetini di esempio, set anteriore e posteriore, per un veicolo fittizio. Caratteristiche fittizie, nessun montaggio reale è garantito."
     },
     "specs": [
       {

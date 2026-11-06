@@ -77,7 +77,6 @@ export function ProductPage() {
         <div className="gallery">
           <div className="art-wrap art-wrap--pdp" data-cat={product.category}>
             <PartArt art={product.art} category={product.category} title={product.name[locale]} variant={view} />
-            <span className="demo-flag">{t('demoKicker')}</span>
           </div>
           <div className="gallery__thumbs" role="tablist" aria-label={product.name[locale]}>
             {views.map((item) => (

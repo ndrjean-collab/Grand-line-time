@@ -495,19 +495,6 @@ textarea { min-height: 140px; resize: vertical; }
 .art { width: 100%; height: 100%; display: block; color: #243036; }
 .art .stroke-accent { stroke: #c4622d; }
 .art .fill-accent { fill: #c4622d; stroke: none; }
-.demo-flag {
-  position: absolute;
-  top: 0.7rem;
-  left: 0.7rem;
-  background: #12161a;
-  color: #f6f1e7;
-  font-size: 0.68rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  border-radius: 999px;
-  padding: 0.28rem 0.48rem;
-}
-
 .art-wrap[data-cat='freinage'], .art[data-cat='freinage'] { background: linear-gradient(160deg, #fbf4ee, #f0d2c3); }
 .art-wrap[data-cat='filtration'], .art[data-cat='filtration'] { background: linear-gradient(160deg, #f4f7f8, #d5e3ea); }
 .art-wrap[data-cat='moteur'], .art[data-cat='moteur'] { background: linear-gradient(160deg, #f8f3f1, #ead6d2); }

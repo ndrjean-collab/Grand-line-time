@@ -44,16 +44,19 @@ for (const product of products) {
     if (!product[key] || seen[key].has(product[key])) errors.push(`duplicate or empty ${key}: ${product[key]}`)
     seen[key].add(product[key])
   }
-  if (product.demo !== true) errors.push(`${product.id} must be marked demo: true`)
+  if (product.fictional !== true) errors.push(`${product.id} must be marked fictional: true`)
   if (!categoryIds.has(product.category)) errors.push(`${product.id} unknown category ${product.category}`)
   if (!artIds.has(product.art)) errors.push(`${product.id} unknown art ${product.art}`)
   if (typeof product.priceTtc !== 'number' || product.priceTtc <= 0) errors.push(`${product.id} bad price`)
-  if (product.vatRate !== 0.2) errors.push(`${product.id} vatRate must be the demonstration 0.2`)
+  if (product.vatRate !== 0.2) errors.push(`${product.id} vatRate must stay at the example rate 0.2`)
   if (product.fulfillment !== 'stock' && product.fulfillment !== 'partner') {
     errors.push(`${product.id} bad fulfillment`)
   }
   if (product.leadMin < 1 || product.leadMax < product.leadMin) errors.push(`${product.id} bad lead time`)
-  if (!product.sku.startsWith('GLT-DEMO-')) errors.push(`${product.id} sku must start with GLT-DEMO-`)
+  if (!product.sku.startsWith('GLT-')) errors.push(`${product.id} sku must start with GLT-`)
+  if (/d[eé]mo|demonstration|demostraci|dimostrazi|vorführung/i.test(JSON.stringify(product))) {
+    errors.push(`${product.id} still contains a forbidden catalogue label`)
+  }
   if (!product.oem.startsWith('EX-OEM-')) errors.push(`${product.id} oem must start with EX-OEM-`)
   loc(product.name, `${product.id}.name`)
   loc(product.summary, `${product.id}.summary`)
@@ -64,7 +67,7 @@ for (const product of products) {
     loc(spec.value, `${product.id}.specs[${index}].value`)
   }
   if (!Array.isArray(product.compatibility) || product.compatibility.length === 0) {
-    errors.push(`${product.id} needs demonstration compatibility`)
+    errors.push(`${product.id} needs example compatibility`)
   }
   for (const fit of product.compatibility ?? []) {
     const make = vehicleById.get(fit.make)
@@ -98,4 +101,4 @@ if (errors.length) {
   process.exit(1)
 }
 
-console.log(`Catalogue OK: ${products.length} demonstration products, ${vehicles.length} fictional makes.`)
+console.log(`Catalogue OK: ${products.length} example products, ${vehicles.length} fictional makes.`)

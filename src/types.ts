@@ -22,7 +22,7 @@ export interface Product {
   slug: string
   sku: string
   oem: string
-  demo: boolean
+  fictional: boolean
   category: string
   art: string
   priceTtc: number

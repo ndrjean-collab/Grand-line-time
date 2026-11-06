@@ -60,8 +60,8 @@ export const aboutDoc: InfoDoc = {
     },
     {
       kind: 'h2',
-      id: 'demonstration',
-      text: L('Cette vitrine est une démonstration', 'This storefront is a demonstration', 'Diese Vitrine ist eine Demonstration', 'Esta vitrina es una demostración', 'Questa vetrina è una dimostrazione'),
+      id: 'vitrine',
+      text: L('Ce que propose cette vitrine', 'What this storefront offers', 'Was diese Vitrine bietet', 'Qué ofrece esta vitrina', 'Cosa offre questa vetrina'),
     },
     {
       kind: 'callout',
@@ -124,18 +124,18 @@ export const deliveryDoc: InfoDoc = {
       kind: 'ul',
       items: [
         L(
-          'En stock : départ du stock de la société. Délai de démonstration : 2 à 4 jours ouvrés.',
-          'In stock: leaves company stock. Demonstration lead time: 2 to 4 working days.',
-          'Auf Lager: Versand aus dem Lager der Gesellschaft. Demonstrationsfrist: 2 bis 4 Werktage.',
-          'En stock: sale del stock de la sociedad. Plazo de demostración: 2 a 4 días laborables.',
-          'Disponibile: parte dallo stock della società. Tempo dimostrativo: 2–4 giorni lavorativi.',
+          'En stock : départ du stock de la société. Délai indiqué : 2 à 4 jours ouvrés.',
+          'In stock: leaves company stock. Stated lead time: 2 to 4 working days.',
+          'Auf Lager: Versand aus dem Lager der Gesellschaft. Angegebene Frist: 2 bis 4 Werktage.',
+          'En stock: sale del stock de la sociedad. Plazo indicado: 2 a 4 días laborables.',
+          'Disponibile: parte dallo stock della società. Tempo indicato: 2–4 giorni lavorativi.',
         ),
         L(
-          'Partenaire : envoi direct chez vous. Délai de démonstration : 5 à 8 jours ouvrés. Le colis peut arriver séparément du reste de la commande.',
-          'Partner: shipped straight to you. Demonstration lead time: 5 to 8 working days. The parcel may arrive separately from the rest of the order.',
-          'Partner: Direktversand an Sie. Demonstrationsfrist: 5 bis 8 Werktage. Das Paket kann getrennt vom Rest der Bestellung ankommen.',
-          'Socio: envío directo a su domicilio. Plazo de demostración: 5 a 8 días laborables. El paquete puede llegar aparte del resto del pedido.',
-          'Partner: spedizione diretta a lei. Tempo dimostrativo: 5–8 giorni lavorativi. Il collo può arrivare separato dal resto dell’ordine.',
+          'Partenaire : envoi direct chez vous. Délai indiqué : 5 à 8 jours ouvrés. Le colis peut arriver séparément du reste de la commande.',
+          'Partner: shipped straight to you. Stated lead time: 5 to 8 working days. The parcel may arrive separately from the rest of the order.',
+          'Partner: Direktversand an Sie. Angegebene Frist: 5 bis 8 Werktage. Das Paket kann getrennt vom Rest der Bestellung ankommen.',
+          'Socio: envío directo a su domicilio. Plazo indicado: 5 a 8 días laborables. El paquete puede llegar aparte del resto del pedido.',
+          'Partner: spedizione diretta a lei. Tempo indicato: 5–8 giorni lavorativi. Il collo può arrivare separato dal resto dell’ordine.',
         ),
       ],
     },
@@ -276,11 +276,11 @@ export const termsDoc: InfoDoc = {
     {
       kind: 'p',
       text: L(
-        'Elles décriront la vente de pièces automobiles neuves par [RAISON SOCIALE], [FORME JURIDIQUE], dont le siège est [ADRESSE], aux consommateurs et, le cas échéant, aux professionnels. Le catalogue affiché aujourd’hui est une démonstration.',
-        'They will describe the sale of new automotive parts by [COMPANY NAME], [LEGAL FORM], registered office [ADDRESS], to consumers and, where relevant, to professionals. The catalogue shown today is a demonstration.',
-        'Sie werden den Verkauf neuer Fahrzeugteile durch [FIRMENNAME], [RECHTSFORM], Sitz [ADRESSE], an Verbraucher und gegebenenfalls Gewerbekunden beschreiben. Der heutige Katalog ist eine Demonstration.',
-        'Describirán la venta de recambios nuevos por [RAZÓN SOCIAL], [FORMA JURÍDICA], domicilio [DIRECCIÓN], a consumidores y, en su caso, a profesionales. El catálogo de hoy es una demostración.',
-        'Descriveranno la vendita di ricambi nuovi da parte di [RAGIONE SOCIALE], [FORMA GIURIDICA], sede [INDIRIZZO], a consumatori e, se del caso, a professionisti. Il catalogo di oggi è una dimostrazione.',
+        'Elles décriront la vente de pièces automobiles neuves par [RAISON SOCIALE], [FORME JURIDIQUE], dont le siège est [ADRESSE], aux consommateurs et, le cas échéant, aux professionnels. Le catalogue affiché aujourd’hui est un jeu d’exemples fictifs.',
+        'They will describe the sale of new automotive parts by [COMPANY NAME], [LEGAL FORM], registered office [ADDRESS], to consumers and, where relevant, to professionals. The catalogue shown today is a set of fictional examples.',
+        'Sie werden den Verkauf neuer Fahrzeugteile durch [FIRMENNAME], [RECHTSFORM], Sitz [ADRESSE], an Verbraucher und gegebenenfalls Gewerbekunden beschreiben. Der heutige Katalog ist eine Sammlung fiktiver Beispiele.',
+        'Describirán la venta de recambios nuevos por [RAZÓN SOCIAL], [FORMA JURÍDICA], domicilio [DIRECCIÓN], a consumidores y, en su caso, a profesionales. El catálogo de hoy es un conjunto de ejemplos ficticios.',
+        'Descriveranno la vendita di ricambi nuovi da parte di [RAGIONE SOCIALE], [FORMA GIURIDICA], sede [INDIRIZZO], a consumatori e, se del caso, a professionisti. Il catalogo di oggi è un insieme di esempi fittizi.',
       ),
     },
     {

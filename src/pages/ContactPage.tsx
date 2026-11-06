@@ -34,7 +34,6 @@ export function ContactPage() {
   return (
     <div className="container page contact">
       <header className="page-hero">
-        <p className="eyebrow">{t('demoKicker')}</p>
         <h1>{t('contactTitle')}</h1>
         <p>{t('contactLede')}</p>
       </header>

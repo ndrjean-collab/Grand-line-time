@@ -14,7 +14,6 @@ export function ProductCard({ product }: { product: Product }) {
       <Link to={`/produit/${product.slug}`} className="pcard__link">
         <div className="art-wrap" data-cat={product.category}>
           <PartArt art={product.art} category={product.category} title={product.name[locale]} caption={false} />
-          <span className="demo-flag">{t('demoKicker')}</span>
         </div>
         <div className="pcard__body">
           <p className="eyebrow">{cat ? t(cat.title) : product.category}</p>

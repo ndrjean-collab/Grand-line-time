@@ -23,7 +23,6 @@ export function CartPage() {
   return (
     <div className="container page">
       <header className="page-hero">
-        <p className="eyebrow">{t('demoKicker')}</p>
         <h1>{t('cartTitle')}</h1>
       </header>
       {detailed.length === 0 ? (

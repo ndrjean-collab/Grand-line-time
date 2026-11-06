@@ -21,7 +21,6 @@ export function InfoPage({ id }: { id: DocId }) {
 
   return (
     <article className="container page prose">
-      <p className="eyebrow">{t('demoKicker')}</p>
       <h1>{doc.title[locale]}</h1>
       <p className="lede">{doc.lede[locale]}</p>
       {doc.blocks.map((block, index) => {

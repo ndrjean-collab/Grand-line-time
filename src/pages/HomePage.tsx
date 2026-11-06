@@ -68,7 +68,6 @@ export function HomePage() {
         <div className="container">
           <div className="section__head">
             <div>
-              <p className="eyebrow">{t('demoKicker')}</p>
               <h2>{t('catTitle')}</h2>
               <p>{t('catLede')}</p>
             </div>
@@ -119,7 +118,6 @@ export function HomePage() {
         <div className="container">
           <div className="section__head">
             <div>
-              <p className="eyebrow">{t('demoKicker')}</p>
               <h2>{t('bestTitle')}</h2>
               <p>{t('bestLede')}</p>
             </div>

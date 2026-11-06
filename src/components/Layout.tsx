@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { Link, Outlet, useLocation } from 'react-router-dom'
+import { Outlet, useLocation } from 'react-router-dom'
 import { useI18n } from '../i18n/I18nProvider'
 import { CookieBanner } from './CookieBanner'
 import { Footer } from './Footer'
@@ -25,12 +25,6 @@ export function Layout() {
       <a className="skip" href="#contenu">
         {t('a11ySkip')}
       </a>
-      <div className="topbar">
-        <p>
-          {t('demoBanner')}{' '}
-          <Link to="/a-propos#demonstration">{t('demoBannerLink')}</Link>
-        </p>
-      </div>
       <Header />
       <main id="contenu">
         <Outlet />

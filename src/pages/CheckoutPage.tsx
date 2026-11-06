@@ -67,7 +67,6 @@ export function CheckoutPage() {
   return (
     <div className="container page">
       <header className="page-hero">
-        <p className="eyebrow">{t('demoKicker')}</p>
         <h1>{t('checkoutTitle')}</h1>
       </header>
       <p className="callout">{t('checkoutBanner')}</p>
