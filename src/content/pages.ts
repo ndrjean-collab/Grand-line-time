@@ -66,11 +66,11 @@ export const aboutDoc: InfoDoc = {
     {
       kind: 'callout',
       text: L(
-        'Les trente pièces, leurs prix, leurs stocks et leurs compatibilités sont fictifs. Aucun montage réel n’est garanti. Le paiement n’est pas branché. Le domaine grandlinetime.com est envisagé et n’est pas encore enregistré.',
-        'The thirty parts, their prices, stock and fitment are fictional. No real installation is guaranteed. Payment is not connected. The domain grandlinetime.com is planned and is not registered yet.',
-        'Die dreißig Teile, ihre Preise, Bestände und Passungen sind erfunden. Kein echter Einbau wird zugesichert. Die Zahlung ist nicht angebunden. Die Domain grandlinetime.com ist geplant und noch nicht registriert.',
-        'Las treinta piezas, sus precios, stocks y compatibilidades son ficticios. No se garantiza ningún montaje real. El pago no está conectado. El dominio grandlinetime.com está previsto y aún no está registrado.',
-        'I trenta ricambi, i prezzi, le disponibilità e le compatibilità sono fittizi. Nessun montaggio reale è garantito. Il pagamento non è collegato. Il dominio grandlinetime.com è previsto e non è ancora registrato.',
+        'Les trente pièces, leurs prix, leurs stocks et leurs compatibilités sont fictifs. Aucun montage réel n’est garanti. Le paiement n’est pas branché. Le site est publié sur grandlinetime.com.',
+        'The thirty parts, their prices, stock and fitment are fictional. No real installation is guaranteed. Payment is not connected. The site is published at grandlinetime.com.',
+        'Die dreißig Teile, ihre Preise, Bestände und Passungen sind erfunden. Kein echter Einbau wird zugesichert. Die Zahlung ist nicht angebunden. Die Website ist unter grandlinetime.com veröffentlicht.',
+        'Las treinta piezas, sus precios, stocks y compatibilidades son ficticios. No se garantiza ningún montaje real. El pago no está conectado. El sitio está publicado en grandlinetime.com.',
+        'I trenta ricambi, i prezzi, le disponibilità e le compatibilità sono fittizi. Nessun montaggio reale è garantito. Il pagamento non è collegato. Il sito è pubblicato su grandlinetime.com.',
       ),
     },
     {
@@ -413,11 +413,11 @@ export const legalDoc: InfoDoc = {
     {
       kind: 'p',
       text: L(
-        'Le nom envisagé est grandlinetime.com. Il n’est pas encore enregistré. Aucun cookie publicitaire n’est déposé par cette vitrine.',
-        'The planned name is grandlinetime.com. It is not registered yet. This storefront sets no advertising cookies.',
-        'Der geplante Name ist grandlinetime.com. Er ist noch nicht registriert. Diese Vitrine setzt keine Werbe-Cookies.',
-        'El nombre previsto es grandlinetime.com. Aún no está registrado. Esta vitrina no instala cookies publicitarias.',
-        'Il nome previsto è grandlinetime.com. Non è ancora registrato. Questa vetrina non imposta cookie pubblicitari.',
+        'Le site est publié à l’adresse grandlinetime.com. Aucun cookie publicitaire n’est déposé par cette vitrine.',
+        'The site is published at grandlinetime.com. This storefront sets no advertising cookies.',
+        'Die Website ist unter grandlinetime.com veröffentlicht. Diese Vitrine setzt keine Werbe-Cookies.',
+        'El sitio está publicado en grandlinetime.com. Esta vitrina no instala cookies publicitarias.',
+        'Il sito è pubblicato su grandlinetime.com. Questa vetrina non imposta cookie pubblicitari.',
       ),
     },
   ],

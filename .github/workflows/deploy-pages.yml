@@ -32,10 +32,8 @@ jobs:
 
       - name: Build
         run: npm run build
-        env:
-          # Project site: https://<user>.github.io/Grand-line-time/
-          # For a custom domain at the root, build without VITE_BASE_PATH.
-          VITE_BASE_PATH: /Grand-line-time/
+        # Custom domain grandlinetime.com is served at the site root.
+        # Do not set VITE_BASE_PATH (Vite base stays "/").
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

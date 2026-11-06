@@ -250,11 +250,11 @@ export const copy = {
   footerLegal: L('Informations', 'Information', 'Informationen', 'Información', 'Informazioni'),
   footerCompany: L('Société', 'Company', 'Unternehmen', 'Sociedad', 'Società'),
   footerDomain: L(
-    'Domaine envisagé : grandlinetime.com — pas encore enregistré.',
-    'Planned domain: grandlinetime.com — not registered yet.',
-    'Geplante Domain: grandlinetime.com — noch nicht registriert.',
-    'Dominio previsto: grandlinetime.com — aún no registrado.',
-    'Dominio previsto: grandlinetime.com — non ancora registrato.',
+    'Site : grandlinetime.com',
+    'Site: grandlinetime.com',
+    'Website: grandlinetime.com',
+    'Sitio: grandlinetime.com',
+    'Sito: grandlinetime.com',
   ),
   footerRights: L(
     '© {year} Grand Line Time — [RAISON SOCIALE]. Tous droits réservés.',
